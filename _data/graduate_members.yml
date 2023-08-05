@@ -1,11 +1,3 @@
-- name: Dr. Shibiao Wan
-  photo: wan.png
-  info: Associate professor
-  email: swan@unmc.edu
-  number_educ: 2
-  education1: PhD, Bioinformatics and Machine Learning, Department of Electronic and Information Engineering, <a href="http://www.polyu.edu.hk/cpa/polyu/index.php">The Hong Kong Polytechnic University</a>, Hong Kong SAR, 2010 - 2014.
-  education2: Bachelor of Engineering, Communication Engineering, Department of Electronic Information, <a href="http://www.whu.edu.cn/index.html">Wuhan University</a>, China, 2006 - 2010.
-
 - name: Lusheng Li
   photo: lusheng.jpg
   info: Graduate Student
