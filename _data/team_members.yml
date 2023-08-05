@@ -6,83 +6,28 @@
   education1: PhD, Bioinformatics and Machine Learning, Department of Electronic and Information Engineering, <a href="http://www.polyu.edu.hk/cpa/polyu/index.php">The Hong Kong Polytechnic University</a>, Hong Kong SAR, 2010 - 2014.
   education2: Bachelor of Engineering, Communication Engineering, Department of Electronic Information, <a href="http://www.whu.edu.cn/index.html">Wuhan University</a>, China, 2006 - 2010.
 
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
-
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+- name: Lusheng Li
+  photo: lusheng.jpg
+  info: Graduate Student
+  email: lli@unmc.edu
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: MSc in Applied Genomics, Imperial College London, 2022
+  education2: BSc in Agronomy, China Agricultural University, 2020
 
-- name: Jinwon Lee
-  photo: Jinwon.jpg
-  info: Postdoc, started July 2021
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD fellowship
-  education3:
-  education4:
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+- name: Hanyu Xiao
+  photo: hanyu.jpg
+  info: Graduate Student
+  email: haxiao@unmc.edu
   number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
+  education1: BSc in biological science, Huazhong University of Science and Technology, China, 2023
 
-- name: Ilse Kuijf
-  photo: ilse.jpeg
-  info: Shared PhD student in the [van Nieuwenburg group](https://evert.info), working with us
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University
+- name: Mengtao Sun
+  photo: mengtao.jpg
+  info: Graduate Student
+  email: msun@unmc.edu
+  number_educ: 2
+  education1: MSc in Public Health, Soochow University, China, 2023
+  education2: BSc in Sanitary Inspection and Quarantine, Wannan Medical College, China, 2020
 
 - name: "This could be you !"
   photo: rock.jpg
