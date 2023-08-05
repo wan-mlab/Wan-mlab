@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -132,7 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+## Intern Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
