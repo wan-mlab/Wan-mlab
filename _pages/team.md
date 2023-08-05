@@ -15,7 +15,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.pi %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -80,7 +80,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Graduate Students
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.graduate_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -135,7 +135,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 ## Intern Students
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.intern_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -165,7 +165,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former visitors
 <div class="row">
 
 <div class="col-sm-4 clearfix">
