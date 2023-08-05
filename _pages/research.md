@@ -1,46 +1,36 @@
 ---
-title: "Allan Lab - Research"
+title: "Wan-mlab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Wan-mlab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+### Single cell analysis
+As one of the most essential and far-reaching technologies in recent decades, single-cell sequencing has been selected as “Method of the Year” by Nature Methods three times, namely single-cell sequencing for 2013, single-cell multimodal omics for 2019 and spatial transcriptomics for 2020. By enabling profiling at the individual-cell level, single-cell sequencing enables researchers to characterize novel cell types and interrogate intra-population heterogeneity. Given the rich information single cell data reveal, there are many challenges related to single cell analysis that remain to be addressed, including but not limited to, clustering, batch effect correction, multi-modal data integration, trajectory inference, RNA velocity, etc. Our laboratory has made some contributions to the topic of clustering, where I proposed the first computational model (i.e., SHARP) that is capable of processing 10-million cells for single-cell data analysis fast and accurately. The remaining challenges are a major focus in our lab.
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+### Multi-omics analysis
+The integration of multi-omics including genomics, transcriptomics, epigenetics, proteomics, metabolomics and interactomics in both bulk and single cell data, can contribute to pinpointing biomarkers of disease and physiology, and to deciphering mechanisms of associations among genotypes, phenotypes and envirotypes. Commonly, conventional models first analyze each type of omics data independently and then leverage potential (yet perhaps weak) connections among them. These models heavily rely manual interventions and different persons might yield different interpretations. To overcome these problems, our laboratory will develop computational models to automatically learn heterogeneous multi-omics data. For example, some potential machine learning algorithms include multi-kernel learning, co-learning, multimodal representation, and joint representation. The first two categories of models simultaneously learn the informative features from the multi- omics data, whereas the latter two categories automate the representations of multi-omics data in the same feature space. For single-cell multi-omics data, we can also combine our existing machine learning models to deal with high-dimensionality and big-data problems.
 
-Here are some themes and techniques that we currently work on:
+### Spatial transcriptomics
+In spatial transcriptomics, elucidating single-cell heterogeneity while also retaining the spatial information is crucial for understanding key aspects of cell development and differentiation, cell- cell interaction, tumorigenesis, and cancer progression, etc. Spatial transcriptomics has also been used to determine subcellular localization of mRNA molecules, which is highly related to my previous research on protein subcellular localization. More importantly, with the coupling of spatial transcriptomics and single cell sequencing, we anticipate multimodal spatial profiling of transcriptome, genome, and proteome simultaneously. Given that both sequencing and imaging data were generated in spatial transcriptomics, we believe computational models can play significant roles in spatial transcriptomics. Our laboratory leverages machine learning and bioinformatics methods to tackle these problems.
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+### Machine learning for intelligent healthcare and precision medicine
+With the explosion of heterogeneous and big data in biology and medicine, machine learning has become an essential tool for cancer research, disease diagnostics, therapeutic development, and drug discovery. In addition to the omics data, our laboratory is also interested in tackling other basic, translational and clinical data in various data formats (e.g., sequencing, electronic health records, images, etc) by artificial intelligence, machine learning and data science methods to facilitate intelligent healthcare and precision medicine. By establishing extensive collaborations with clinicians, doctors, radiologists and pathologists, we develop and/or leverage computational models to help unravel the mechanisms of pathogenesis, tumorigenesis, disease diagnosis and prognosis, treatment design and drug discovery.
 
-
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
-
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
-
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
-
-We also detected and investigated a quite particular YSR state in the same material.
-
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
-
-
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
-
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
-
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+### Ongoing RESEARCH PROJECTS
+Projects in Wan-mlab focus on develop machine learning and bioinformatics based methods for single cell analysis, multi-omics analysis, spatial transcriptomics, cancer research, intelligent healthcare, and precision medicine.
+1. Single Cell Analysis
+   Ultra-large-scale clustering for single cell transcriptomics data analysis
+   Single Cell Multi-Omics Integration
+   Rare cell type detection for large-scale single cell data
+2. Leukemia Subtype Identification
+3. Rare cell type detection for large-scale single cell data
+4. Neuroimaging Biomarker Identification for Alcohol Use Disorder (AUD)
+5. Integrating Multi-Omics and Imaging Data for Parkinson Disease Diagnosis
+6. Prostate Cancer Research
+7. Prostate Cancer Research
 
 ### ... and more.
