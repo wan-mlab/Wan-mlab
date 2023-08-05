@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+The **Wan-mlab** is focusing on bioinformatics, machine learning and computational biology, especially in single-cell analysis, multi-omics analysis, spatial transcriptomics and machine learning for processing large-scale biological data. To unravel the mechanisms of molecular biological systems in which enormous amounts of heterogeneous data are usually involved, bioinformatics and machine learning are perfect tools. Besides collaborating with scientists in cancer biology, metabolism, immunology, pathology and developmental biology, our laboratory is mainly to develop artificial intelligence, machine learning and/or data science-based methods to tackle essential biomedical problems in genomics, transcriptomics, epigenetics, proteomics, metabolomics, and interactomes.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
