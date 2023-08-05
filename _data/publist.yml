@@ -1,70 +1,68 @@
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
+- title: "Bioinformatics Analysis of Omics Data for Biomarker Identification in Clinical Research, Volume II"
+  image: 
+  description: 
+  authors: Bioinformatics Analysis of Omics Data for Biomarker Identification in Clinical Research, Volume II
   link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
-  highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
+    url: https://www.frontiersin.org/articles/10.3389/fgene.2023.1256468/full
+    display: Frontiers in Genetics 14, 1256468
+  highlight: 0
+  news2: 
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "USP1 expression driven by EWS:: FLI1 transcription factor stabilizes Survivin and mitigates replication stress in Ewing sarcoma"
+  image: 
+  description: 
+  authors: Halle J Mallard, Shibiao Wan, Prakriti Nidhi, Yvan D Hanscom-Trofy, Bhopal Mohapatra, Nicholas T Woods, Jose Antonio Lopez-Guerrero, Antonio Llombart-Bosch, Isidro Machado, Katia Scotlandi, Natasha F Kreiling, Megan C Perry, Sameer Mirza, Donald W Coulter, Vimla Band, Hamid Band, Gargi Ghosal
   link:
-    url: https://arxiv.org/abs/2306.02397
-    display: arXiv
+    url: https://aacrjournals.org/mcr/article/doi/10.1158/1541-7786.MCR-23-0323/727904
+    display: Molecular Cancer Research
   highlight: 0
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+- title: "Embedded bioprinting of breast tumor cells and organoids using low concentration collagen based bioinks"
+  image: 
+  authors: Wen Shi, Sameer Mirza, Mitchell Kuss, Bo Liu, Andrew Hartin, Shibiao Wan, Yunfan Kong, Bhopal Mohapatra, Mena Krishnan, Hamid Band, Vimla Band, Bin Duan
+  description: 
   link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
-  highlight: 1
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202300905
+    display: Advanced Healthcare Materials, 2300905
+  highlight: 0
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Etiology of oncogenic fusions in 5,190 childhood cancers and its clinical and therapeutic implication"
+  image: 
+  description:
+  authors: Yanling Liu, Jonathon Klein, Richa Bajpai, Li Dong, Quang Tran, Pandurang Kolekar, Jenny L Smith, Rhonda E Ries, Benjamin J Huang, Yi-Cheng Wang, Todd A Alonzo, Liqing Tian, Heather L Mulder, Timothy I Shaw, Jing Ma, Michael P Walsh, Guangchun Song, Tamara Westover, Robert J Autry, Alexander M Gout, David A Wheeler, Shibiao Wan, Gang Wu, Jun J Yang, William E Evans, Mignon Loh, John Easton, Jinghui Zhang, Jeffery M Klco, Soheil Meshinchi, Patrick A Brown, Shondra M Pruett-Miller, Xiaotu Ma
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+    url: https://www.nature.com/articles/s41467-023-37438-4
+    display: Nature Communications 14 (1), 1739
+  highlight: 0
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Ferroptosis as a novel therapeutic target for inflammation-related diseases"
+  image:
+  description:
+  authors: Y Liang, Z Su, X Mao, S Wan, L Luo
   link:
-    url: https://www.nature.com/articles/s41467-021-27646-1
-    display:  Nat Comm 13, 70 (2022)
+    url: https://www.frontiersin.org/articles/10.3389/fphar.2023.1152326/full
+    display:  Frontiers in Pharmacology 14, 1152326
   highlight: 0
   news2:
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "Single cell meets metabolism and cancer biology"
+  image: 
+  description: 
+  authors: J Wang, S Wan
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153 (2021)
-  highlight: 1
-  news2: See also [Nat Comm with the group of van der Molen](https://arxiv.org/abs/2107.14716)
+    url: https://www.frontiersin.org/articles/10.3389/fonc.2023.1125186/full
+    display:  Frontiers in Oncology 13, 1125186
+  highlight: 0
+  news2:
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
+- title: "Alzheimer’s disease-associated U1 snRNP splicing dysfunction causes neuronal hyperexcitability and cognitive impairment"
+  image: 
+  description: 
+  authors: 
   link:
-    url: https://www.nature.com/articles/s41467-020-20529-x
-    display:  Nature Communications 12, 298 (2021)
-  highlight: 1
+    url: https://www.nature.com/articles/s43587-022-00290-0
+    display:  Nature aging 2 (10), 923-940
+  highlight: 0
 
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
