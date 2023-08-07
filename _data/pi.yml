@@ -1,7 +1,9 @@
 - name: Dr. Shibiao Wan
   photo: wan.png
-  info: Associate professor
+  info: Assistant Professor<br>Assistant Director for Bioinformatics and Systems Biology Core
   email: swan@unmc.edu
   number_educ: 2
-  education1: PhD, Bioinformatics and Machine Learning, Department of Electronic and Information Engineering, <a href="http://www.polyu.edu.hk/cpa/polyu/index.php">The Hong Kong Polytechnic University</a>, Hong Kong SAR, 2010 - 2014.
-  education2: Bachelor of Engineering, Communication Engineering, Department of Electronic Information, <a href="http://www.whu.edu.cn/index.html">Wuhan University</a>, China, 2006 - 2010.
+  education1: Postdoc, University of Pennsylvania, USA, 2017-2019
+  education2: Postdoc, Princeton University, USA, 2016-2017
+  education3: PhD, The Hong Kong Polytechnic University, Hong Kong SAR, 2010 - 2014.
+  education4: Bachelor of Engineering, Wuhan University, China, 2006 - 2010.
