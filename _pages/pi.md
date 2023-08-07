@@ -34,8 +34,3 @@ Before joining UNMC, Dr. Wan was a Bioinformatics Research Scientist at <a href 
 - Excellent Scholarship (the 3-rd prize), Wuhan, China, 2007-2008;
 - The Freshmen Scholarship, Wuhan, China, 2006-2007.
 
-### TECHNICAL SKILLS
-- TECHNICAL SKILLS
-- Programming Languages: C/C++, HTML, Java, Javascript, Bash Shell, Markdown;
-- Editing: Latex, MS Office Word/PowerPoint/Excel/Publisher.
-
