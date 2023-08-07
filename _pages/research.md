@@ -31,6 +31,6 @@ Projects in Wan-mlab focus on develop machine learning and bioinformatics based 
 4. Neuroimaging Biomarker Identification for Alcohol Use Disorder (AUD)
 5. Integrating Multi-Omics and Imaging Data for Parkinson Disease Diagnosis
 6. Prostate Cancer Research
-7. Prostate Cancer Research
+7. Proteomics Data Analysis
 
 ### ... and more.
