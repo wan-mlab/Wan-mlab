@@ -1,7 +1,7 @@
 ---
 title: "Wan-mlab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Wan Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -10,7 +10,7 @@ permalink: /research/
 
 ### Single cell analysis
 As one of the most essential and far-reaching technologies in recent decades, single-cell sequencing has been selected as “Method of the Year” by Nature Methods three times, namely single-cell sequencing for 2013, single-cell multimodal omics for 2019 and spatial transcriptomics for 2020. By enabling profiling at the individual-cell level, single-cell sequencing enables researchers to characterize novel cell types and interrogate intra-population heterogeneity. Given the rich information single cell data reveal, there are many challenges related to single cell analysis that remain to be addressed, including but not limited to, clustering, batch effect correction, multi-modal data integration, trajectory inference, RNA velocity, etc. Our laboratory has made some contributions to the topic of clustering, where I proposed the first computational model (i.e., SHARP) that is capable of processing 10-million cells for single-cell data analysis fast and accurately. The remaining challenges are a major focus in our lab.
-
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/sharp.PNG){: style="width: 70%; float: center; margin: 10px"}
 ### Multi-omics analysis
 The integration of multi-omics including genomics, transcriptomics, epigenetics, proteomics, metabolomics and interactomics in both bulk and single cell data, can contribute to pinpointing biomarkers of disease and physiology, and to deciphering mechanisms of associations among genotypes, phenotypes and envirotypes. Commonly, conventional models first analyze each type of omics data independently and then leverage potential (yet perhaps weak) connections among them. These models heavily rely manual interventions and different persons might yield different interpretations. To overcome these problems, our laboratory will develop computational models to automatically learn heterogeneous multi-omics data. For example, some potential machine learning algorithms include multi-kernel learning, co-learning, multimodal representation, and joint representation. The first two categories of models simultaneously learn the informative features from the multi- omics data, whereas the latter two categories automate the representations of multi-omics data in the same feature space. For single-cell multi-omics data, we can also combine our existing machine learning models to deal with high-dimensionality and big-data problems.
 
