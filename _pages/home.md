@@ -30,7 +30,7 @@ The **Wan lab** is focusing on bioinformatics, machine learning and computationa
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sharp.PNG" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/integrated.PNG" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/st.PNG" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/multi-omics.PNG" alt="Slide 4" />
