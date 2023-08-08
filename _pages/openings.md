@@ -1,5 +1,5 @@
 ---
-title: "Wan-mlab - Vacancies"
+title: "Wan Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
