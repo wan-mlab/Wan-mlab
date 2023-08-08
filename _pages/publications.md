@@ -1,7 +1,7 @@
 ---
-title: "Wan lab - Publications"
+title: "Wan Lab - Publications"
 layout: gridlay
-excerpt: "Wan lab -- Publications."
+excerpt: "Wan Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
