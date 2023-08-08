@@ -1,7 +1,7 @@
 ---
-title: "Wan-mlab - Home"
+title: "Wan Lab - Home"
 layout: homelay
-excerpt: "Wan-mlab@UNMC."
+excerpt: "Wan Lab@UNMC."
 sitemap: false
 permalink: /
 ---
