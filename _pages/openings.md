@@ -35,6 +35,3 @@ I might establish other positions like research assistant or bioinformatics anal
 
 ### Intern Students
 Our lab has multiple projects which are good for intern students from various backgrounds, no matter you are an **undergraduate student** or a **high school student**, no matter on-site or remote. Please send an inquiry email for details.
-#<figure>
-#<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-#</figure>
