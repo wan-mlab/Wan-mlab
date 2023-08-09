@@ -3,7 +3,7 @@ title: "Wan Lab - PI"
 layout: textlay
 excerpt: "Wan Lab -- PI"
 sitemap: false
-permalink: /PI/
+permalink: /pi/
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/logos.PNG){: style="width: 90%; float: center; margin: 0px"}
