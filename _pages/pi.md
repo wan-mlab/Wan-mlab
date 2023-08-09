@@ -1,7 +1,7 @@
 ---
-title: "Wan Lab - pi"
+title: "Wan Lab - PI"
 layout: textlay
-excerpt: "Wan Lab -- pi"
+excerpt: "Wan Lab -- PI"
 sitemap: false
 permalink: /pi/
 ---
