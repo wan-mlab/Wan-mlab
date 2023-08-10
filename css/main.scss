@@ -15,7 +15,14 @@ header img {
 body {
 	padding-top: 70px;
 }
-
+.logo {
+    float: left; 
+    margin-right: 5px; 
+}
+.logo img {
+    max-width: 10px;
+    height: auto; 
+}
 figcaption {
     text-align: right;
     margin-top: -20px;
