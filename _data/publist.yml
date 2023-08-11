@@ -324,7 +324,7 @@
   link:
     url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0940-x
     display: BMC bioinformatics 17 (1), 1-17
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Benchmark data for identifying multi-functional types of membrane proteins"
@@ -368,13 +368,13 @@
   news2:
 
 - title: "Mem-mEN: predicting multi-functional types of membrane proteins by interpretable elastic nets"
-  image: 
+  image: mem-men.png
   description: 
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://ieeexplore.ieee.org/abstract/document/7229308/
     display: IEEE/ACM transactions on computational biology and bioinformatics
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Machine learning for protein subcellular localization prediction"
