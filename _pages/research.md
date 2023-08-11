@@ -28,7 +28,7 @@ Projects in Wan Lab focus on develop machine learning and bioinformatics based m
    * Batch effect correction
    * Rare cell type detection for large-scale single cell data
 2. Leukemia Subtype Identification
-3. Rare cell type detection for large-scale single cell data
+3. Antimicrobial Peptide (AMP) Identification
 4. Neuroimaging Biomarker Identification for Alcohol Use Disorder (AUD)
 5. Integrating Multi-Omics and Imaging Data for Parkinson Disease Diagnosis
 6. Prostate Cancer Research
