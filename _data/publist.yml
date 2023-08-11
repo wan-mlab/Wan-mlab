@@ -477,73 +477,42 @@
   highlight: 0
   news2:
 
-- title: "mPLR-Loc: An adaptive decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
+- title: "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
   image: 
   description: 
   authors: S Wan, MW Mak, SY Kung
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0003269714004965
-    display:  Analytical biochemistry 473, 14-27
+    url: https://link.springer.com/article/10.1186/1471-2105-13-290
+    display: BMC bioinformatics 13, 1-16
   highlight: 0
   news2:
 
-- title: "mPLR-Loc: An adaptive decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
+- title: "GOASVM: Protein subcellular localization prediction based on gene ontology annotation and SVM"
   image: 
   description: 
   authors: S Wan, MW Mak, SY Kung
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0003269714004965
-    display:  Analytical biochemistry 473, 14-27
+    url: https://ieeexplore.ieee.org/abstract/document/6288356/
+    display: 2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
   highlight: 0
   news2:
 
-- title: "mPLR-Loc: An adaptive decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
+- title: "Protein subcellular localization prediction based on profile alignment and Gene Ontology"
   image: 
   description: 
   authors: S Wan, MW Mak, SY Kung
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0003269714004965
-    display:  Analytical biochemistry 473, 14-27
+    url: https://ieeexplore.ieee.org/abstract/document/6064613/
+    display: 2011 IEEE International Workshop on Machine Learning for Signal Processing, 1-6
   highlight: 0
   news2:
 
-- title: "mPLR-Loc: An adaptive decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
+- title: "A Method of Continuous Data Flow Embedded within Speech Signals"
   image: 
   description: 
-  authors: S Wan, MW Mak, SY Kung
+  authors: S Wan, C Yao, Y Hu, G Zhang
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0003269714004965
-    display:  Analytical biochemistry 473, 14-27
+    url: https://ieeexplore.ieee.org/abstract/document/5432775/
+    display: 2010 International Conference on Signal Acquisition and Processing, 362-365
   highlight: 0
   news2:
-
-- title: "mPLR-Loc: An adaptive decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
-  image: 
-  description: 
-  authors: S Wan, MW Mak, SY Kung
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0003269714004965
-    display:  Analytical biochemistry 473, 14-27
-  highlight: 0
-  news2:
-
-- title: "mPLR-Loc: An adaptive decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
-  image: 
-  description: 
-  authors: S Wan, MW Mak, SY Kung
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0003269714004965
-    display:  Analytical biochemistry 473, 14-27
-  highlight: 0
-  news2:
-
-- title: "mPLR-Loc: An adaptive decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
-  image: 
-  description: 
-  authors: S Wan, MW Mak, SY Kung
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0003269714004965
-    display:  Analytical biochemistry 473, 14-27
-  highlight: 0
-  news2:
-  
