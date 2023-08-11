@@ -83,13 +83,13 @@
   highlight: 0
   
 - title: "The nuclear receptor ERR cooperates with the cardiogenic factor GATA4 to orchestrate cardiomyocyte maturation"
-  image: 
+  image: multi-omics.png
   description:
   authors: T. Sakamoto, K. Batmanov, S. Wan, Y. Guo, L. Lai, R. B. Vega and D. P. Kelly
   link:
     url: https://www.nature.com/articles/s41467-022-29733-3
     display: Nature Communications 13 (1), 1991
-  highlight: 0
+  highlight: 1
   news2:
 
 
@@ -110,7 +110,7 @@
   link:
     url: https://academic.oup.com/bib/article-abstract/23/2/bbac002/6523149
     display:  Briefings in Bioinformatics 23 (2), bbac002
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Special Issue on Bioinformatics and Machine Learning for Cancer Biology"
