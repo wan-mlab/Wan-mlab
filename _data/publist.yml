@@ -84,7 +84,7 @@
   
 - title: "The nuclear receptor ERR cooperates with the cardiogenic factor GATA4 to orchestrate cardiomyocyte maturation"
   image: multi-omics.png
-  description: Estrogen-related receptors (ERR) α and γ were shown recently to serve as regulators of cardiac maturation, yet the underlying mechanisms have not been delineated. Herein, we find that ERR signaling is necessary for induction of genes involved in mitochondrial and cardiac-specific contractile processes during human induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) differentiation. 
+  description:  We find that Estrogen-related receptors (ERR) signaling is necessary for induction of genes involved in mitochondrial and cardiac-specific contractile processes during human induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) differentiation. 
   authors: T. Sakamoto, K. Batmanov, S. Wan, Y. Guo, L. Lai, R. B. Vega and D. P. Kelly
   link:
     url: https://www.nature.com/articles/s41467-022-29733-3
@@ -369,7 +369,7 @@
 
 - title: "Mem-mEN: predicting multi-functional types of membrane proteins by interpretable elastic nets"
   image: mem-men.png
-  description: 
+  description: This paper proposes an efficient predictor, namely Mem-mEN, which can produce sparse and interpretable solutions for predicting membrane proteins with single- and multi-label functional types.
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://ieeexplore.ieee.org/abstract/document/7229308/
