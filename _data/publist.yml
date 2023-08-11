@@ -104,7 +104,7 @@
   news2:
   
 - title: "Improving Bulk RNA-seq Classification by Transferring Gene Signature from Single Cells in Acute Myeloid Leukemia"
-  image: 
+  image: aml.PNG
   authors: R. Wang, X. Zheng, J. Wang, S. Wan, M. H. Wong, K. S. Leung and L. Cheng
   description:
   link:
@@ -318,7 +318,7 @@
   news2:
 
 - title: "Sparse regressions for predicting and interpreting subcellular localization of multi-label proteins"
-  image: 
+  image: men.PNG
   description: 
   authors: S Wan, MW Mak, SY Kung
   link:
