@@ -110,7 +110,7 @@
   link:
     url: https://academic.oup.com/bib/article-abstract/23/2/bbac002/6523149
     display:  Briefings in Bioinformatics 23 (2), bbac002
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Special Issue on Bioinformatics and Machine Learning for Cancer Biology"
@@ -279,12 +279,12 @@
   
 - title: "FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: 
-  description: 
+  description: go.PNG
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/33/5/749/2736075
     display: Bioinformatics 33 (5), 749-750
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Ratio utility and cost analysis for privacy preserving subspace projection"
@@ -308,13 +308,13 @@
   news2:
 
 - title: "Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
-  image: 
+  image: lnp.gif
   description: 
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00686
     display: Journal of proteome research 15 (12), 4755-4762
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Sparse regressions for predicting and interpreting subcellular localization of multi-label proteins"
@@ -324,7 +324,7 @@
   link:
     url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0940-x
     display: BMC bioinformatics 17 (1), 1-17
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Benchmark data for identifying multi-functional types of membrane proteins"
@@ -478,13 +478,13 @@
   news2:
 
 - title: "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
-  image: 
+  image: mGOASVM.PNG
   description: 
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://link.springer.com/article/10.1186/1471-2105-13-290
     display: BMC bioinformatics 13, 1-16
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "GOASVM: Protein subcellular localization prediction based on gene ontology annotation and SVM"
