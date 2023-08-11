@@ -23,7 +23,7 @@ Before joining UNMC, Dr. Wan was a Bioinformatics Research Scientist at <a href 
 - Visiting scholar, The Johns Hopkins School of Medicine, MD, USA and CBIL lab of Virginia Tech, VA, USA , 2013. Supervisor: Prof. Yue Wang.
 
 ### AWARDS & HONORS
-- [EIE Outstanding Young Alumni Award](https://www.polyu.edu.hk/eie/about-us/awards-and-achievements/eie-outstanding-alumni-award/), Hong Kong SAR, China, 2021-2022;
+- EIE Outstanding Young Alumni Award, awarded by The Hong Kong Polytechnic University, 2022;
 - Top reviewers in Cross-Field (top 1%), awarded by [Clarivate](https://publons.com/awards/peer-review/2019/by-field/), 2019;
 - Top reviewers in Biology and Biochemistry (top 1%), awarded by [Clarivate](https://publons.com/awards/peer-review/2019/by-field/), 2019;
 - Brandeis Postdoctoral Fellowship, Princeton, NJ, USA, 2016-2018;
