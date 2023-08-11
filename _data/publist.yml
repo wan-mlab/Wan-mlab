@@ -278,8 +278,8 @@
   news2:
   
 - title: "FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
-  image: 
-  description: go.PNG
+  image: go.PNG
+  description: 
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/33/5/749/2736075
