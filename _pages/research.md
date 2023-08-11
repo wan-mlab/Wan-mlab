@@ -21,6 +21,10 @@ In spatial transcriptomics, elucidating single-cell heterogeneity while also ret
 With the explosion of heterogeneous and big data in biology and medicine, machine learning has become an essential tool for cancer research, disease diagnostics, therapeutic development, and drug discovery. In addition to the omics data, our laboratory is also interested in tackling other basic, translational and clinical data in various data formats (e.g., sequencing, electronic health records, images, etc) by artificial intelligence, machine learning and data science methods to facilitate intelligent healthcare and precision medicine. By establishing extensive collaborations with clinicians, doctors, radiologists and pathologists, we develop and/or leverage computational models to help unravel the mechanisms of pathogenesis, tumorigenesis, disease diagnosis and prognosis, treatment design and drug discovery.
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/cancer.png){: style="width: 70%; float: center; margin: 10px"}
 
+### Bioinformatics tool development
+Bioinformatics tool development is one of the thematic research directions in Wan Lab. Being equipped with both machine learning and bioinformatics, Wan Lab is dedicated to develop bioinformatics tools in various domains ranging from **basic science**, **translational research**, to **clinical applications**, including but not limited to single cell analysis, antimicrobial peptide identification, cancer subtype prediction, cancer diagnosis and prognosis, protein subcellular localization, membrane protein function prediction, etc. 
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/tool.png){: style="width: 70%; float: center; margin: 10px"}
+
 ### Ongoing RESEARCH PROJECTS
 Projects in Wan Lab focus on develop machine learning and bioinformatics based methods for single cell analysis, multi-omics analysis, spatial transcriptomics, cancer research, intelligent healthcare, and precision medicine.
 1. Single Cell Analysis
