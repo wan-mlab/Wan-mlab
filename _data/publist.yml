@@ -106,7 +106,7 @@
 - title: "Improving Bulk RNA-seq Classification by Transferring Gene Signature from Single Cells in Acute Myeloid Leukemia"
   image: aml.PNG
   authors: R. Wang, X. Zheng, J. Wang, S. Wan, M. H. Wong, K. S. Leung and L. Cheng
-  description: we propose single-cell pair-wise gene expression (scPAGE), a novel method to develop single-cell gene pair signatures (scGPSs) that were beneficial to bulk RNA-seq classification to transfer knowledge across platforms. PAGE was adopted to tackle the challenge of profiling differences. We applied the method to acute myeloid leukemia (AML) and identified the scGPS from mouse scRNA-seq that allowed discriminating between AML and control cells.
+  description: We propose single-cell pair-wise gene expression (scPAGE), a novel method to develop single-cell gene pair signatures (scGPSs) that were beneficial to bulk RNA-seq classification to transfer knowledge across platforms. PAGE was adopted to tackle the challenge of profiling differences. We applied the method to acute myeloid leukemia (AML) and identified the scGPS from mouse scRNA-seq that allowed discriminating between AML and control cells.
   link:
     url: https://academic.oup.com/bib/article-abstract/23/2/bbac002/6523149
     display:  Briefings in Bioinformatics 23 (2), bbac002
@@ -279,7 +279,7 @@
   
 - title: "FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: go.PNG
-  description: we present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.
+  description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/33/5/749/2736075
