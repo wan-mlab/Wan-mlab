@@ -106,7 +106,7 @@
 - title: "Improving Bulk RNA-seq Classification by Transferring Gene Signature from Single Cells in Acute Myeloid Leukemia"
   image: aml.PNG
   authors: R. Wang, X. Zheng, J. Wang, S. Wan, M. H. Wong, K. S. Leung and L. Cheng
-  description:
+  description: we propose single-cell pair-wise gene expression (scPAGE), a novel method to develop single-cell gene pair signatures (scGPSs) that were beneficial to bulk RNA-seq classification to transfer knowledge across platforms. PAGE was adopted to tackle the challenge of profiling differences. We applied the method to acute myeloid leukemia (AML) and identified the scGPS from mouse scRNA-seq that allowed discriminating between AML and control cells.
   link:
     url: https://academic.oup.com/bib/article-abstract/23/2/bbac002/6523149
     display:  Briefings in Bioinformatics 23 (2), bbac002
@@ -279,7 +279,7 @@
   
 - title: "FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: go.PNG
-  description: 
+  description: we present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/33/5/749/2736075
@@ -309,7 +309,7 @@
 
 - title: "Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
   image: lnp.gif
-  description: 
+  description: This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00686
@@ -319,7 +319,7 @@
 
 - title: "Sparse regressions for predicting and interpreting subcellular localization of multi-label proteins"
   image: men.PNG
-  description: 
+  description: This paper proposes using sparse regressions to exploit GO information for both predicting and interpreting subcellular localization of single- and multi-location proteins. Specifically, we compared two multi-label sparse regression algorithms, namely multi-label LASSO (mLASSO) and multi-label elastic net (mEN), for large-scale predictions of protein subcellular localization.
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0940-x
@@ -479,7 +479,7 @@
 
 - title: "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
   image: mGOASVM.PNG
-  description: 
+  description: This paper proposes an efficient multi-label predictor, namely mGOASVM, for predicting the subcellular localization of multi-location proteins.
   authors: S Wan, MW Mak, SY Kung
   link:
     url: https://link.springer.com/article/10.1186/1471-2105-13-290
