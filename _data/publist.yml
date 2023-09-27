@@ -169,7 +169,7 @@
   highlight: 0
   news2:
 
-- title: "The Estrogen-related Receptor (ERR) Drives Cardiac Myocyte Maturation in Cooperation With GATA4"  **abstract**
+- title: "The Estrogen-related Receptor (ERR) Drives Cardiac Myocyte Maturation in Cooperation With GATA4"
   image: 
   description:
   authors: Sakamoto, T., **Wan, S.**, Batmanov, K., Kelly, DP.
@@ -179,7 +179,7 @@
   highlight: 0
   news2:
 
-- title: "Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection" ^^^^^^
+- title: "Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
   image: 
   description:
   authors: **Wan, S.**, Kim, J., Fan, Y., Won, KJ.
