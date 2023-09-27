@@ -67,7 +67,7 @@
 - title: "Bioinformatics and Machine Learning for Cancer Biology"
   image: 
   description:
-  authors: <b>wans</b>
+  authors: <b>Wan, S.</b>, Fan, Y., Jiang, C., & Li, S.
   link:
     url: https://www.mdpi.com/books/book/5918?trk=public_post_main-feed-card-text
     display: Biology, 2022, 11(3), 361.
@@ -96,7 +96,7 @@
 - title: "A Sequence Obfuscation Method for Protecting Personal Genomic Privacy"
   image: 
   description:
-  authors: **Wan, S.**, & Wang, J.
+  authors: <b>Wan, S</b>., & Wang, J.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fgene.2022.876686/full
     display:  Frontiers in Genetics, 2022, 13, 876686
@@ -116,7 +116,7 @@
 - title: "Special Issue on Bioinformatics and Machine Learning for Cancer Biology"
   image: 
   description: 
-  authors: **Wan, S.**, Jiang, C., Li, S., & Fan, Y.
+  authors:  <b>Wan, S</b>., Jiang, C., Li, S., & Fan, Y.
   link:
     url: https://www.mdpi.com/2079-7737/11/3/361
     display:  Biology, 2022, 11 (3), 361
