@@ -31,10 +31,10 @@ The **Wan Lab** in the <a href = "https://www.unmc.edu/genetics/" target="_blank
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sharp.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatial_revise.tif" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/spatial_revise.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rare_cell_typep_revise.tif" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rare_cell_typep_revise.png" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/multi-omics.png" alt="Slide 5" />
