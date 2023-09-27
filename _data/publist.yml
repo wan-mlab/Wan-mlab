@@ -202,7 +202,7 @@
 - title: "SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
   image: sharp.PNG
   description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells.
-  authors: <b>Wan, S</b>., Kim, J., & Won, K. J.                                                                            <b>.</b>
+  authors: <b>Wan, S</b>., Kim, J., & Won, K. J.                                                           
   
   link:
     url: https://genome.cshlp.org/content/30/2/205.short
@@ -282,7 +282,7 @@
   
 - title: "FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: go.PNG
-  description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.                                                                                                                <b>.</b>
+  description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.                             
                This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
   authors: <b>Wan, S</b>., Mak, MW., & Kung, SY.
   link:
