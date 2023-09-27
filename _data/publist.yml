@@ -1,7 +1,7 @@
 - title: "Bioinformatics Analysis of Omics Data for Biomarker Identification in Clinical Research, Volume II"
   image: 
   description: 
-  authors: Sun, M., Li, L., Xiao, H., Feng, J., Wang, J., & **Wan, S.** smt
+  authors: Sun, M., Li, L., Xiao, H., Feng, J., Wang, J., & **Wan, S.**
   link:
     url: https://www.frontiersin.org/articles/10.3389/fgene.2023.1256468/full
     display: Frontiers in Genetics, 2023, 14, 1256468
@@ -67,7 +67,7 @@
 - title: "Bioinformatics and Machine Learning for Cancer Biology"
   image: 
   description:
-  authors: **Wan, S.** Jiang, C., Li, S., & Fan, Y.
+  authors: **Wan, S.**, Fan, Y., Jiang, C, & Li, S.
   link:
     url: https://www.mdpi.com/books/book/5918?trk=public_post_main-feed-card-text
     display: Biology, 2022, 11(3), 361.
