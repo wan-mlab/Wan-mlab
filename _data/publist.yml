@@ -182,7 +182,7 @@
 - title: "Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
   image: 
   description:
-  authors: **Wan, S.**, Kim, J., Fan, Y., Won, KJ.
+  authors: <b>Wan, S.</b>, Kim, J., Fan, Y., Won, KJ.
   link:
     url: 
     display:  ICML 2020 Workshop on Computational Biology, 2020, 1-2
@@ -202,7 +202,7 @@
 - title: "SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
   image: sharp.PNG
   description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells.
-  authors: **Wan, S.**, Kim, J., & Won, K. J.
+  authors: <b>Wan, S.</b>, Kim, J., & Won, K. J.
   link:
     url: https://genome.cshlp.org/content/30/2/205.short
     display: Genome research, 2020, 30 (2), 205-213
@@ -212,7 +212,7 @@
 - title: "Estrogen-Related Receptor Signaling is Critical for Postnatal Cardiac Maturation" **abstract**
   image: 
   description: 
-  authors: Matsuura, TR., Sakamoto, T., Ryba, DM., Wan, S., Kelly, DP.
+  authors: Matsuura, TR., Sakamoto, T., Ryba, DM., <b>Wan, S.<b/>, Kelly, DP.
   link:
     url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.13898
     display: Circulation, 2019, 140 (Suppl_1), A13898-A13898
@@ -242,7 +242,7 @@
 - title: "Predicting Subcellular Localization of Multi-Location Proteins by Improving Support Vector Machines with Adaptive-Decision Schemes"
   image: 
   description: 
-  authors: **Wan, S.**, Mak, MW.
+  authors: <b>Wan, S.</b>, Mak, MW.
   link:
     url: https://link.springer.com/article/10.1007/s13042-015-0460-4
     display: International journal of machine learning and cybernetics, 2018, 9, 399-411
@@ -262,7 +262,7 @@
 - title: "Protecting genomic privacy by a sequence-similarity based obfuscation method"
   image: 
   description: 
-  authors: **Wan, S.**, Mak, MW., Kung, SY.
+  authors: <b>Wan, S.<b/>, Mak, MW., Kung, SY.
   link:
     url: https://arxiv.org/abs/1708.02629
     display: arXiv preprint arXiv:1708.02629, 2017
@@ -272,7 +272,7 @@
 - title: "Gram-LocEN: Interpretable prediction of subcellular multi-localization of Gram-positive and Gram-negative bacterial proteins"
   image: 
   description: 
-  authors:  **Wan, S.**, Mak, MW.
+  authors:  <b>Wan, S.<b/>, Mak, MW.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S016974391630452X
     display: Chemometrics and Intelligent Laboratory Systems, 2017, 162, 1-9
@@ -282,7 +282,7 @@
 - title: "FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: go.PNG
   description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.
-  authors: **Wan, S.**, Mak, MW., Kung, SY.
+  authors: <b>Wan, S.<b/>, Mak, MW., Kung, SY.
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/33/5/749/2736075
     display: Bioinformatics, 2017, 33 (5), 749-750
@@ -312,7 +312,7 @@
 - title: "Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
   image: lnp.gif
   description: This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
-  authors: **Wan, S.**, Mak, M. W., & Kung, S. Y.
+  authors: <b>Wan, S.<b/>, Mak, M. W., & Kung, S. Y.
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00686
     display: Journal of proteome research, 2016, 15 (12), 4755-4762
