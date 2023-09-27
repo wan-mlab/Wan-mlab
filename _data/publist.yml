@@ -1,7 +1,7 @@
 - title: "Bioinformatics Analysis of Omics Data for Biomarker Identification in Clinical Research, Volume II"
   image: 
   description: 
-  authors: Sun, M., Li, L., Xiao, H., Feng, J., Wang, J., & **Wan, S.**
+  authors: Sun, M., Li, L., Xiao, H., Feng, J., Wang, J., & **Wan, S**.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fgene.2023.1256468/full
     display: Frontiers in Genetics 14, 1256468 (2023).
@@ -11,7 +11,7 @@
 - title: "USP1 expression driven by EWS:: FLI1 transcription factor stabilizes Survivin and mitigates replication stress in Ewing sarcoma"
   image: 
   description: 
-  authors: Mallard, H. J., **Wan, S.**, Nidhi, P., Hanscom-Trofy, Y. D., Mohapatra, B., Woods, N. T., Lopez-Guerrero, J. A., Llombart-Bosch, A., Machado, I., Scotlandi, K., Kreiling, N. F., Perry, M. C., Mirza, S., Coulter, D. W., Band, V., Band, H., & Ghosal, G.
+  authors: Mallard, H. J., **Wan, S**., Nidhi, P., Hanscom-Trofy, Y. D., Mohapatra, B., Woods, N. T., Lopez-Guerrero, J. A., Llombart-Bosch, A., Machado, I., Scotlandi, K., Kreiling, N. F., Perry, M. C., Mirza, S., Coulter, D. W., Band, V., Band, H., & Ghosal, G.
   link:
     url: https://aacrjournals.org/mcr/article/doi/10.1158/1541-7786.MCR-23-0323/727904
     display: Molecular Cancer Research MCR, MCR-23-0323 (2023).
@@ -19,7 +19,7 @@
 
 - title: "Embedded bioprinting of breast tumor cells and organoids using low concentration collagen based bioinks"
   image: 
-  authors: Shi, W., Mirza, S., Kuss, M., Liu, B., Hartin, A., **Wan, S.**, Kong, Y., Mohapatra, B., Krishnan, M., Band, H., Band, V., & Duan, B.
+  authors: Shi, W., Mirza, S., Kuss, M., Liu, B., Hartin, A., **Wan, S**., Kong, Y., Mohapatra, B., Krishnan, M., Band, H., Band, V., & Duan, B.
   description: 
   link:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202300905
@@ -38,7 +38,7 @@
 - title: "Ferroptosis as a novel therapeutic target for inflammation-related diseases"
   image:
   description:
-  authors: Liang, Y., Su, Z., Mao, X., **Wan, S.**, & Luo, L.
+  authors: Liang, Y., Su, Z., Mao, X., **Wan, S**., & Luo, L.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fphar.2023.1152326/full
     display:  Frontiers in Pharmacology 14, 1152326 (2023).
@@ -48,7 +48,7 @@
 - title: "Single cell meets metabolism and cancer biology"
   image: 
   description: 
-  authors: Wang, J., & **Wan, S.**
+  authors: Wang, J., & **Wan, S**.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fonc.2023.1125186/full
     display:  Frontiers in Oncology 13, 1125186 (2023).
@@ -67,7 +67,7 @@
 - title: "Bioinformatics and Machine Learning for Cancer Biology"
   image: 
   description:
-  authors: <b>**Wan, S.**</b>, Fan, Y., Jiang, C., & Li, S.
+  authors: <b>**Wan, S**.</b>, Fan, Y., Jiang, C., & Li, S.
   link:
     url: https://www.mdpi.com/books/book/5918?trk=public_post_main-feed-card-text
     display: Biology 11(3), 361 (2022).
@@ -76,7 +76,7 @@
 - title: "Genomic profiling identifies genes and pathways dysregulated by HEY1–NCOA2 fusion and shines a light on mesenchymal chondrosarcoma tumorigenesis"
   image: 
   description:
-  authors: Qi, W., Rosikiewicz, W., Yin, Z., Xu, B., Jiang, H., **Wan, S.**, Fan, Y., Wu, G., & Wang, L.
+  authors: Qi, W., Rosikiewicz, W., Yin, Z., Xu, B., Jiang, H., **Wan, S**., Fan, Y., Wu, G., & Wang, L.
   link:
     url: https://pathsocjournals.onlinelibrary.wiley.com/doi/abs/10.1002/path.5899
     display: The Journal of Pathology 257 (5), 579-592 (2022).
@@ -152,7 +152,7 @@
 - title: "Targeting the Spliceosome through RBM39 Degradation Results in Exceptional Responses in High-Risk Neuroblastoma Models"
   image: 
   description: 
-  authors: Singh, S., Quarni, W., Goralski, M., **Wan, S.**, Jin, H., Van de Velde, L. A., Fang, J., Wu, Q., Abu-Zaid, A., Wang, T., Singh, R., Craft, D., Fan, Y., Confer, T., Johnson, M., Akers, W. J., Wang, R., Murray, P. J., Thomas, P. G., Nijhawan, D., … & Yang, J.
+  authors: Singh, S., Quarni, W., Goralski, M., **Wan, S**., Jin, H., Van de Velde, L. A., Fang, J., Wu, Q., Abu-Zaid, A., Wang, T., Singh, R., Craft, D., Fan, Y., Confer, T., Johnson, M., Akers, W. J., Wang, R., Murray, P. J., Thomas, P. G., Nijhawan, D., … & Yang, J.
   link:
     url: https://www.science.org/doi/abs/10.1126/sciadv.abj5405
     display:  Science Advances 7 (47), eabj5405 (2021).
@@ -182,7 +182,7 @@
 - title: "Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
   image: 
   description:
-  authors: <b>Wan, S.</b>, Kim, J., Fan, Y., & Won, KJ.
+  authors: <b>Wan, S</b>., Kim, J., Fan, Y., & Won, KJ.
   link:
     url: 
     display:  ICML 2020 Workshop on Computational Biology 1-2
@@ -192,7 +192,7 @@
 - title: "A critical role for estrogen-related receptor signaling in cardiac maturation"
   image: 
   description:
-  authors: Sakamoto, T., Matsuura, T. R., **Wan, S.**, Ryba, D. M., Kim, J. U., Won, K. J., Lai, L., Petucci, C., Petrenko, N., Musunuru, K., Vega, R. B., & Kelly, D. P.
+  authors: Sakamoto, T., Matsuura, T. R., **Wan, S**., Ryba, D. M., Kim, J. U., Won, K. J., Lai, L., Petucci, C., Petrenko, N., Musunuru, K., Vega, R. B., & Kelly, D. P.
   link:
     url: https://www.ahajournals.org/doi/abs/10.1161/CIRCRESAHA.119.316100
     display:  Circulation research 126 (12), 1685-1702 (2020).
@@ -202,7 +202,7 @@
 - title: "SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
   image: sharp.PNG
   description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells.
-  authors: <b>Wan, S.</b>, Kim, J., & Won, K. J.                                                                            <b>.</b>
+  authors: <b>Wan, S</b>., Kim, J., & Won, K. J.                                                                            <b>.</b>
   
   link:
     url: https://genome.cshlp.org/content/30/2/205.short
@@ -223,7 +223,7 @@
 - title: "The Estrogen-related Receptor Coordinates Transcription of Genes Involved in Mitochondrial and Contractile Maturation in Human Induced Pluripotent Stem Cell-derived Cardiac Myocytes"
   image: 
   description: 
-  authors: Sakamoto, T., **Wan, S.**, Kim, J., Won, KJ., & Kelly, DP.
+  authors: Sakamoto, T., **Wan, S**., Kim, J., Won, KJ., & Kelly, DP.
   link:
     url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.11803
     display: Circulation 140 (Suppl_1), A11803-A11803 (2019).
@@ -233,7 +233,7 @@
 - title: "MondoA drives muscle lipid accumulation and insulin resistance"
   image: 
   description: 
-  authors: Ahn, B., **Wan, S.**, Jaiswal, N., Vega, R. B., Ayer, D. E., Titchenell, P. M., Han, X., Won, K. J., & Kelly, D. P. 
+  authors: Ahn, B., **Wan, S**., Jaiswal, N., Vega, R. B., Ayer, D. E., Titchenell, P. M., Han, X., Won, K. J., & Kelly, D. P. 
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6693825/
     display: JCI insight 4 (15) (2019).
@@ -243,7 +243,7 @@
 - title: "Predicting Subcellular Localization of Multi-Location Proteins by Improving Support Vector Machines with Adaptive-Decision Schemes"
   image: 
   description: 
-  authors: <b>Wan, S.</b>, & Mak, MW.
+  authors: <b>Wan, S</b>., & Mak, MW.
   link:
     url: https://link.springer.com/article/10.1007/s13042-015-0460-4
     display: International journal of machine learning and cybernetics 9, 399-411 (2018).
@@ -253,7 +253,7 @@
 - title: "Is congenital amusia a disconnection syndrome? A study combining tract-and network-based analysis"
   image: 
   description: 
-  authors: Wang, J., Zhang, C., **Wan, S.**, & Peng, G. 
+  authors: Wang, J., Zhang, C., **Wan, S**., & Peng, G. 
   link:
     url: https://www.frontiersin.org/articles/10.3389/fnhum.2017.00473/full
     display: Frontiers in human neuroscience 11, 473 (2017).
@@ -294,7 +294,7 @@
 - title: "Ratio utility and cost analysis for privacy preserving subspace projection"
   image: 
   description: 
-  authors: Al, M., **Wan, S.**, & Kung, SY.
+  authors: Al, M., **Wan, S**., & Kung, SY.
   link:
     url: https://arxiv.org/abs/1702.07976
     display: arXiv preprint arXiv:1702.07976 (2017).
@@ -314,7 +314,7 @@
 - title: "Is Congenital Amusia a Disconnection Syndrome? A Study Combining Tract-and Network-Based Analysis"
   image: 
   description: 
-  authors: Wang, J., Zhang, C., **Wan, S.**, & Peng, G.
+  authors: Wang, J., Zhang, C., **Wan, S**., & Peng, G.
   link:
     url: 
     display: International journal of machine learning and cybernetics 9, 399-411 (2017).
@@ -424,7 +424,7 @@
 - title: "HybridGO-Loc: mining hybrid features on gene ontology for predicting subcellular localization of multi-location proteins"
   image: 
   description: 
-  authors: <b>Wan, S.</b>, Mak, M. W., & Kung, S. Y. 
+  authors: <b>Wan, S</b>., Mak, M. W., & Kung, S. Y. 
   link:
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089545
     display: PloS one 9 (3), e89545 (2014).
