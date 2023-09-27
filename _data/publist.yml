@@ -85,7 +85,7 @@
 - title: "The nuclear receptor ERR cooperates with the cardiogenic factor GATA4 to orchestrate cardiomyocyte maturation"
   image: multi-omics.png
   description:  We find that Estrogen-related receptors (ERR) signaling is necessary for induction of genes involved in mitochondrial and cardiac-specific contractile processes during human induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) differentiation. 
-  authors: Sakamoto, T., Batmanov, K., **Wan, S.**, Guo, Y., Lai, L., Vega, R. B., & Kelly, D. P.
+  authors: Sakamoto, T., Batmanov, K., <b>Wan, S</b>., Guo, Y., Lai, L., Vega, R. B., & Kelly, D. P.
   link:
     url: https://www.nature.com/articles/s41467-022-29733-3
     display: Nature Communications 13 (1), 1991 (2022).
@@ -105,7 +105,7 @@
   
 - title: "Improving Bulk RNA-seq Classification by Transferring Gene Signature from Single Cells in Acute Myeloid Leukemia"
   image: aml.PNG
-  authors: Wang, R., Zheng, X., Wang, J., **Wan, S.**, Song, F., Wong, M. H., Leung, K. S., & Cheng, L. 
+  authors: Wang, R., Zheng, X., Wang, J., **Wan, S**., Song, F., Wong, M. H., Leung, K. S., & Cheng, L. 
   description: We propose single-cell pair-wise gene expression (scPAGE), a novel method to develop single-cell gene pair signatures (scGPSs) that were beneficial to bulk RNA-seq classification to transfer knowledge across platforms. PAGE was adopted to tackle the challenge of profiling differences. We applied the method to acute myeloid leukemia (AML) and identified the scGPS from mouse scRNA-seq that allowed discriminating between AML and control cells.
   link:
     url: https://academic.oup.com/bib/article-abstract/23/2/bbac002/6523149
@@ -125,7 +125,7 @@
 - title: "Transcriptional Regulation in Metabolism and Immunology"
   image: 
   description: 
-  authors: Jiang, C., **Wan, S.**, Hu, P., Li, Y., & Li, S.
+  authors: Jiang, C., **Wan, S**., Hu, P., Li, Y., & Li, S.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fgene.2022.845697/full
     display:  Frontiers in Genetics 13, 845697 (2022).
@@ -134,7 +134,7 @@
 - title: "Identification of a modular super-enhancer in murine retinal development"
   image: 
   description: 
-  authors: Honnell, V., Norrie, J. L., Patel, A. G., Ramirez, C., Zhang, J., Lai, Y. H., **Wan, S.**, & Dyer, M. A.
+  authors: Honnell, V., Norrie, J. L., Patel, A. G., Ramirez, C., Zhang, J., Lai, Y. H., **Wan, S**., & Dyer, M. A.
   link:
     url: https://www.nature.com/articles/s41467-021-27924-y
     display:  Nature Communications 13 (1), 253 (2022).
@@ -143,7 +143,7 @@
 - title: "YAP/TAZ maintain the proliferative capacity and structural organization of radial glial cells during brain development"
   image: 
   description: 
-  authors: Lavado, A., Gangwar, R., Paré, J., **Wan, S.**, Fan, Y., & Cao, X.
+  authors: Lavado, A., Gangwar, R., Paré, J., **Wan, S**., Fan, Y., & Cao, X.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0012160621002001
     display:  Developmental Biology 480, 39-49 (2021).
