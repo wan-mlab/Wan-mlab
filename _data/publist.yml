@@ -78,7 +78,6 @@
   image: multi-omics.png
   description:  We find that Estrogen-related receptors (ERR) signaling is necessary for induction of genes involved in mitochondrial and cardiac-specific contractile processes during human induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) differentiation. 
   authors: Sakamoto, T., Batmanov, K., <b>Wan, S</b>., Guo, Y., Lai, L., Vega, R. B., & Kelly, D. P.
-- ""
   link:
     url: https://www.nature.com/articles/s41467-022-29733-3
     display: Nature Communications 13 (1), 1991 (2022).
@@ -165,7 +164,8 @@
 - title: "SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
   image: sharp.PNG
   description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells.
-  authors: <b>Wan, S</b>., Kim, J., & Won, K. J.                                                           
+  authors: <b>Wan, S</b>., Kim, J., & Won, K. J.
+  -: "" 
   link:
     url: https://genome.cshlp.org/content/30/2/205.short
     display: Genome research 30 (2), 205-213 (2020).
