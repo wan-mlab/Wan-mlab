@@ -53,10 +53,18 @@ permalink: /publications/
 
 
 ## Full List of publications
+### Journal articeles
 
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+### Conference arti
+{% for publi_ in site.data.publist_ %}
+
+  {{ publi_.title }} <br />
+  <em>{{ publi_.authors }} </em><br /><a href="{{ publi_.link.url }}">{{ publi_.link.display }}</a>
 
 {% endfor %}
