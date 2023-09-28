@@ -1,5 +1,5 @@
 - name: Lusheng Li
-  photo: lusheng.jpg
+  photo: lusheng.png
   info: Graduate Student
   email: lli@unmc.edu
   number_educ: 2
@@ -7,14 +7,14 @@
   education2: BSc in Agronomy, China Agricultural University, 2020
 
 - name: Hanyu Xiao
-  photo: hanyu.jpg
+  photo: hanyu.png
   info: Graduate Student
   email: haxiao@unmc.edu
   number_educ: 1
   education1: BSc in Biological Science, Huazhong University of Science and Technology, China, 2023
 
 - name: Mengtao Sun
-  photo: mengtao.jpg
+  photo: mengtao.png
   info: Graduate Student
   email: msun@unmc.edu
   number_educ: 2
@@ -22,7 +22,7 @@
   education2: BSc in Sanitary Inspection and Quarantine, Wannan Medical College, China, 2020
 
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: rock.png
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: milan.allan@gmail.com
   number_educ: 0
