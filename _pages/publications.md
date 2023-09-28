@@ -61,7 +61,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-### Conference Articles
+### Conference Abstracts
 {% for publi_ in site.data.publist_ %}
 
   {{ publi_.title }} <br />
