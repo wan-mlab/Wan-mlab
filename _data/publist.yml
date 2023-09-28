@@ -95,16 +95,6 @@
   highlight: 0
   news2:
 
-
-- title: "Bioinformatics and Machine Learning for Cancer Biology"
-  image: 
-  description:
-  authors: <b>**<u>Wan, S</u>**.</b>, Fan, Y., Jiang, C., & Li, S.
-  link:
-    url: https://www.mdpi.com/books/book/5918?trk=public_post_main-feed-card-text
-    display: Biology 11(3), 361 (2022).
-  highlight: 0
-
 - title: "Improving Bulk RNA-seq Classification by Transferring Gene Signature from Single Cells in Acute Myeloid Leukemia"
   image: aml.PNG
   authors: Wang, R., Zheng, X., Wang, J., **<u>Wan, S</u>**., Song, F., Wong, M. H., Leung, K. S., & Cheng, L. 
