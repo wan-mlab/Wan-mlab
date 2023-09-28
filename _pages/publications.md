@@ -16,7 +16,7 @@ permalink: /publications/
 <div id="publications">
   {{ content }}
   <div class="row row-cols-1 row-cols-xl-2">
-    {% for publi in site.data.publist %}
+    {% for publi in publist %}
     {% if publi.highlight == 1 %}
 
     <div class="col mb-4">
@@ -25,7 +25,7 @@ permalink: /publications/
         <div class="card-body clearfix">
           <pubtit class="card-title">{{ publi.title }}</pubtit>
           <p>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+            <img src="{{'/images/pubpic/' | url }}/{{ publi.image }}" class="img-fluid float-start w-33" />
           </p>
           <p class="card-text">{{ publi.description }}</p>
           <p class="card-text"><em>{{ publi.authors }}</em></p>
@@ -43,7 +43,7 @@ permalink: /publications/
     {% endfor %}
   </div>
 
-<p> &nbsp; </p>
+  <p> &nbsp; </p>
 
 
 ## Full List of publications
