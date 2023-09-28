@@ -70,7 +70,7 @@ permalink: /publications/
 {% endfor %}
 
 ### Book
-{% for publi_book in site.data.publist_ %}
+{% for publi_book in site.data.publist_book %}
 
   {{ publi_book.title }} <br />
   <em>{{ publi_book.authors }} </em><br /><a href="{{ publi_book.link.url }}">{{ publi_book.link.display }}</a>
