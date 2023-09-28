@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Junxi Feng 
-  photo: Junxi.png
+  photo: junxi_.png
   info: Intern Student
   email: junxifeng0511@g.ucla.edu
   number_educ: 2
@@ -17,17 +17,17 @@
   education2: B.S., University of California, Los Angeles (UCLA), USA, 2023
 
 - name: Cece Zhang
-  photo: Cece.jpg
+  photo: Cece.png
   info: Intern Student
   email: m.ortego.larrazabal@umail.leidenuniv.nl
   number_educ: 1
   education1: Incoming undergraduate for University of Toronto, Canada
 
 - name: Cong Liu
-  photo: Cece.jpg
-  info: Intern Student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  photo: Cong_Liu.png
+  info: Intern Student 
+  email: _
   number_educ: 1
-  education1: Incoming undergraduate for University of Toronto, Canada
+  education1: Sophomore student at University of Waterloo, Canada
 
 
