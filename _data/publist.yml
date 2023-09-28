@@ -175,7 +175,7 @@
   image: sharp.PNG
   description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells.
   authors: <b>Wan, S</b>., Kim, J., & Won, K. J.
-  -: "" 
+  authors: <b>Wan, S</b>., Kim, J., & Won, K. J.
   link:
     url: https://genome.cshlp.org/content/30/2/205.short
     display: Genome research 30 (2), 205-213 (2020).
