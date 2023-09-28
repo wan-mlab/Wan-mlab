@@ -1,9 +1,19 @@
 - title: "Machine learning for protein subcellular localization prediction"
   image: 
   description: 
-  authors: <b>Wan S</b>., & Mak, MW.
+  authors: <u><b>Wan S</b></u>., & Mak, MW.
   link:
     url: https://books.google.com/books?hl=en&lr=&id=QpilCQAAQBAJ&oi=fnd&pg=PR5&dq=info:cbutAL_0EDEJ:scholar.google.com&ots=3aSvBEftE6&sig=jcmsq9_TKrXfV4UIjLLC0i9MRhg
     display: Walter de Gruyter GmbH & Co KG
   highlight: 0
   news2:
+
+
+- title: "Bioinformatics and Machine Learning for Cancer Biology (edited book)"
+  image: 
+  description:
+  authors: <b>**<u>Wan, S</u>**.</b>, Fan, Y., Jiang, C., & Li, S.
+  link:
+    url: https://www.mdpi.com/books/book/5918?trk=public_post_main-feed-card-text
+    display: Biology 11(3), 361 (2022).
+  highlight: 0
