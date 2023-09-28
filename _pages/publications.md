@@ -16,7 +16,7 @@ permalink: /publications/
 <div id="publications">
   {{ content }}
   <div class="row row-cols-1 row-cols-xl-2">
-    {% for publi in publist %}
+    {% for publi in site.data.publist %}
     {% if publi.highlight == 1 %}
 
     <div class="col mb-4">
