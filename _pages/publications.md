@@ -53,7 +53,7 @@ permalink: /publications/
 
 
 ## Full List of publications
-### Journal articeles
+### Journal Articles
 
 {% for publi in site.data.publist %}
 
@@ -61,7 +61,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-### Conference arti
+### Conference Articles
 {% for publi_ in site.data.publist_ %}
 
   {{ publi_.title }} <br />
@@ -69,7 +69,7 @@ permalink: /publications/
 
 {% endfor %}
 
-### Book
+### Books
 {% for publi_book in site.data.publist_book %}
 
   {{ publi_book.title }} <br />
