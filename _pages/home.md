@@ -36,7 +36,7 @@ The **Wan Lab** in the <a href = "https://www.unmc.edu/genetics/" target="_blank
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mo.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tools_revise.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sms.png" alt="Slide 5" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cancer_revise.png" alt="Slide 6" />
