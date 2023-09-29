@@ -19,7 +19,6 @@ The **Wan Lab** in the <a href = "https://www.unmc.edu/genetics/" target="_blank
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
-        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
@@ -34,7 +33,7 @@ The **Wan Lab** in the <a href = "https://www.unmc.edu/genetics/" target="_blank
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sr.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/multi_omics_slides5_.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mo.png" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tools_revise.png" alt="Slide 5" />
