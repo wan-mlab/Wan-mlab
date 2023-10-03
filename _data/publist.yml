@@ -222,7 +222,7 @@
   highlight: 0
   news2:
   
-- title: "25. FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
+- title: "24. FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: go.PNG
   description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.                             
                This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
@@ -233,7 +233,7 @@
   highlight: 1
   news2:
 
-- title: "Ratio utility and cost analysis for privacy preserving subspace projection"
+- title: "25. Ratio utility and cost analysis for privacy preserving subspace projection"
   image: 
   description: 
   authors: Al, M., **<u>Wan, S</u>**., & Kung, SY.
@@ -243,7 +243,7 @@
   highlight: 0
   news2:
 
-  - title: "Transductive learning for multi-label protein subchloroplast localization prediction"
+  - title: "26. Transductive learning for multi-label protein subchloroplast localization prediction"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y. 
@@ -253,7 +253,7 @@
   highlight: 0
   news2:
   
-- title: "Is Congenital Amusia a Disconnection Syndrome? A Study Combining Tract-and Network-Based Analysis"
+- title: "27. Is Congenital Amusia a Disconnection Syndrome? A Study Combining Tract-and Network-Based Analysis"
   image: 
   description: 
   authors: Wang, J., Zhang, C., **<u>Wan, S</u>**., & Peng, G.
@@ -263,7 +263,7 @@
   highlight: 0
   news2:
 
-- title: "Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
+- title: "28. Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
   image: lnp.gif
   description: This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
   authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
@@ -273,7 +273,7 @@
   highlight: 1
   news2:
 
-- title: "Sparse regressions for predicting and interpreting subcellular localization of multi-label proteins"
+- title: "29. Sparse regressions for predicting and interpreting subcellular localization of multi-label proteins"
   image: men.PNG
   description: This paper proposes using sparse regressions to exploit GO information for both predicting and interpreting subcellular localization of single- and multi-location proteins. Specifically, we compared two multi-label sparse regression algorithms, namely multi-label LASSO (mLASSO) and multi-label elastic net (mEN), for large-scale predictions of protein subcellular localization.
   authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
@@ -283,7 +283,7 @@
   highlight: 0
   news2:
 
-- title: "Benchmark data for identifying multi-functional types of membrane proteins"
+- title: "30. Benchmark data for identifying multi-functional types of membrane proteins"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak MW, & Kung SY.
@@ -293,7 +293,7 @@
   highlight: 0
   news2:
 
-- title: "Mem-ADSVM: A two-layer multi-label predictor for identifying multi-functional types of membrane proteins"
+- title: "31. Mem-ADSVM: A two-layer multi-label predictor for identifying multi-functional types of membrane proteins"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y. 
@@ -303,7 +303,7 @@
   highlight: 0
   news2:
 
-  - title: "Mem-mEN: predicting multi-functional types of membrane proteins by interpretable elastic nets"
+  - title: "32. Mem-mEN: predicting multi-functional types of membrane proteins by interpretable elastic nets"
   image: mem-men.png
   description: This paper proposes an efficient predictor, namely Mem-mEN, which can produce sparse and interpretable solutions for predicting membrane proteins with single- and multi-label functional types.
   authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
@@ -313,7 +313,7 @@
   highlight: 1
   news2:
 
-- title: "mLASSO-Hum: A LASSO-based interpretable human-protein subcellular localization predictor"
+- title: "33. mLASSO-Hum: A LASSO-based interpretable human-protein subcellular localization predictor"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y. 
@@ -323,7 +323,7 @@
   highlight: 0
   news2:
 
-- title: "mPLR-Loc: An adaptive decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
+- title: "34. mPLR-Loc: An adaptive decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Mak, MW., & Kung, SY.
@@ -333,7 +333,7 @@
   highlight: 0
   news2:
 
-- title: "R3P-Loc: A compact multi-label predictor using ridge regression and random projection for protein subcellular localization"
+- title: "35. R3P-Loc: A compact multi-label predictor using ridge regression and random projection for protein subcellular localization"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Mak, M. W., & Kung, S. Y. 
@@ -343,7 +343,7 @@
   highlight: 0
   news2:
 
-- title: "HybridGO-Loc: mining hybrid features on gene ontology for predicting subcellular localization of multi-location proteins"
+- title: "36. HybridGO-Loc: mining hybrid features on gene ontology for predicting subcellular localization of multi-location proteins"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Mak, M. W., & Kung, S. Y. 
@@ -353,7 +353,7 @@
   highlight: 0
   news2:
 
-- title: "Protein subcellular localization: gene ontology based machine learning approaches"
+- title: "37. Protein subcellular localization: gene ontology based machine learning approaches"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>.
@@ -363,7 +363,7 @@
   highlight: 0
   news2:
 
-- title: "Semantic similarity over gene ontology for multi-label protein subcellular localization"
+- title: "38. Semantic similarity over gene ontology for multi-label protein subcellular localization"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, MW., & Kung, SY.
@@ -375,7 +375,7 @@
 
 
 
-- title: "GOASVM: a subcellular location predictor by incorporating term-frequency gene ontology into the general form of Chou's pseudo-amino acid composition"
+- title: "39. GOASVM: a subcellular location predictor by incorporating term-frequency gene ontology into the general form of Chou's pseudo-amino acid composition"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Mak, M. W., & Kung, S. Y.
@@ -385,7 +385,7 @@
   highlight: 0
   news2:
 
-- title: "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
+- title: "40. mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
   image: mGOASVM.PNG
   description: This paper proposes an efficient multi-label predictor, namely mGOASVM, for predicting the subcellular localization of multi-location proteins.
   authors: <b><u>Wan, S</u></b>., Mak, MW. & Kung, SY.
@@ -399,7 +399,7 @@
 
 
 
-- title: "A Method of Continuous Data Flow Embedded within Speech Signals"
+- title: "41. A Method of Continuous Data Flow Embedded within Speech Signals"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Yao, C., Hu, Y. & Zhang, G. 
