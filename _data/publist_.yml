@@ -1,4 +1,4 @@
-- title: "Processing Millions of Single Cells by SHARP"
+- title: "42. Processing Millions of Single Cells by SHARP"
   image: 
   description:
   authors: <b><u>Wan, S*</u></b>., Kim, J. & Won, KJ.
@@ -8,7 +8,7 @@
   highlight: 0
   news2:
 
-- title: "The Estrogen-related Receptor (ERR) Drives Cardiac Myocyte Maturation in Cooperation With GATA4"
+- title: "43. The Estrogen-related Receptor (ERR) Drives Cardiac Myocyte Maturation in Cooperation With GATA4"
   image: 
   description:
   authors: Sakamoto, T., <b><u>Wan, S</u></b>., Batmanov, K., & Kelly, DP.
@@ -18,7 +18,7 @@
   highlight: 0
   news2:
 
-- title: "Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
+- title: "44. Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
   image: 
   description:
   authors: <b><u>Wan, S*</u></b>., Kim, J., Fan, Y., & Won, KJ.
@@ -28,7 +28,7 @@
   highlight: 0
   news2:
 
-- title: "Estrogen-Related Receptor Signaling is Critical for Postnatal Cardiac Maturation" 
+- title: "45. Estrogen-Related Receptor Signaling is Critical for Postnatal Cardiac Maturation" 
   image: 
   description: 
   authors: Matsuura, TR., Sakamoto, T., Ryba, DM., <strong><u>Wan, S</u></strong>., & Kelly, DP.
@@ -38,7 +38,7 @@
   highlight: 0
   news2:
 
-- title: "The Estrogen-related Receptor Coordinates Transcription of Genes Involved in Mitochondrial and Contractile Maturation in Human Induced Pluripotent Stem Cell-derived Cardiac Myocytes"
+- title: "46. The Estrogen-related Receptor Coordinates Transcription of Genes Involved in Mitochondrial and Contractile Maturation in Human Induced Pluripotent Stem Cell-derived Cardiac Myocytes"
   image: 
   description: 
   authors: Sakamoto, T., **<u>Wan, S</u>**., Kim, J., Won, KJ., & Kelly, DP.
@@ -47,7 +47,7 @@
     display: Circulation 140 (Suppl_1), A11803-A11803 (2019).
   highlight: 0
   news2:
-- title: "Ensemble random projection for multi-label classification with application to protein subcellular localization"
+- title: "47. Ensemble random projection for multi-label classification with application to protein subcellular localization"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, MW., Zhang, B., Wang, Y., & Kung, SY.
@@ -56,7 +56,7 @@
     display: 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 5999-6003
   highlight: 0
   news2:
-- title: "An ensemble classifier with random projection for predicting multi-label protein subcellular localization"
+- title: "48. An ensemble classifier with random projection for predicting multi-label protein subcellular localization"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., MW, Mak., B, Zhang., Y, Wang. & S. Kung.
@@ -66,7 +66,7 @@
   highlight: 0
   news2:
 
-- title: "Adaptive thresholding for multi-label SVM classification with application to protein subcellular localization prediction"
+- title: "49. Adaptive thresholding for multi-label SVM classification with application to protein subcellular localization prediction"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, MW., & Kung, SY.
@@ -75,7 +75,7 @@
     display: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
   highlight: 0
   news2:
-- title: "GOASVM: Protein subcellular localization prediction based on gene ontology annotation and SVM"
+- title: "50. GOASVM: Protein subcellular localization prediction based on gene ontology annotation and SVM"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, MW. & Kung, SY.
@@ -85,7 +85,7 @@
   highlight: 0
   news2:
 
-- title: "Protein subcellular localization prediction based on profile alignment and Gene Ontology"
+- title: "51. Protein subcellular localization prediction based on profile alignment and Gene Ontology"
   image: 
   description: 
   authors:  <b><u>Wan, S*</u></b>., Mak, MW. & Kung, SY.
