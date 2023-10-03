@@ -8,7 +8,7 @@
   highlight: 0
   news2: 
 
-- title: "USP1 expression driven by EWS:: FLI1 transcription factor stabilizes Survivin and mitigates replication stress in Ewing sarcoma"
+- title: "2. USP1 expression driven by EWS:: FLI1 transcription factor stabilizes Survivin and mitigates replication stress in Ewing sarcoma"
   image: 
   description: 
   authors: Mallard, H. J., **<u>Wan, S</u>**., Nidhi, P., Hanscom-Trofy, Y. D., Mohapatra, B., Woods, N. T., Lopez-Guerrero, J. A., Llombart-Bosch, A., Machado, I., Scotlandi, K., Kreiling, N. F., Perry, M. C., Mirza, S., Coulter, D. W., Band, V., Band, H., & Ghosal, G.
@@ -17,7 +17,7 @@
     display: Molecular Cancer Research MCR, MCR-23-0323 (2023).
   highlight: 0
 
-- title: "Embedded bioprinting of breast tumor cells and organoids using low concentration collagen based bioinks"
+- title: "3. Embedded bioprinting of breast tumor cells and organoids using low concentration collagen based bioinks"
   image: 
   authors: Shi, W., Mirza, S., Kuss, M., Liu, B., Hartin, A., **<u>Wan, S</u>**., Kong, Y., Mohapatra, B., Krishnan, M., Band, H., Band, V., & Duan, B.
   description: 
@@ -26,7 +26,7 @@
     display: Advanced Healthcare Materials e2300905 (2023).
   highlight: 0
 
-- title: "Etiology of oncogenic fusions in 5,190 childhood cancers and its clinical and therapeutic implication"
+- title: "4. Etiology of oncogenic fusions in 5,190 childhood cancers and its clinical and therapeutic implication"
   image: 
   description:
   authors: Liu, Y., Klein, J., Bajpai, R., Dong, L., Tran, Q., Kolekar, P., Smith, J. L., Ries, R. E., Huang, B. J., Wang, Y. C., Alonzo, T. A., Tian, L., Mulder, H. L., Shaw, T. I., Ma, J., Walsh, M. P., Song, G., Westover, T., Autry, R. J., Gout, A. M., … & Ma, X.
@@ -35,7 +35,7 @@
     display: Nature Communications 14 (1), 1739 (2023).
   highlight: 0
 
-- title: "Ferroptosis as a novel therapeutic target for inflammation-related diseases"
+- title: "5. Ferroptosis as a novel therapeutic target for inflammation-related diseases"
   image:
   description:
   authors: Liang, Y., Su, Z., Mao, X., **<u>Wan, S*</u>**., & Luo, L.
@@ -45,7 +45,7 @@
   highlight: 0
   news2:
 
-- title: "Single cell meets metabolism and cancer biology"
+- title: "6. Single cell meets metabolism and cancer biology"
   image: 
   description: 
   authors: Wang, J., & **<u>Wan, S*</u>**.
@@ -55,7 +55,7 @@
   highlight: 0
   news2:
 
-- title: "Alzheimer’s disease-associated U1 snRNP splicing dysfunction causes neuronal hyperexcitability and cognitive impairment"
+- title: "7. Alzheimer’s disease-associated U1 snRNP splicing dysfunction causes neuronal hyperexcitability and cognitive impairment"
   image: 
   description: 
   authors: Chen, P. C., Han, X., Shaw, T. I., Fu, Y., Sun, H., Niu, M., Wang, Z., Jiao, Y., Teubner, B. J. W., Eddins, D., Beloate, L. N., Bai, B., Mertz, J., Li, Y., Cho, J. H., Wang, X., Wu, Z., Liu, D., Poudel, S., Yuan, Z. F., … & Peng, J. 
@@ -65,7 +65,7 @@
   highlight: 0
 
 
-- title: "Genomic profiling identifies genes and pathways dysregulated by HEY1–NCOA2 fusion and shines a light on mesenchymal chondrosarcoma tumorigenesis"
+- title: "8. Genomic profiling identifies genes and pathways dysregulated by HEY1–NCOA2 fusion and shines a light on mesenchymal chondrosarcoma tumorigenesis"
   image: 
   description:
   authors: Qi, W., Rosikiewicz, W., Yin, Z., Xu, B., Jiang, H., **<u>Wan, S</u>**., Fan, Y., Wu, G., & Wang, L.
@@ -74,7 +74,7 @@
     display: The Journal of Pathology 257 (5), 579-592 (2022).
   highlight: 0
   
-- title: "The nuclear receptor ERR cooperates with the cardiogenic factor GATA4 to orchestrate cardiomyocyte maturation"
+- title: "9. The nuclear receptor ERR cooperates with the cardiogenic factor GATA4 to orchestrate cardiomyocyte maturation"
   image: multi-omics.png
   description:  We find that Estrogen-related receptors (ERR) signaling is necessary for induction of genes involved in mitochondrial and cardiac-specific contractile processes during human induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) differentiation. 
   authors: Sakamoto, T., Batmanov, K., <b><u>Wan, S</u></b>., Guo, Y., Lai, L., Vega, R. B., & Kelly, D. P.
@@ -85,7 +85,7 @@
   news2:
 
 
-- title: "A Sequence Obfuscation Method for Protecting Personal Genomic Privacy"
+- title: "10. A Sequence Obfuscation Method for Protecting Personal Genomic Privacy"
   image: 
   description:
   authors: <b><u>Wan, S*</u></b>., & Wang, J.
@@ -95,7 +95,7 @@
   highlight: 0
   news2:
 
-- title: "Improving Bulk RNA-seq Classification by Transferring Gene Signature from Single Cells in Acute Myeloid Leukemia"
+- title: "11. Improving Bulk RNA-seq Classification by Transferring Gene Signature from Single Cells in Acute Myeloid Leukemia"
   image: aml.PNG
   authors: Wang, R., Zheng, X., Wang, J., **<u>Wan, S</u>**., Song, F., Wong, M. H., Leung, K. S., & Cheng, L. 
   description: We propose single-cell pair-wise gene expression (scPAGE), a novel method to develop single-cell gene pair signatures (scGPSs) that were beneficial to bulk RNA-seq classification to transfer knowledge across platforms. PAGE was adopted to tackle the challenge of profiling differences. We applied the method to acute myeloid leukemia (AML) and identified the scGPS from mouse scRNA-seq that allowed discriminating between AML and control cells.
@@ -105,7 +105,7 @@
   highlight: 0
   news2:
 
-- title: "Special Issue on Bioinformatics and Machine Learning for Cancer Biology"
+- title: "12. Special Issue on Bioinformatics and Machine Learning for Cancer Biology"
   image: 
   description: 
   authors:  <b><u>Wan, S*</u></b>., Jiang, C., Li, S., & Fan, Y.
@@ -114,7 +114,7 @@
     display:  Biology 11 (3), 361 (2022).
   highlight: 0
 
-- title: "Transcriptional Regulation in Metabolism and Immunology"
+- title: "13. Transcriptional Regulation in Metabolism and Immunology"
   image: 
   description: 
   authors: Jiang, C., **<u>Wan, S</u>**., Hu, P., Li, Y., & Li, S.
@@ -123,7 +123,7 @@
     display:  Frontiers in Genetics 13, 845697 (2022).
   highlight: 0
 
-- title: "Identification of a modular super-enhancer in murine retinal development"
+- title: "14. Identification of a modular super-enhancer in murine retinal development"
   image: 
   description: 
   authors: Honnell, V., Norrie, J. L., Patel, A. G., Ramirez, C., Zhang, J., Lai, Y. H., **<u>Wan, S</u>**., & Dyer, M. A.
@@ -132,7 +132,7 @@
     display:  Nature Communications 13 (1), 253 (2022).
   highlight: 0
 
-- title: "YAP/TAZ maintain the proliferative capacity and structural organization of radial glial cells during brain development"
+- title: "15. YAP/TAZ maintain the proliferative capacity and structural organization of radial glial cells during brain development"
   image: 
   description: 
   authors: Lavado, A., Gangwar, R., Paré, J., **<u>Wan, S</u>**., Fan, Y., & Cao, X.
@@ -141,7 +141,7 @@
     display:  Developmental Biology 480, 39-49 (2021).
   highlight: 0
   
-- title: "Targeting the Spliceosome through RBM39 Degradation Results in Exceptional Responses in High-Risk Neuroblastoma Models"
+- title: "16. Targeting the Spliceosome through RBM39 Degradation Results in Exceptional Responses in High-Risk Neuroblastoma Models"
   image: 
   description: 
   authors: Singh, S., Quarni, W., Goralski, M., **<u>Wan, S</u>**., Jin, H., Van de Velde, L. A., Fang, J., Wu, Q., Abu-Zaid, A., Wang, T., Singh, R., Craft, D., Fan, Y., Confer, T., Johnson, M., Akers, W. J., Wang, R., Murray, P. J., Thomas, P. G., Nijhawan, D., … & Yang, J.
@@ -151,7 +151,7 @@
   highlight: 0
   news2:
   
-- title: "A critical role for estrogen-related receptor signaling in cardiac maturation"
+- title: "17. A critical role for estrogen-related receptor signaling in cardiac maturation"
   image: 
   description:
   authors: Sakamoto, T., Matsuura, T. R., **<u>Wan, S</u>**., Ryba, D. M., Kim, J. U., Won, K. J., Lai, L., Petucci, C., Petrenko, N., Musunuru, K., Vega, R. B., & Kelly, D. P.
@@ -161,7 +161,7 @@
   highlight: 0
   news2:
 
-- title: "SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
+- title: "18. SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
   image: sharp.PNG
   description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells.
   authors: <b><u>Wan, S*</u></b>., Kim, J., & Won, K. J.
@@ -172,7 +172,7 @@
   highlight: 1
   news2: 
 
-- title: "MondoA drives muscle lipid accumulation and insulin resistance"
+- title: "19. MondoA drives muscle lipid accumulation and insulin resistance"
   image: 
   description: 
   authors: Ahn, B., **<u>Wan, S</u>**., Jaiswal, N., Vega, R. B., Ayer, D. E., Titchenell, P. M., Han, X., Won, K. J., & Kelly, D. P. 
@@ -182,7 +182,7 @@
   highlight: 0
   news2:
 
-- title: "Predicting Subcellular Localization of Multi-Location Proteins by Improving Support Vector Machines with Adaptive-Decision Schemes"
+- title: "20. Predicting Subcellular Localization of Multi-Location Proteins by Improving Support Vector Machines with Adaptive-Decision Schemes"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., & Mak, MW.
@@ -192,7 +192,7 @@
   highlight: 0
   news2:
 
-- title: "Is congenital amusia a disconnection syndrome? A study combining tract-and network-based analysis"
+- title: "21. Is congenital amusia a disconnection syndrome? A study combining tract-and network-based analysis"
   image: 
   description: 
   authors: Wang, J., Zhang, C., **<u>Wan, S</u>**., & Peng, G. 
@@ -202,7 +202,7 @@
   highlight: 0
   news2:
 
-- title: "Protecting genomic privacy by a sequence-similarity based obfuscation method"
+- title: "22. Protecting genomic privacy by a sequence-similarity based obfuscation method"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, MW., & Kung, SY.
@@ -212,7 +212,7 @@
   highlight: 0
   news2:
   
-- title: "Gram-LocEN: Interpretable prediction of subcellular multi-localization of Gram-positive and Gram-negative bacterial proteins"
+- title: "23. Gram-LocEN: Interpretable prediction of subcellular multi-localization of Gram-positive and Gram-negative bacterial proteins"
   image: 
   description: 
   authors:  <b><u>Wan, S*</u></b>., & Mak, MW.
@@ -222,7 +222,7 @@
   highlight: 0
   news2:
   
-- title: "FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
+- title: "25. FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: go.PNG
   description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.                             
                This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
