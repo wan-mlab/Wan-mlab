@@ -296,7 +296,7 @@
 - title: "31. Mem-ADSVM: A two-layer multi-label predictor for identifying multi-functional types of membrane proteins"
   image: 
   description: 
-  authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y. 
+  authors: <u>Wan, S*</u>., Mak, M. W., & Kung, S. Y. 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0022519316001545
     display: Journal of theoretical biology 398, 32-42 (2016).
@@ -385,7 +385,7 @@
   highlight: 0
   news2:
 
-- title: "38. mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
+- title: "40. mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
   image: mGOASVM.PNG
   description: This paper proposes an efficient multi-label predictor, namely mGOASVM, for predicting the subcellular localization of multi-location proteins.
   authors: <b><u>Wan, S</u></b>., Mak, MW. & Kung, SY.
@@ -394,11 +394,7 @@
     display: BMC bioinformatics 13, 1-16 (2012).
   highlight: 1
   news2:
-
-
-
-
-
+  
 - title: "41. A Method of Continuous Data Flow Embedded within Speech Signals"
   image: 
   description: 
