@@ -246,7 +246,7 @@
   - title: "26. Transductive learning for multi-label protein subchloroplast localization prediction"
   image: 
   description: 
-  authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y. 
+  authors: <u><b>Wan, S*</b></u>., Mak, M. W., & Kung, S. Y. 
   link:
     url: https://ieeexplore.ieee.org/abstract/document/7401011/
     display: IEEE/ACM transactions on computational biology and bioinformatics 14(1), 212–224 (2017).
