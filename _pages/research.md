@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Wan Lab Research Focus
 
 ### Single cell analysis
 As one of the most essential and far-reaching technologies in recent decades, single-cell sequencing has been selected as “Method of the Year” by Nature Methods three times, namely single-cell sequencing for 2013, single-cell multimodal omics for 2019 and spatial transcriptomics for 2020. By enabling profiling at the individual-cell level, single-cell sequencing enables researchers to characterize novel cell types and interrogate intra-population heterogeneity. Given the rich information single cell data reveal, there are many challenges related to single cell analysis that remain to be addressed, including but not limited to, clustering, batch effect correction, multi-modal data integration, trajectory inference, RNA velocity, etc. Our laboratory has made some contributions to the topic of clustering, where I proposed the first computational model (i.e., SHARP) that is capable of processing 10-million cells for single-cell data analysis fast and accurately. The remaining challenges are a major focus in our lab.
