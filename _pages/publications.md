@@ -56,7 +56,7 @@ permalink: /publications/
 
 
 ## Full List of publications
-### Journal Articles <font size=5>（*: corresponding author）</font>
+### Journal Articles <font size=3>（*: corresponding author）</font>
 
 {% for publi in site.data.publist %}
 
@@ -64,7 +64,8 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
-### Conference Abstracts
+### Conference 
+#### Abstracts
 {% for publi_ in site.data.publist_ %}
 
   {{ publi_.title }} <br />
