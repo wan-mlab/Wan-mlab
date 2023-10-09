@@ -28,3 +28,44 @@
   highlight: 0
   news2:
 
+- title: "4. RNA-seq and ChIP-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis" 
+  image: 
+  description: 
+  authors: Qi, W., Rosikiewicz, W., Yin, Z., Xu, B., <b><u>Wan, S*</u></b>., Fan, Y., Wu, G., and Wang, L.
+  link:
+    url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.13898
+    display: Circulation 140 (Suppl_1), A13898-A13898 (2019).
+  highlight: 0
+  news2:
+
+- title: "5. Hyper-Fast and Accurate Clustering of Ultra-Large-Scale Single-Cell Data with Ensemble Random Projection" 
+  image: 
+  description: 
+  authors: <b><u>Wan, S*</u></b>., Kim, J., Fan, Y., & Won, KJ.
+  link:
+    url: 
+    display: Cell Symposia: The Conceptual Power of Single-Cell Biology, San Francisco, CA, USA, Apr (2020). (postponed due to COVID-19 outbreak)
+  highlight: 0
+  news2:
+
+- title: "6. he Estrogen-related Receptor Coordinates Transcription Of Genes Involved In Mitochondrial And Contractile Maturation In Human Induced Pluripotent Stem Cell-derived Cardiac Myocytes" 
+  image: 
+  description: 
+  authors: Sakamoto, T., <b><u>Wan, S</u></b>., Won, K.J., and Kelly, D.P. 
+  link:
+    url: 
+    display: Circulation, vol. 140 (Suppl_1), pp. A11803-A11803 (2019). (presented in American Heart Association Scientific Session (AHA2019), Philadelphia, PA, USA, Nov. 2019)
+  highlight: 0
+  news2:
+
+- title: "7. Estrogen-Related Receptor Signaling is Critical for Postnatal Cardiac Maturation" 
+  image: 
+  description: 
+  authors: T. R. Matsuura, T. Sakamoto, D. M. Ryba, S. Wan, and D. P. Kelly
+  link:
+    url: 
+    display: Circulation, vol. 140 (Suppl_1), pp. A11803-A11803 (2019). (presented in American Heart Association Scientific Session (AHA2019), Philadelphia, PA, USA, Nov. 2019)
+  highlight: 0
+  news2:
+  
+
