@@ -65,7 +65,7 @@ permalink: /publications/
 
 {% endfor %}
 ### Conference 
-#### Abstracts
+#### Journals
 {% for publi_ in site.data.publist_ %}
 
   {{ publi_.title }} <br />
@@ -73,8 +73,8 @@ permalink: /publications/
 
 {% endfor %}
 
-#### Journals
-{% for publi_abstracts in site.data.publist_Abstract %}
+#### Abstracts
+{% for publi_abstracts in site.data.publist_Abstracts %}
 
   {{ publi_abstracts.title }} <br />
   <em>{{ publi_abstracts.authors }} </em><br /><a href="{{ publi_.link.url }}">{{ publi_.link.display }}</a>
