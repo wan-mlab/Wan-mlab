@@ -56,7 +56,7 @@ permalink: /publications/
 
 
 ## Full List of publications
-### Journal Articles <font size=3>（*: corresponding author）</font>
+### Journal Articles <font size=3>（*: corresponding author; underlined names are lab members）</font>
 
 {% for publi in site.data.publist %}
 
