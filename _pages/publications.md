@@ -73,6 +73,15 @@ permalink: /publications/
 
 {% endfor %}
 
+#### Journals
+{% for publi_abstracts in site.data.publist_Abstract %}
+
+  {{ publi_.title }} <br />
+  <em>{{ publi_.authors }} </em><br /><a href="{{ publi_.link.url }}">{{ publi_.link.display }}</a>
+
+{% endfor %}
+
+
 ### Books
 {% for publi_book in site.data.publist_book %}
 
