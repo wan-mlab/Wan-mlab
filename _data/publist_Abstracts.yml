@@ -18,16 +18,6 @@
   highlight: 0
   news2:
 
-- title: "3. Estrogen-Related Receptor Signaling is Critical for Postnatal Cardiac Maturation" 
-  image: 
-  description: 
-  authors: Matsuura, TR., Sakamoto, T., Ryba, DM., <strong><u>Wan, S</u></strong>., & Kelly, DP.
-  link:
-    url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.13898
-    display: Circulation 140 (Suppl_1), A13898-A13898 (2019).
-  highlight: 0
-  news2:
-
 - title: "4. RNA-seq and ChIP-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis" 
   image: 
   description: 
@@ -64,7 +54,7 @@
   authors: T. R. Matsuura, T. Sakamoto, D. M. Ryba, S. Wan, and D. P. Kelly
   link:
     url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.13898
-    display: Circulation, vol. 140 (Suppl_1), pp. A11803-A11803 (2019). (presented in American Heart Association Scientific Session (AHA2019), Philadelphia, PA, USA, Nov. 2019)
+    display: Circulation, vol. 140 (Suppl_1), pp. A11803-A11803 (2019). (presented in American Heart Association Scientific Session (AHA2019), Philadelphia, PA, USA)
   highlight: 0
   news2:
 
@@ -85,7 +75,7 @@
   authors: <b><u>Wan, S*</u></b>., Kim, J., and Won, K.J.
   link:
     url: https://www.iscb.org/cms_addon/conferences/rsg2018/posters.php?session=DREAM
-    display: American Diabetes Association's 79th Scientific Sessions (ADA2019), San Francisco, CA, USA, Jun (2019) (oral)
+    display: RECOMB/ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges (RSG DREAM 2018), New York, USA, Dec (2018)
   highlight: 0
   news2:
 
