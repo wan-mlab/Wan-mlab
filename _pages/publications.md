@@ -65,7 +65,7 @@ permalink: /publications/
 
 {% endfor %}
 ### Conference 
-#### Journals
+#### Papers
 {% for publi_ in site.data.publist_ %}
 
   {{ publi_.title }} <br />
