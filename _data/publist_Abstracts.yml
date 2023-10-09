@@ -8,17 +8,8 @@
   highlight: 0
   news2:
 
-- title: "2. Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
-  image: 
-  description:
-  authors: <b><u>Wan, S*</u></b>., Kim, J., Fan, Y., & Won, KJ.
-  link:
-    url: 
-    display: Cell Symposia, The Conceptual Power of Single-Cell Biology, San Francisco, CA, USA, Apr. 2020.
-  highlight: 0
-  news2:
 
-- title: "4. RNA-seq and ChIP-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis" 
+- title: "2. RNA-seq and ChIP-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis" 49
   image: 
   description: 
   authors: Qi, W., Rosikiewicz, W., Yin, Z., Xu, B., <b><u>Wan, S*</u></b>., Fan, Y., Wu, G., and Wang, L.
@@ -28,7 +19,7 @@
   highlight: 0
   news2:
 
-- title: "5. Hyper-Fast and Accurate Clustering of Ultra-Large-Scale Single-Cell Data with Ensemble Random Projection" 
+- title: "3. Hyper-Fast and Accurate Clustering of Ultra-Large-Scale Single-Cell Data with Ensemble Random Projection"  51
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Kim, J., Fan, Y., & Won, KJ.
@@ -38,7 +29,7 @@
   highlight: 0
   news2:
 
-- title: "6. The Estrogen-related Receptor Coordinates Transcription Of Genes Involved In Mitochondrial And Contractile Maturation In Human Induced Pluripotent Stem Cell-derived Cardiac Myocytes" 
+- title: "4. The Estrogen-related Receptor Coordinates Transcription Of Genes Involved In Mitochondrial And Contractile Maturation In Human Induced Pluripotent Stem Cell-derived Cardiac Myocytes" 52
   image: 
   description: 
   authors: Sakamoto, T., <b><u>Wan, S</u></b>., Won, K.J., and Kelly, D.P. 
@@ -48,7 +39,7 @@
   highlight: 0
   news2:
 
-- title: "7. Estrogen-Related Receptor Signaling is Critical for Postnatal Cardiac Maturation" 
+- title: "5. Estrogen-Related Receptor Signaling is Critical for Postnatal Cardiac Maturation" 53
   image: 
   description: 
   authors: T. R. Matsuura, T. Sakamoto, D. M. Ryba, S. Wan, and D. P. Kelly
@@ -59,7 +50,7 @@
   news2:
 
 
-- title: "8. MondoA Mediates Myocyte Lipid Accumulation and Insulin Resistance Driven by Chronic Nutrient Excess" 
+- title: "6. MondoA Mediates Myocyte Lipid Accumulation and Insulin Resistance Driven by Chronic Nutrient Excess" 54
   image: 
   description: 
   authors: Ahn, B., <b><u>Wan, S</u></b>., Won, K.J., Jaiswal, N., Titchenell, P.M.,  and D. P. Kelly.
@@ -69,7 +60,7 @@
   highlight: 0
   news2:
 
-- title: "9. Hyper-Fast and Accurate Processing of Large-Scale Single-Cell Transcriptomics Data via Ensemble Random Projection" 
+- title: "7. Hyper-Fast and Accurate Processing of Large-Scale Single-Cell Transcriptomics Data via Ensemble Random Projection" 55
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Kim, J., and Won, K.J.
