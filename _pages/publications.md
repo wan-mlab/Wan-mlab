@@ -77,7 +77,7 @@ permalink: /publications/
 {% for publi_abstracts in site.data.publist_Abstracts %}
 
   {{ publi_abstracts.title }} <br />
-  <em>{{ publi_abstracts.authors }} </em><br /><a href="{{ publi_.link.url }}">{{ publi_.link.display }}</a>
+  <em>{{ publi_abstracts.authors }} </em><br /><a href="{{ publi_.link.url }}">{{ publi_abstracts.link.display }}</a>
 
 {% endfor %}
 
