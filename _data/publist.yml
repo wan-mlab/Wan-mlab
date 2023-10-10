@@ -103,16 +103,7 @@
     url: https://www.mdpi.com/2079-7737/11/3/361
     display:  Biology 11 (3), 361 (2022).
   highlight: 0
-  
-- title: "11. The nuclear receptor ERR cooperates with the cardiogenic factor GATA4 to orchestrate cardiomyocyte maturation"
-  image: multi-omics.png
-  description:  We find that Estrogen-related receptors (ERR) signaling is necessary for induction of genes involved in mitochondrial and cardiac-specific contractile processes during human induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) differentiation. 
-  authors: Sakamoto, T., Batmanov, K., <b><u>Wan, S</u></b>., Guo, Y., Lai, L., Vega, R. B., & Kelly, D. P.
-  link:
-    url: https://www.nature.com/articles/s41467-022-29733-3
-    display: Nature Communications 13 (1), 1991 (2022).
-  highlight: 1
-  news2:
+
   
 - title: "12. Identification of a modular super-enhancer in murine retinal development"
   image: 
