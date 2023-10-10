@@ -1,23 +1,25 @@
-- title: "1. The Estrogen-related Receptor (ERR) Drives Cardiac Myocyte Maturation in Cooperation With GATA4"
-  image: 
-  description:
-  authors: Sakamoto, T., <b><u>Wan, S</u></b>., Batmanov, K., & Kelly, DP.
-  link:
-    url: 
-    display: Circulation Research 127 (Suppl_1), A222-A222 (2020)
-  highlight: 0
-  news2: 
-
-
-- title: "2. RNA-seq and ChIP-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis"
+- title: "1. RNA-seq and ChIP-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis"
   image: 
   description: 
   authors: Qi, W., Rosikiewicz, W., Yin, Z., Xu, B., <b><u>Wan, S</u></b>., Fan, Y., Wu, G., and Wang, L.
   link:
     url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.13898
-    display: Circulation 140 (Suppl_1), A13898-A13898 (2019).
+    display: AACR Annual Meeting 2021, Philadelphia, PA, Apr (2021)
   highlight: 0
   news2:
+  
+- title: "2. The Estrogen-related Receptor (ERR) Drives Cardiac Myocyte Maturation in Cooperation With GATA4"
+  image: 
+  description:
+  authors: Sakamoto, T., <b><u>Wan, S</u></b>., Batmanov, K., & Kelly, DP.
+  link:
+    url: 
+    display: Circulation Research, 127(A222-A222) (2020)
+  highlight: 0
+  news2: 
+
+
+
 
 - title: "3. Hyper-Fast and Accurate Clustering of Ultra-Large-Scale Single-Cell Data with Ensemble Random Projection"
   image: 
@@ -32,17 +34,17 @@
 - title: "4. The Estrogen-related Receptor Coordinates Transcription Of Genes Involved In Mitochondrial And Contractile Maturation In Human Induced Pluripotent Stem Cell-derived Cardiac Myocytes"
   image: 
   description: 
-  authors: Sakamoto, T., <b><u>Wan, S</u></b>., Won, K.J., and Kelly, D.P. 
+  authors: Sakamoto, T., <b><u>Wan, S</u></b>., Won, K.J., & Kelly, D.P. 
   link:
     url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.11803
-    display: Circulation, vol. 140 (Suppl_1), pp. A11803-A11803 (2019). (presented in American Heart Association Scientific Session (AHA2019), Philadelphia, PA, USA, Nov. 2019)
+    display: Circulation, vol. 140 (Suppl_1), pp. A11803-A11803 (2019). (presented in American Heart Association Scientific Session (AHA2019), Philadelphia, PA, USA, Nov (2019)
   highlight: 0
   news2:
 
 - title: "5. Estrogen-Related Receptor Signaling is Critical for Postnatal Cardiac Maturation"
   image: 
   description: 
-  authors: T. R. Matsuura, T. Sakamoto, D. M. Ryba, S. Wan, and D. P. Kelly
+  authors: Matsuura, T.R., Sakamoto, T., Ryba, D.M., <b><u>Wan, S</u></b>., & Kelly, D.P. 
   link:
     url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.13898
     display: Circulation, vol. 140 (Suppl_1), pp. A11803-A11803 (2019). (presented in American Heart Association Scientific Session (AHA2019), Philadelphia, PA, USA)
@@ -53,7 +55,7 @@
 - title: "6. MondoA Mediates Myocyte Lipid Accumulation and Insulin Resistance Driven by Chronic Nutrient Excess"
   image: 
   description: 
-  authors: Ahn, B., <b><u>Wan, S</u></b>., Won, K.J., Jaiswal, N., Titchenell, P.M.,  and D. P. Kelly.
+  authors: Ahn, B., <b><u>Wan, S</u></b>., Won, K.J., Jaiswal, N., Titchenell, P.M.,  & D. P. Kelly.
   link:
     url: 
     display: American Diabetes Association's 79th Scientific Sessions (ADA2019), San Francisco, CA, USA, Jun (2019) (oral)
@@ -63,7 +65,7 @@
 - title: "7. Hyper-Fast and Accurate Processing of Large-Scale Single-Cell Transcriptomics Data via Ensemble Random Projection"
   image: 
   description: 
-  authors: <b><u>Wan, S</u></b>., Kim, J., and Won, K.J.
+  authors: <b><u>Wan, S</u></b>., Kim, J., & Won, K.J.
   link:
     url: https://www.iscb.org/cms_addon/conferences/rsg2018/posters.php?session=DREAM
     display: RECOMB/ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges (RSG DREAM 2018), New York, USA, Dec (2018)
