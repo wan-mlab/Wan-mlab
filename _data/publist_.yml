@@ -8,8 +8,7 @@
   highlight: 0
   news2: 
 
-
- - title: "2. Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
+- title: "2. Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
   image: 
   description:
   authors: <b><u>Wan, S</u></b>., Kim, J., Fan, Y., & Won, KJ.
@@ -20,8 +19,7 @@
   news2:
 
 
-  
- - title: "3. Protecting Genomic Privacy by a Sequence-Similarity Based Obfuscation Method"
+- title: "3. Protecting Genomic Privacy by a Sequence-Similarity Based Obfuscation Method"
   image: 
   description:
   authors: <b><u>Wan, S</u></b>., Mak, M.W., & Kung, S.Y.
@@ -33,7 +31,7 @@
 
 
 
- - title: "4. Ratio Utility and Cost Analysis for Privacy Preserving Subspace Projection"
+- title: "4. Ratio Utility and Cost Analysis for Privacy Preserving Subspace Projection"
   image: 
   description:
   authors: <b><u>Wan, S</u></b>., & Kung, S.Y.
@@ -93,7 +91,6 @@
     display: 2011 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'11), Beijing, China, Sep. 2011, pp. 1-6 (2011)
   highlight: 0
   news2:
-
 
 - title: "10. A Method of Continuous Data Flow Embedded within Speech Signals"
   image: 
