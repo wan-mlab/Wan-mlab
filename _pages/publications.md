@@ -25,7 +25,7 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-6 clearfix card-equal-height card-margin">
- <div class="well" style="height: 300;">
+ <div class="well" style="height: 600;">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
