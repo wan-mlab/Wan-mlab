@@ -261,7 +261,7 @@
   news2:
 
   
-  - title: "27. Transductive learning for multi-label protein subchloroplast localization prediction"
+- title: "27. Transductive learning for multi-label protein subchloroplast localization prediction"
   image: 
   description: 
   authors: <u><b>Wan, S*</b></u>., Mak, M. W., & Kung, S. Y. 
@@ -281,7 +281,7 @@
   highlight: 0
   news2:
 
-  - title: "29. Mem-mEN: predicting multi-functional types of membrane proteins by interpretable elastic nets"
+- title: "29. Mem-mEN: predicting multi-functional types of membrane proteins by interpretable elastic nets"
   image: mem-men.png
   description: This paper proposes an efficient predictor, namely Mem-mEN, which can produce sparse and interpretable solutions for predicting membrane proteins with single- and multi-label functional types.
   authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
