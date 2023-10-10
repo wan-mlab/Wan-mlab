@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+### Group highlights
 
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [Google Scholar](https://scholar.google.com.hk/citations?user=xvnWY9wAAAAJ&hl=en).**
 
