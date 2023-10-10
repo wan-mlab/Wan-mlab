@@ -257,26 +257,6 @@
   highlight: 0
   news2:
   
-- title: "22. Protecting genomic privacy by a sequence-similarity based obfuscation method"
-  image: 
-  description: 
-  authors: <b><u>Wan, S*</u></b>., Mak, MW., & Kung, SY.
-  link:
-    url: https://arxiv.org/abs/1708.02629
-    display: arXiv preprint arXiv:1708.02629 (2017).
-  highlight: 0
-  news2:
-
-
-- title: "25. Ratio utility and cost analysis for privacy preserving subspace projection"
-  image: 
-  description: 
-  authors: Al, M., **<u>Wan, S</u>**., & Kung, SY.
-  link:
-    url: https://arxiv.org/abs/1702.07976
-    display: arXiv preprint arXiv:1702.07976 (2017).
-  highlight: 0
-  news2:
 
 
 - title: "26. Mem-ADSVM: A two-layer multi-label predictor for identifying multi-functional types of membrane proteins"
