@@ -1,96 +1,108 @@
-- title: "42. Processing Millions of Single Cells by SHARP"
+- title: "1. Processing Millions of Single Cells by SHARP"
   image: 
   description:
-  authors: <b><u>Wan, S*</u></b>., Kim, J. & Won, KJ.
+  authors: <b><u>Wan, S</u></b>., Kim, J. & Won, KJ.
   link:
     url: https://dl.acm.org/doi/abs/10.1145/3388440.3414214
-    display:  Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics, 2020
+    display:  The 11th ACM Conference on Bioinformatics, Computational Biology and Health Informatics (ACM BCB 2020), virtual online, Sep. 2020
   highlight: 0
-  news2:
+  news2: 
 
-- title: "43. The Estrogen-related Receptor (ERR) Drives Cardiac Myocyte Maturation in Cooperation With GATA4"
+
+ - title: "2. Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
   image: 
   description:
-  authors: Sakamoto, T., <b><u>Wan, S</u></b>., Batmanov, K., & Kelly, DP.
-  link:
-    url: https://www.ahajournals.org/doi/abs/10.1161/res.127.suppl_1.222
-    display:  Circulation Research 127 (Suppl_1), A222-A222 (2020)
-  highlight: 0
-  news2:
-
-- title: "44. Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
-  image: 
-  description:
-  authors: <b><u>Wan, S*</u></b>., Kim, J., Fan, Y., & Won, KJ.
+  authors: <b><u>Wan, S</u></b>., Kim, J., Fan, Y., & Won, KJ.
   link:
     url: 
-    display:  ICML 2020 Workshop on Computational Biology 1-2
+    display:  The 2020 International Conference on Machine Learning (ICML) Workshop on Computational Biology, virtual online, Jul. 2020
   highlight: 0
   news2:
 
-- title: "45. Estrogen-Related Receptor Signaling is Critical for Postnatal Cardiac Maturation" 
+
+  
+ - title: "3. Protecting Genomic Privacy by a Sequence-Similarity Based Obfuscation Method"
   image: 
-  description: 
-  authors: Matsuura, TR., Sakamoto, T., Ryba, DM., <strong><u>Wan, S</u></strong>., & Kelly, DP.
+  description:
+  authors: <b><u>Wan, S</u></b>., Mak, M.W., & Kung, S.Y.
   link:
-    url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.13898
-    display: Circulation 140 (Suppl_1), A13898-A13898 (2019).
+    url: https://arxiv.org/abs/1708.02629
+    display: 2017, arXiv preprint arXiv: 1708.02629.
   highlight: 0
   news2:
 
-- title: "46. The Estrogen-related Receptor Coordinates Transcription of Genes Involved in Mitochondrial and Contractile Maturation in Human Induced Pluripotent Stem Cell-derived Cardiac Myocytes"
+
+
+ - title: "4. Ratio Utility and Cost Analysis for Privacy Preserving Subspace Projection"
   image: 
-  description: 
-  authors: Sakamoto, T., **<u>Wan, S</u>**., Kim, J., Won, KJ., & Kelly, DP.
+  description:
+  authors: <b><u>Wan, S</u></b>., & Kung, S.Y.
   link:
-    url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.11803
-    display: Circulation 140 (Suppl_1), A11803-A11803 (2019).
+    url: https://arxiv.org/abs/1702.07976
+    display: 2017, arXiv preprint arXiv:1702.07976.
   highlight: 0
   news2:
-- title: "47. Ensemble random projection for multi-label classification with application to protein subcellular localization"
+
+- title: "5. Ensemble random projection for multi-label classification with application to protein subcellular localization"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, MW., Zhang, B., Wang, Y., & Kung, SY.
   link:
     url: https://ieeexplore.ieee.org/abstract/document/6854755/
-    display: 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 5999-6003
+    display:  2014 IEEE International Conference on Acoustic Speech and Signal Processing (ICASSP'14), Florence, Italy, May 2014, pp. 5999-6003.
   highlight: 0
   news2:
-- title: "48. An ensemble classifier with random projection for predicting multi-label protein subcellular localization"
+  
+- title: "6. An ensemble classifier with random projection for predicting multi-label protein subcellular localization"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., MW, Mak., B, Zhang., Y, Wang. & S. Kung.
   link:
     url: https://ieeexplore.ieee.org/abstract/document/6732715/
-    display: 2013 IEEE International Conference on Bioinformatics and Biomedicine, Shanghai, China 35-42
+    display: The 2013 IEEE International Conference on Bioinformatics and Biomedicine (BIBM'2013), Shanghai, China, Dec. 2013, pp. 35-42
   highlight: 0
   news2:
 
-- title: "49. Adaptive thresholding for multi-label SVM classification with application to protein subcellular localization prediction"
+- title: "7. Adaptive thresholding for multi-label SVM classification with application to protein subcellular localization prediction"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, MW., & Kung, SY.
   link:
     url: https://ieeexplore.ieee.org/abstract/document/6638318/
-    display: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing
-  highlight: 0
-  news2:
-- title: "50. GOASVM: Protein subcellular localization prediction based on gene ontology annotation and SVM"
-  image: 
-  description: 
-  authors: <b><u>Wan, S*</u></b>., Mak, MW. & Kung, SY.
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/6288356/
-    display: 2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Kyoto, Japan, 2229-2232
+    display: 2013 IEEE International Conference on Acoustic Speech and Signal Processing (ICASSP'13), Vancouver, Canada, May 2013, pp. 3547-3551.
   highlight: 0
   news2:
 
-- title: "51. Protein subcellular localization prediction based on profile alignment and Gene Ontology"
+- title: "8. GOASVM: Protein Subcellular Localization Prediction Based on Gene Ontology Annotation and SVM"
+  image: 
+  description: 
+  authors: <b><u>Wan, S*</u></b>., Mak, MW., & Kung, SY.
+  link:
+    url: https://ieeexplore.ieee.org/document/6288356?reload=true&arnumber=6288356&contentType=Conference%20Publications
+    display: 2012 IEEE International Conference on Acoustic Speech and Signal Processing (ICASSP'12), Kyoto, Japan, Mar. 2012, pp. 2229-2232
+  highlight: 0
+  news2:
+  
+  
+- title: "9. Protein subcellular localization prediction based on profile alignment and Gene Ontology"
   image: 
   description: 
   authors:  <b><u>Wan, S*</u></b>., Mak, MW. & Kung, SY.
   link:
     url: https://ieeexplore.ieee.org/abstract/document/6064613/
-    display: 2011 IEEE International Workshop on Machine Learning for Signal Processing, Beijing, China, 1-6
+    display: 2011 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'11), Beijing, China, Sep. 2011, pp. 1-6
   highlight: 0
   news2:
+
+
+- title: "10. A Method of Continuous Data Flow Embedded within Speech Signals"
+  image: 
+  description: 
+  authors:  <b><u>Wan, S</u></b>., Yao, C., Hu, Y., Zhang, G.
+  link:
+    url: https://ieeexplore.ieee.org/document/5432775
+    display: The 2-nd International Conference on Signal Acquisition and Processing (ICSAP’10), Bangalore, India, Feb. 2010, pp. 362-365
+  highlight: 0
+  news2:
+
+
