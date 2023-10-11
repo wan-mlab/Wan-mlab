@@ -1,0 +1,61 @@
+- title: " The Nuclear Receptor ERR Cooperates with the Cardiogenic Factor GATA4 to Orchestrate Transcriptional Control of Cardiomyocyte Differentiation”"
+  image: 
+  description:
+  authors: Sakamoto, T., Batmanov, K., Wan, S., Guo, Y., Lai, L., Vega, R.B. & Kelly, D.P.
+  link:
+    url: https://www.nature.com/articles/s41467-022-29733-3
+    display: Nature Communications 13, 1991 (2022)
+  highlight: 1
+
+- title: " SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
+  image: sharp.PNG
+  description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells.
+  authors: <b><u>Wan, S*</u></b>., Kim, J., & Won, K. J.
+  blank: <p> </p>
+  link:
+    url: https://genome.cshlp.org/content/30/2/205.short
+    display: Genome research 30 (2), 205-213 (2020)
+  highlight: 1
+  news2: 
+  
+- title: " FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
+  image: go.PNG
+  description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.                             
+               This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
+  authors: <b><u>Wan, S*</u></b>., Mak, MW., & Kung, SY.
+  link:
+    url: https://academic.oup.com/bioinformatics/article-abstract/33/5/749/2736075
+    display: Bioinformatics 33 (5), 749-750 (2017)
+  highlight: 1
+  news2:
+  
+- title: " Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
+  image: lnp.gif
+  description: This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
+  authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00686
+    display: Journal of proteome research 15 (12), 4755-4762 (2016)
+  highlight: 1
+  news2:
+  
+- title: " Mem-mEN: predicting multi-functional types of membrane proteins by interpretable elastic nets"
+  image: mem-men.png
+  description: This paper proposes an efficient predictor, namely Mem-mEN, which can produce sparse and interpretable solutions for predicting membrane proteins with single- and multi-label functional types.
+  authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7229308/
+    display: IEEE/ACM transactions on computational biology and bioinformatics 13(4), 706–718 (2016)
+  highlight: 1
+  news2:
+
+- title: "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
+  image: mGOASVM.PNG
+  description: This paper proposes an efficient multi-label predictor, namely mGOASVM, for predicting the subcellular localization of multi-location proteins.
+  authors: <b><u>Wan, S</u></b>., Mak, MW. & Kung, SY.
+  link:
+    url: https://link.springer.com/article/10.1186/1471-2105-13-290
+    display: BMC bioinformatics 13, 1-16 (2012)
+  highlight: 1
+  news2:
+
