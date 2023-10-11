@@ -31,7 +31,7 @@
   
 - title: " Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
   image: lnp.gif
-  description: This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins. Experimental results on a stringent benchmark dataset and a novel independent dataset suggest that LNP-Chlo performs at least 6% (absolute) better than state-of-the-art predictors. This paper also demonstrates that ensemble LNP significantly outperforms LNP based on individual features.
+  description: This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins. Experimental results on a stringent benchmark dataset and a novel independent dataset suggest that LNP-Chlo performs at least 6% (absolute) better than SOTA predictors. This paper also demonstrates that ensemble LNP significantly outperforms LNP based on individual features.
   authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00686
@@ -51,7 +51,7 @@
 
 - title: "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
   image: mGOASVM.PNG
-  description: This paper proposes an efficient multi-label predictor, namely mGOASVM, for predicting the subcellular localization of multi-location proteins. mGOASVM achieves an actual accuracy of 88.9% and 87.4%, respectively, which are significantly higher than those achieved by the state-of-the-art predictors such as iLoc-Virus (74.8%) and iLoc-Plant (68.1%).
+  description: We proposes an efficient multi-label predictor, mGOASVM, for predicting the subcellular localization of multi-location proteins. mGOASVM achieves an actual accuracy of 88.9% and 87.4%, respectively, which are significantly higher than those achieved by the SOTA predictors such as iLoc-Virus (74.8%) and iLoc-Plant (68.1%).
   authors: <b><u>Wan, S</u></b>., Mak, MW. & Kung, SY.
   link:
     url: https://link.springer.com/article/10.1186/1471-2105-13-290
