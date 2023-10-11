@@ -39,11 +39,12 @@ Projects in Wan Lab focus on develop machine learning and bioinformatics based m
    * Single Cell Multi-Omics Integration
    * Batch effect correction
    * Rare cell type detection for large-scale single cell data
-2. Leukemia Subtype Identification
-3. Antimicrobial Peptide (AMP) Identification
-4. Neuroimaging Biomarker Identification for Alcohol Use Disorder (AUD)
-5. Integrating Multi-Omics and Imaging Data for Parkinson Disease Diagnosis
-6. Prostate Cancer Research
-7. Proteomics Data Analysis
+2. Leukemia Subtype Identification (ALL, AML, etc)
+3. Cancer Disparities by AI/ML Methods
+4. Antimicrobial Peptide (AMP) Identification
+5. Neuroimaging Biomarker Identification for Alcohol Use Disorder (AUD)
+6. Integrating Multi-Omics and Imaging Data for Neurological Disorders (Alzheimer's Disease, Parkinson Disease, etc)
+7. Prostate Cancer Research
+8. Proteomics Data Analysis
 
 ### ... and more.
