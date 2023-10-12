@@ -56,6 +56,14 @@ permalink: /publications/
 
 
 ## Full List of publications
+### Books
+{% for publi_book in site.data.publist_book %}
+
+  {{ publi_book.title }} <br />
+  <em>{{ publi_book.authors }} </em><br /><a href="{{ publi_book.link.url }}">{{ publi_book.link.display }}</a>
+
+{% endfor %}
+
 ### Journal Articles <font size=3>（*: corresponding author; underlined names are lab members）</font>
 
 {% for publi in site.data.publist %}
@@ -78,14 +86,5 @@ permalink: /publications/
 
   {{ publi_abstracts.title }} <br />
   <em>{{ publi_abstracts.authors }} </em><br /><a href="{{ publi_abstracts.link.url }}">{{ publi_abstracts.link.display }}</a>
-
-{% endfor %}
-
-
-### Books
-{% for publi_book in site.data.publist_book %}
-
-  {{ publi_book.title }} <br />
-  <em>{{ publi_book.authors }} </em><br /><a href="{{ publi_book.link.url }}">{{ publi_book.link.display }}</a>
 
 {% endfor %}
