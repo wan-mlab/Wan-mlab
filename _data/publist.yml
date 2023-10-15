@@ -228,6 +228,16 @@
   highlight: 1
   news2:
 
+- title: "27. Transductive learning for multi-label protein subchloroplast localization prediction"
+  image: 
+  description: 
+  authors: <u><b>Wan, S*</b></u>., Mak, M.W.*, & Kung, S.Y.* 
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7401011/
+    display: IEEE/ACM transactions on computational biology and bioinformatics 14(1), 212–224 (2017)
+  highlight: 0
+  news2:
+  
 - title: "24. Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
   image: lnp.gif
   description: This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
@@ -261,15 +271,7 @@
   news2:
 
   
-- title: "27. Transductive learning for multi-label protein subchloroplast localization prediction"
-  image: 
-  description: 
-  authors: <u><b>Wan, S*</b></u>., Mak, M.W.*, & Kung, S.Y.* 
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/7401011/
-    display: IEEE/ACM transactions on computational biology and bioinformatics 14(1), 212–224 (2017)
-  highlight: 0
-  news2:
+
 
 - title: "28. Sparse regressions for predicting and interpreting subcellular localization of multi-label proteins"
   image: men.PNG
