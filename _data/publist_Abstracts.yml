@@ -1,7 +1,21 @@
+- title: "1. SAMP, An Accurate Ensemble Model Based on Proportionalized Split Amino Acid Composition for Identifying Antimicrobial Peptides"
+  image: 
+  description: 
+  authors: <u>Feng, J</u>., <u>Sun, M</u>., <u>Zhang, W</u>., <u>Wang, G</u>., & <b><u>Wan, S*</u></b>.
+  link:
+    url: 
+    display: Antimicrobial Peptides: Yesterday, Today and Tomorrow 2023, Omaha, NE, Oct (2023)
+  highlight: 0
+  news2:
+
+  
+
+
+
 - title: "1. B-Cell Acute Lymphoblastic Leukemia Subtype Identification with An Ensemble Random Projection-Based Machine Learning Model"
   image: 
   description: 
-  authors: <u>Li, L.</u>, <u>Xiao, H.</u>, and <b><u>Wan, S</u></b>.
+  authors: <u>Li, L.</u>, <u>Xiao, H.</u>, & <b><u>Wan, S</u></b>.
   link:
     url: 
     display: CHRI Scientific Conference 2023, Omaha, NE, Nov (2023)
@@ -11,7 +25,7 @@
 - title: "1. Integrating Multi-Omics Data by a Multi-Modal Transfer Learning Model to Reduce Healthcare Disparities for Kidney Renal Clear Cell Carcinoma"
   image: 
   description: 
-  authors: <u>Li, L.</u>, and <b><u>Wan, S</u></b>.
+  authors: <u>Li, L.</u>, & <b><u>Wan, S</u></b>.
   link:
     url: 
     display: CHRI Scientific Conference 2023, Omaha, NE, Nov (2023)
