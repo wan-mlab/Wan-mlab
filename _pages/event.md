@@ -6,6 +6,7 @@ sitemap: false
 permalink: /event/
 ---
 
+<html lang="en">
 <br>
 <br>
 <br>
@@ -77,3 +78,4 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
         </tbody>
     </table>
 </body>
+</html>
