@@ -24,16 +24,16 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
 <html lang="en">
 <body style="font-family: Arial, sans-serif; padding: 20px;">
     
-    <table border="5" cellspacing="20" cellpadding="10" align = "center" style="height: 60%; width: 80%; border-collapse: collapse;">
-        <thead align = "center">
+    <table border="4" cellspacing="20" cellpadding="10" align = "center" style=" width: 80%; border-collapse: collapse;">
+        <thead>
             <tr>
-                <th>Speaker</th>
-                <th>Date</th>
-                <th>Paper/Title</th>
-                <th>Room</th>
+                <th align = "center">Speaker</th>
+                <th align = "center">Date</th>
+                <th align = "center">Paper/Title</th>
+                <th align = "center">Room</th>
             </tr>
         </thead>
-        <tbody align = "center">
+        <tbody align = "center" height = "50">
             <tr>
                 <td>Lusheng Li</td>
                 <td>08/08/2023</td>
