@@ -1,11 +1,13 @@
 ---
 title: "Wan Lab - Events"
 layout: research
-excerpt: "Wan Lab -- Events"
+excerpt: "Wan Lab -- Research"
 sitemap: false
 permalink: /event/
 ---
 
+<br>
+<br>
 # Machine Learning Journal Club
 
 We hold biweekly meeting “Basic Machine Learning Journal Club” starting from 08-08-2023, with a hybrid mode.
