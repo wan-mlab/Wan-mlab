@@ -1,13 +1,4 @@
-- title: "1. Bioinformatics and Machine Learning for Cancer Biology"
-  image: 
-  description:
-  authors: <b><u>Wan, S</u></b>., Fan, Y., Jiang, C., & Li, S.
-  link:
-    url: https://www.mdpi.com/books/book/5918?trk=public_post_main-feed-card-text
-    display: <b>MDPI</b>, ISBN 978-3-0365-4814-2, 2022, Switzerland. (edited book)
-  highlight: 0
-
-- title: "2. Machine learning for protein subcellular localization prediction"
+- title: "1. Machine learning for protein subcellular localization prediction"
   image: 
   description: 
   authors: <u><b>Wan, S</b></u>., & Mak, MW.
@@ -16,3 +7,14 @@
     display: <b>De Gruyter</b>, ISBN 978-1-5015-0150-0, 2015, Germany
   highlight: 0
   news2:
+  
+  - title: "2. Bioinformatics and Machine Learning for Cancer Biology"
+  image: 
+  description:
+  authors: <b><u>Wan, S</u></b>., Fan, Y., Jiang, C., & Li, S.
+  link:
+    url: https://www.mdpi.com/books/book/5918?trk=public_post_main-feed-card-text
+    display: <b>MDPI</b>, ISBN 978-3-0365-4814-2, 2022, Switzerland. (edited book)
+  highlight: 0
+
+
