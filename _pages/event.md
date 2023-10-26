@@ -24,34 +24,26 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
 <html lang="en">
 <body style="font-family: Arial, sans-serif; padding: 20px;">
     
-    <table border="4" cellspacing="20" cellpadding="10" align = "center" height = "150" style=" width: 80%; border-collapse: collapse;">
-        <thead>
-            <tr>
-                <th align = "center">Speaker</th>
-                <th align = "center">Date</th>
-                <th align = "center">Paper/Title</th>
-                <th align = "center">Room</th>
-            </tr>
-        </thead>
+    <table border="4" cellspacing="20" cellpadding="10" align = "center" style=" width: 80%; border-collapse: collapse;">
         <tbody align = "center">
             <tr>
-                <td><b>Speaker</b></td>
-                <td><b>Date</b></td>
-                <td><b>Paper/Title</b></td>
-                <td><b>Room</b></td>
+                <td height = "50"><b>Speaker</b></td>
+                <td height = "50"><b>Date</b></td>
+                <td height = "50"><b>Paper/Title</b></td>
+                <td height = "50"><b>Room</b></td>
             </tr>
             <tr>
-                <td>Lusheng Li</td>
-                <td>08/08/2023</td>
-                <td>The art of using t-SNE for single-cell transcriptomics</td>
-                <td>6003</td>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">08/08/2023</td>
+                <td height = "50">The art of using t-SNE for single-cell transcriptomics</td>
+                <td height = "50">6003</td>
             </tr>
             <tr></tr>
             <tr>
-                <td>Mengtao Sun</td>
-                <td>08/23/2023</td>
-                <td>Support vector machine</td>
-                <td>6003</td>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">08/23/2023</td>
+                <td height = "50">Support vector machine</td>
+                <td height = "50">6003</td>
             </tr>
             <tr></tr>
             <tr>
