@@ -1,7 +1,7 @@
 ---
 title: "Wan Lab - Events"
 layout: textlay
-excerpt: "Wan Lab -- Research"
+excerpt: "Wan Lab -- Events"
 sitemap: false
 permalink: /event/
 ---
@@ -35,10 +35,10 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
         </thead>
         <tbody align = "center">
             <tr>
-                <th>Speaker</th>
-                <th>Date</th>
-                <th>Paper/Title</th>
-                <th>Room</th>
+                <td><b>Speaker</b></td>
+                <td><b>Date</b></td>
+                <td><b>Paper/Title</b></td>
+                <td><b>Room</b></td>
             </tr>
             <tr>
                 <td>Lusheng Li</td>
