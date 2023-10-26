@@ -1,14 +1,16 @@
 ---
-title: "Wan Lab - Events"
+title: "Events"
 layout: textlay
 excerpt: "Events"
 sitemap: false
 permalink: /event/
 ---
 
+
 # Machine Learning Journal Club
 
-We hold biweekly meeting “Basic Machine Learning Journal Club” starting from 08-08-2023, with a hybrid mode. 
+We hold biweekly meeting “Basic Machine Learning Journal Club” starting from 08-08-2023, with a hybrid mode.
+
 The meeting room is DRC I 6003, and the zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZoeVhJTmtFYTh1Zz09&from=addon" target="_blank">https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZoeVhJTmtFYTh1Zz09&from=addon</a>.
 
 <html lang="en">
