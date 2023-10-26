@@ -6,7 +6,6 @@ sitemap: false
 permalink: /event/
 ---
 
-<html lang="en">
 <br>
 <br>
 <br>
@@ -20,7 +19,7 @@ We host a biweekly meeting "Basic Machine Learning Journal Club" beginning on Au
 The Journal Club will be conducted in a hybrid mode. The physical meeting room is DRC I 6003.
 
 The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZoeVhJTmtFYTh1Zz09&from=addon" target="_blank">https://unmc.zoom.us/j/92659890542? pwd=MzdYL3dzSTk4WmZoeVhJTmtFYTh1Zz09&from=addon</a>.
-
+<html lang="en">
 <body style="font-family: Arial, sans-serif; padding: 20px;">
     
     <table border="1" cellspacing="0" cellpadding="10" style="width: 80%; border-collapse: collapse;">
