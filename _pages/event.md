@@ -80,6 +80,18 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
                 <td height = "50">Naive Bayes</td>
                 <td height = "50">6003</td>
             </tr>
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">11/28/2023</td>
+                <td height = "50">XGBoost</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
+                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">12/12/2023</td>
+                <td height = "50">Neural network​</td>
+                <td height = "50">6003</td>
+            </tr>
         </tbody>
     </table>
 </body>
