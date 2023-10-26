@@ -11,18 +11,18 @@ permalink: /news/
 10-21-2023
 
 <h> Shibiao, as an <strong>invited keynote speaker</strong>, gives a talk for <strong>The 2023 Midlands Society of Physiological Sciences (MSPS) Annual Meeting</strong>, with the title "Machine Learning for Processing Large-Scale Biological Data". The link is <a href="https://msps-online.org/">here </a>. </h>
-  
+<br>
 10-18-2023
 
 <h> Shibiao, as an Editorial Board Member, is invited to edit a special issue for <strong>Briefings in Functional Genomics</strong> (IF 4.0), with the theme "Artificial Intelligence and Multi-Omics Research for Human Diseases".</h>
-
+<br>
 10-13-2023
 
-<h> Shibiao is invited to serve as a guest editor for <b>Frontiers in Immunology</b> (IF 7.3), with the theme "New Insight of Immunosenescence and Inflammaging in Geriatric Medicine and Multimorbidity". The link is <a href="https://www.frontiersin.org/research-topics/60035/new-insight-of-immunosenescence-and-inflammaging-in-geriatric-medicine-and-multimorbidity">here </a>.</h>
+<h> Shibiao is invited to serve as a guest editor for <b>Frontiers in Immunology</b> (IF 7.3), with the theme "New Insight of Immunosenescence and Inflammaging in Geriatric Medicine and Multimorbidity". The link is <a href="https://www.frontiersin.org/research-topics/60035/new-insight-of-immunosenescence-and-inflammaging-in-geriatric-medicine-and-multimorbidity">here </a>.</h><br>
 
 10-12-2023
 
-<h> A conference abstract entitled "SAMP, An Accurate Ensemble Model Based on Proportionalized Split Amino Acid Composition for Identifying Antimicrobial Peptides" submitted to  the <b>Antimicrobial Peptides, Yesterday, Today and Tomorrow Virtual Symposium</b> by Junxi and Mengtao has been <a  href="https://sciforum.net/paper/view/14949">online</a>. Congratulations!</h>
+<h> A conference abstract entitled "SAMP, An Accurate Ensemble Model Based on Proportionalized Split Amino Acid Composition for Identifying Antimicrobial Peptides" submitted to  the <b>Antimicrobial Peptides, Yesterday, Today and Tomorrow Virtual Symposium</b> by Junxi and Mengtao has been <a  href="https://sciforum.net/paper/view/14949">online</a>. Congratulations!</h><br>
   
 10-11-2023
 
