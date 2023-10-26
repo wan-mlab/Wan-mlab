@@ -26,7 +26,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
     
     <table border="5" cellspacing="20" cellpadding="10" align = "center" style="height: 60%; width: 80%; border-collapse: collapse;">
         <thead align = "center">
-            <tr align = "center">
+            <tr>
                 <th>Speaker</th>
                 <th>Date</th>
                 <th>Paper/Title</th>
