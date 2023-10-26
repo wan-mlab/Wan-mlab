@@ -34,25 +34,25 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
             </tr>
         </thead>
         <tbody>
-            <tr style="height:50px">
+            <tr>
                 <td>Lusheng Li</td>
                 <td>08/08/2023</td>
                 <td>The art of using t-SNE for single-cell transcriptomics</td>
                 <td>6003</td>
             </tr>
-            <tr style="height:60px>
+            <tr>
                 <td>Mengtao Sun</td>
                 <td>08/23/2023</td>
                 <td>Support vector machine</td>
                 <td>6003</td>
             </tr>
-            <tr style="height:70px>
+            <tr>
                 <td>Hanyu Xiao</td>
                 <td>09/05/2023</td>
                 <td>K-Nearest Neighbors (KNN)</td>
                 <td>6003</td>
             </tr>
-            <tr style="height:80px>
+            <tr style="height:10px>
                 <td>Mengtao Sun</td>
                 <td>09/19/2023</td>
                 <td>Hierarchical clustering</td>
