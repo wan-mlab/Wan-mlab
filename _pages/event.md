@@ -24,7 +24,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
 <html lang="en">
 <body style="font-family: Arial, sans-serif; padding: 20px;">
     
-    <table border="4" cellspacing="20" cellpadding="10" align = "center" style=" width: 80%; border-collapse: collapse;">
+    <table border="4" cellspacing="20" cellpadding="10" style=" width: 80%; border-collapse: collapse;">
         <tbody align = "center">
             <tr>
                 <td height = "50"><b>Speaker</b></td>
