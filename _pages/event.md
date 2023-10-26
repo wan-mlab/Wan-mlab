@@ -10,17 +10,16 @@ permalink: /event/
 <br>
 <br>
 <br>
-<br>
 # Machine Learning Journal Club
 
-Welcome to the Basic Machine Learning Journal Club. We aim to explore and discuss the foundational concepts of machine learning in a collaborative environment. Everyone, regardless of their expertise or background, is warmly welcomed.
+###Welcome to the Basic Machine Learning Journal Club. We aim to explore and discuss the foundational concepts of machine learning in a collaborative environment. Everyone, regardless of their expertise or background, is warmly welcomed.
 
 We host a biweekly meeting "Basic Machine Learning Journal Club" beginning on August 8, 2023, from 9 AM to 10 AM (CT). 
 
 The Journal Club will be conducted in a hybrid mode. The physical meeting room is DRC I 6003.
+
 The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZoeVhJTmtFYTh1Zz09&from=addon" target="_blank">https://unmc.zoom.us/j/92659890542? pwd=MzdYL3dzSTk4WmZoeVhJTmtFYTh1Zz09&from=addon</a>.
 
-<html lang="en">
 <body style="font-family: Arial, sans-serif; padding: 20px;">
     
     <table border="1" cellspacing="0" cellpadding="10" style="width: 80%; border-collapse: collapse;">
@@ -78,4 +77,3 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
         </tbody>
     </table>
 </body>
-</html>
