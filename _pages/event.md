@@ -24,7 +24,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
 <html lang="en">
 <body style="font-family: Arial, sans-serif; padding: 20px;">
     
-    <table border="1" cellspacing="10" cellpadding="10" style="width: 80%; border-collapse: collapse;">
+    <table border="1" cellspacing="10" cellpadding="10" style="height: 60%; width: 80%; border-collapse: collapse;">
         <thead>
             <tr>
                 <th>Speaker</th>
@@ -52,7 +52,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
                 <td>K-Nearest Neighbors (KNN)</td>
                 <td>6003</td>
             </tr>
-            <tr style="height:10px>
+            <tr>
                 <td>Mengtao Sun</td>
                 <td>09/19/2023</td>
                 <td>Hierarchical clustering</td>
