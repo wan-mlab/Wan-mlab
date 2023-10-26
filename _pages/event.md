@@ -20,7 +20,7 @@ The Journal Club will be conducted in a hybrid mode. The physical meeting room i
 
 The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZoeVhJTmtFYTh1Zz09&from=addon" target="_blank">https://unmc.zoom.us/j/92659890542? pwd=MzdYL3dzSTk4WmZoeVhJTmtFYTh1Zz09&from=addon</a>.
 
-
+<br>
 <html lang="en">
 <body style="font-family: Arial, sans-serif; padding: 20px;">
     
