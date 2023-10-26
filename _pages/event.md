@@ -38,50 +38,47 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
                 <td height = "50">The art of using t-SNE for single-cell transcriptomics</td>
                 <td height = "50">6003</td>
             </tr>
-            <tr></tr>
             <tr>
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">08/23/2023</td>
                 <td height = "50">Support vector machine</td>
                 <td height = "50">6003</td>
             </tr>
-            <tr></tr>
             <tr>
-                <td>Hanyu Xiao</td>
-                <td>09/05/2023</td>
-                <td>K-Nearest Neighbors (KNN)</td>
-                <td>6003</td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td>Mengtao Sun</td>
-                <td>09/19/2023</td>
-                <td>Hierarchical clustering</td>
-                <td>6003</td>
+                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">09/05/2023</td>
+                <td height = "50">K-Nearest Neighbors (KNN)</td>
+                <td height = "50">6003</td>
             </tr>
             <tr>
-                <td>Lusheng Li</td>
-                <td>10/03/2023</td>
-                <td>The Introduction of Decision Tree and Random Forest​</td>
-                <td>6003</td>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">09/19/2023</td>
+                <td height = "50">Hierarchical clustering</td>
+                <td height = "50">6003</td>
             </tr>
             <tr>
-                <td>Hanyu Xiao</td>
-                <td>10/17/2023</td>
-                <td>Linear Regression (LR)​</td>
-                <td>6003</td>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">10/03/2023</td>
+                <td height = "50">The Introduction of Decision Tree and Random Forest​</td>
+                <td height = "50">6003</td>
             </tr>
             <tr>
-                <td>Mengtao Sun</td>
-                <td>10/31/2023</td>
-                <td>Principal component analysis (PCA)</td>
-                <td>6003</td>
+                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">10/17/2023</td>
+                <td height = "50">Linear Regression (LR)​</td>
+                <td height = "50">6003</td>
             </tr>
             <tr>
-                <td>Andy Liu</td>
-                <td>11/14/2023</td>
-                <td>Naive Bayes</td>
-                <td>6003</td>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">10/31/2023</td>
+                <td height = "50">Principal component analysis (PCA)</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
+                <td height = "50">Andy Liu</td>
+                <td height = "50">11/14/2023</td>
+                <td height = "50">Naive Bayes</td>
+                <td height = "50">6003</td>
             </tr>
         </tbody>
     </table>
