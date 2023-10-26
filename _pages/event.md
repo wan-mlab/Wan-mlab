@@ -1,9 +1,9 @@
 ---
-title: "Wan Lab - Research"
+title: "Wan Lab - Events"
 layout: research
 excerpt: "Wan Lab -- Research"
 sitemap: false
-permalink: /research/
+permalink: /event/
 ---
 
 # Wan Lab Research Focus
