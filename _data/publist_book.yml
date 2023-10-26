@@ -6,7 +6,7 @@
     url: https://books.google.com/books?hl=en&lr=&id=QpilCQAAQBAJ&oi=fnd&pg=PR5&dq=info:cbutAL_0EDEJ:scholar.google.com&ots=3aSvBEftE6&sig=jcmsq9_TKrXfV4UIjLLC0i9MRhg
     display: <b>De Gruyter</b>, ISBN 978-1-5015-0150-0, 2015, Germany
   highlight: 0
-  news2:
+ 
   
   - title: "2. Bioinformatics and Machine Learning for Cancer Biology"
   image: 
@@ -16,5 +16,5 @@
     url: https://www.mdpi.com/books/book/5918?trk=public_post_main-feed-card-text
     display: <b>MDPI</b>, ISBN 978-3-0365-4814-2, 2022, Switzerland. (edited book)
   highlight: 0
-
+  news2:
 
