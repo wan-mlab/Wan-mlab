@@ -56,6 +56,9 @@ permalink: /news/
 06-19-2023
 <h> Shibiao, as a PI, is awarded the <b>ACORN Pilot Grant</b>, with Dr. Jieqiong Wang as the co-PI!</h>
 <br>
+06-05-2023
+<h> Shibiao is invited to give a seminar talk for <b>Department of Biochemistry and Molecular Biology at UNMC</b>. </h>
+<br>
 05-09-2023
 <h> Shibiao is invited to give a keynote lecture for <b>The 2023 Midlands Society of Physiological Sciences (MSPS) Annual Meeting</b> on Oct. 21, 2023. The link is <a href="https://msps-online.org/">here </a>.</h> 
 <br>
