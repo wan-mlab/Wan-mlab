@@ -9,7 +9,7 @@ permalink: /news/
 # News
 
 11-10-2023
-<h> Shibiao is awarded the competitive <b>FIRST Award of the NSF supported Nebraska EPSCoR program</b>!</h>
+<h> Shibiao is awarded the <b>FIRST Award of the NSF supported Nebraska EPSCoR program</b>!</h>
 <br>
 10-21-2023
 <h> Shibiao, as an <strong>invited keynote speaker</strong>, gives a talk for <strong>The 2023 Midlands Society of Physiological Sciences (MSPS) Annual Meeting</strong>, with the title "Machine Learning for Processing Large-Scale Biological Data". The link is <a href="https://msps-online.org/">here </a>. </h>
