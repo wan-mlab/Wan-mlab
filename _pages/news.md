@@ -36,7 +36,7 @@ permalink: /news/
 <h> Shibiao is accepted to be a grant reviewer in the <b>NIH Early Career Reviewer (ECR) program</b> at the Center for Scientific Review (CSR) of NIH!</h>
 <br>
 09-27-2023
-<h> Shibiao is awarded the <b>NIH P30 CCSG Supplemental Funding</b>! We will focus on <b>developing a machine learning framework to identify AML subtypes based on single-cell and bulk multi-omics CCDI data</b>. Thanks for the generous support from NIH!</h>
+<h> Shibiao is awarded the <b>NIH P30 CCSG Supplemental Funding</b>! We will focus on <b>developing a machine learning framework to identify AML subtypes based on single-cell and bulk multi-omics CCDI data</b>. The link is <a href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/progress/projects?cid=eb_govdel_ccdi_adhoc">here </a>. Thanks for the generous support from NIH!</h>
 <br>
 09-20-2023
 <h> Junxi and Mengtao are invited to present a <b>poster presentation</b> in the <b>Antimicrobial Peptides, Yesterday, Today and Tomorrow Virtual Symposium</b> at UNMC. Congratulations!</h>
