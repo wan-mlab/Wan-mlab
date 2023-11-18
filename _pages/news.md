@@ -9,7 +9,7 @@ permalink: /news/
 # News
 
 11-17-2023
-<h>The official NCI announcement for our <b>NIH P30 CCSG Supplemental Funding</b> is <a href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/progress/projects?cid=eb_govdel_ccdi_adhoc">here </a>. Our lab is fortunately one of the eight funded groups!</h>
+<h>The official NCI announcement for our <b>NIH P30 CCSG Supplemental Funding</b> is <a href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/progress/projects?cid=eb_govdel_ccdi_adhoc">here </a>. We are fortunately one of the eight funded groups!</h>
 <br>
 11-10-2023
 <h> Shibiao is awarded the <b>FIRST Award of the NSF supported Nebraska EPSCoR program</b>! The link is <a href="https://epscor.nebraska.edu/programs/first-awards-specifics">here </a>.</h>
