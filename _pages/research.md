@@ -31,7 +31,7 @@ Bioinformatics tool development is one of the thematic research directions in Wa
 
 
 
-### Ongoing Research Projects
+### Ongoing research projects
 Projects in Wan Lab focus on develop artificial intelligence/machine learning and bioinformatics/computational biology based methods for single cell analysis, multi-omics analysis, spatial transcriptomics, cancer research, intelligent healthcare, and precision medicine.
 1. Single Cell Analysis
    * Ultra-large-scale clustering for single cell transcriptomics data analysis
