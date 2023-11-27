@@ -10,7 +10,6 @@ permalink: /activity/
 <br>
 <br>
 <br>
-
 ## Thanksgiving Lunch
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
