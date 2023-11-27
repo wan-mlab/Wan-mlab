@@ -5,7 +5,8 @@ excerpt: "Wan Lab -- Events"
 sitemap: false
 permalink: /event/
 ---
-
+<br>
+<br>
 # Machine Learning Journal Club
 
 #### Welcome to the Basic Machine Learning Journal Club. We aim to explore and discuss the foundational concepts of machine learning in a collaborative environment. Everyone, regardless of their expertise or background, is warmly welcomed.
