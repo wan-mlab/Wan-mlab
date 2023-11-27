@@ -20,13 +20,13 @@ permalink: /activity/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lunch.png" alt="Slide 1" width="80%" float:center />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lunch.png" alt="Slide 1" width="80%" display:block margin-left:auto margin-right:auto/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lab_photo1.png" alt="Slide 2" width="80%" float:center />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lab_photo1.png" alt="Slide 2" width="80%" display:block margin-left:auto margin-right:auto />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lab_photo2.png" alt="Slide 3" width="80%" float:center />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lab_photo2.png" alt="Slide 3" width="80%" display:block margin-left:auto margin-right:auto />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
