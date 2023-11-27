@@ -40,6 +40,7 @@ permalink: /activity/
 </div>
 
 ## CHRI Scientific Conference 2023, Omaha, NE, Nov (2023)
+Lusheng is invited to present "B-Cell Acute Lymphoblastic Leukemia Subtype Identification with An Ensemble Random Projection-Based Machine Learning Model" and "Integrating Multi-Omics Data by a Multi-Modal Transfer Learning Model to Reduce Healthcare Disparities for Kidney Renal Clear Cell Carcinoma" during the <b>CHRI Scientific Conference</b>.
 
 ## The 2023 Midlands Society of Physiological Sciences (MSPS) Annual Meeting
 Shibiao, as an <strong>invited keynote speaker</strong>, gives a talk for <strong>The 2023 Midlands Society of Physiological Sciences (MSPS) Annual Meeting</strong>, with the title "Machine Learning for Processing Large-Scale Biological Data". The link is <a href="https://msps-online.org/">here </a>.
