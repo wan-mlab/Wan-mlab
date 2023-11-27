@@ -13,6 +13,9 @@ permalink: /news/
 11-17-2023
 <h>The official NCI announcement for our <b>NIH P30 CCSG Supplemental Funding</b> is <a href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/progress/projects?cid=eb_govdel_ccdi_adhoc">here </a>. We are fortunately one of the eight funded groups!</h>
 <br>
+11-12-2023
+<h> As Shibiao being a co-corresponding author, a collaboration journal article on ferroptosis with Dr. Luo is accepted by <b>Naunyn-Schmiedeberg's Archives of Pharmacology</b> (IF 3.6). The link is <a href="https://link.springer.com/article/10.1007/s00210-023-02854-2">here </a>.</h>
+<br>
 11-10-2023
 <h> Shibiao is awarded the <b>FIRST Award of the NSF supported Nebraska EPSCoR program</b>! The link is <a href="https://epscor.nebraska.edu/programs/first-awards-specifics">here </a>.</h>
 <br>
@@ -50,7 +53,7 @@ permalink: /news/
 <h> Lusheng is invited to present a <b>poster presentation</b> in the <b>Pediatric Cancer Research Group Symposium (PCRG)</b> hosted by Child Health Research Institute (CHRI) at UNMC. Congratulations!</h>
 <br>
 07-19-2023
-<h> A collaboration journal article on sarcoma with Dr Ghosal is accepted by <b>Molecular Cancer Research</b> (IF 5.2).</h>
+<h> A collaboration journal article on sarcoma with Dr. Ghosal is accepted by <b>Molecular Cancer Research</b> (IF 5.2).</h>
 <br>
 07-13-2023
 <h> The first journal article by members in Wan Lab is accepted by <b>Frontiers in Genetics</b> (IF 3.7). Congrats to Mengtao, Lusheng, Hanyu and Junxi!</h>
