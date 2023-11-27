@@ -1,7 +1,7 @@
 ---
 title: "Wan Lab - Events"
 layout: textlay
-excerpt: "Wan Lab -- Events"
+excerpt: "Events"
 sitemap: false
 permalink: /event/
 ---
