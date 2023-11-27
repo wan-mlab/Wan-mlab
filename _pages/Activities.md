@@ -6,7 +6,7 @@ sitemap: false
 permalink: /activity/
 ---
 
-## Thanksgiving Lunch
+## Thanksgiving Lunch - 2023
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -20,13 +20,13 @@ permalink: /activity/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lunch.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lunch.png" alt="Slide 1" width="300" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lab_photo1.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lab_photo1.png" alt="Slide 2" width="300" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lab_photo2.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/lab_photo2.png" alt="Slide 3" width="300" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
