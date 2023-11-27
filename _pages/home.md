@@ -5,6 +5,10 @@ excerpt: "Wan Lab@UNMC"
 sitemap: false
 permalink: /
 ---
+<br>
+<br>
+<br>
+<br>
 
 The **Wan Lab** in the <a href = "https://www.unmc.edu/genetics/" target="_blank">Department of Genetics, Cell Biology and Anatomy (GCBA)</a> at <a href = "https://www.unmc.edu/" target="_blank">University of Nebraska Medical Center (UNMC)</a> is focusing on machine learning, bioinformatics, and computational biology, especially in single-cell analysis, multi-omics analysis, spatial transcriptomics, cancer research, intelligent healthcare, and precision medicine. To unravel the mechanisms of molecular biological systems in which enormous amounts of heterogeneous data are usually involved, bioinformatics and machine learning are perfect tools. Besides collaborating with scientists in cancer biology, metabolism, immunology, pathology and developmental biology, our laboratory is mainly to develop artificial intelligence, machine learning and/or data science-based methods to tackle essential biomedical problems in genomics, transcriptomics, epigenetics, proteomics, metabolomics, and interactomes as well as medical imaging data and electronic health records (EHR) data.
 
