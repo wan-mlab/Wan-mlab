@@ -39,7 +39,7 @@
   
 - title: "4. Editorial: Ferroptosis as a Novel Therapeutic Target for Inflammation-Related Diseases"
   image: 
-  authors: Liang, Y., Su, Z., Mao, X., **<u>Wan, S*</u>**., & Luo, L. 
+  authors: Liang, Y., Su, Z., Mao, X., **<u>Wan, S*</u>**., & Luo, L*. 
   description: 
   link:
     url: https://www.frontiersin.org/articles/10.3389/fphar.2023.1152326/full
@@ -67,7 +67,7 @@
   highlight: 0
 
 
-- title: "7. The Nuclear Receptor ERR Cooperates with the Cardiogenic Factor GATA4 to Orchestrate Transcriptional Control of Cardiomyocyte Differentiation”"
+- title: "7. The Nuclear Receptor ERR Cooperates with the Cardiogenic Factor GATA4 to Orchestrate Transcriptional Control of Cardiomyocyte Differentiation"
   image: 
   description:
   authors: Sakamoto, T., Batmanov, K., <b><u>Wan, S</u></b>., Guo, Y., Lai, L., Vega, R.B. & Kelly, D.P.
@@ -89,7 +89,7 @@
 - title: "9. A Sequence Obfuscation Method for Protecting Personal Genomic Privacy"
   image: 
   description:
-  authors: <b><u>Wan, S*</u></b>., & Wang, J.
+  authors: <b><u>Wan, S*</u></b>., & Wang, J*.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fgene.2022.876686/full
     display:  Frontiers in Genetics 13, 876686 (2022)
@@ -261,7 +261,7 @@
 - title: "25. Benchmark data for identifying multi-functional types of membrane proteins"
   image: 
   description: 
-  authors: <b><u>Wan, S*</u></b>., Mak M.W.*, & Kung S.Y.*
+  authors: <b><u>Wan, S*</u></b>., Mak M.W.*, & Kung S.Y.
   link:
     url: https://www.data-in-brief.com/article/S2352-3409(16)30312-2/abstract
     display: Data in Brief 8, 105-107 (2016)
@@ -273,7 +273,7 @@
 - title: "26. Mem-ADSVM: A two-layer multi-label predictor for identifying multi-functional types of membrane proteins"
   image: 
   description: 
-  authors: <b><u>Wan, S*</u></b>., Mak, M.W.*, & Kung, S.Y.* 
+  authors: <b><u>Wan, S*</u></b>., Mak, M.W.*, & Kung, S.Y.
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0022519316001545
     display: Journal of theoretical biology 398, 32-42 (2016)
