@@ -8,8 +8,6 @@ permalink: /research/
 <br>
 <br>
 <br>
-<br>
-
 # Wan Lab Research Focus
 
 ### Single Cell Analysis
