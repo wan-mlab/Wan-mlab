@@ -1,3 +1,13 @@
+- title: "1. Procyanidin alleviates ferroptosis and inflammation of LPS‑induced RAW264.7 cell via the Nrf2/HO‑1 pathway"
+  image: 
+  description: 
+  authors: Zeng, J., Weng, Y., Lai, T., Chen, L., Li, Y., Huang, Q., Zhong, S., <b><u>Wan, S*</u></b>., Luo, L*.
+  link:
+    url: https://doi.org/10.1007/s00210-023-02854-2
+    display: Naunyn-Schmiedeberg's Arch Pharmacol (2023)
+  highlight: 0
+  news2:
+  
 - title: "1. Editorial: Bioinformatics Analysis of Omics Data for Biomarker Identification in Clinical Research, Volume II"
   image: 
   description: 
@@ -42,7 +52,7 @@
   description: 
   link:
     url: https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1125186/full
-    display: Frontiers in Oncology, 13, 1125186 (2023)
+    display: Frontiers in Oncology 13, 1125186 (2023)
   highlight: 0
 
 
@@ -365,3 +375,5 @@
     display: BMC bioinformatics 13, 1-16 (2012)
   highlight: 1
   news2:
+
+
