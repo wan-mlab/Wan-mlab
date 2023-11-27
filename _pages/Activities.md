@@ -39,6 +39,7 @@ permalink: /activity/
   </a>
 </div>
 </div>
+<br>
 <div id="textid" class="col-sm-12">
 ## CHRI Scientific Conference 2023, Omaha, NE, Nov (2023)
 Lusheng is invited to present "B-Cell Acute Lymphoblastic Leukemia Subtype Identification with An Ensemble Random Projection-Based Machine Learning Model" and "Integrating Multi-Omics Data by a Multi-Modal Transfer Learning Model to Reduce Healthcare Disparities for Kidney Renal Clear Cell Carcinoma" during the <b>CHRI Scientific Conference</b>.
@@ -75,11 +76,13 @@ Lusheng is invited to present "B-Cell Acute Lymphoblastic Leukemia Subtype Ident
   </a>
 </div>
 </div>
+<br>
 <div id="textid" class="col-sm-12">
 ## The 2023 Midlands Society of Physiological Sciences (MSPS) Annual Meeting
 Shibiao, as an <strong>invited keynote speaker</strong>, gives a talk for <strong>The 2023 Midlands Society of Physiological Sciences (MSPS) Annual Meeting</strong>, with the title "Machine Learning for Processing Large-Scale Biological Data". The link is <a href="https://msps-online.org/">here </a>.
 </div>
-<div markdown="1" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" class="col-sm-9" >
+<div class="col-sm-9">
+<div markdown="1" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -109,4 +112,4 @@ Shibiao, as an <strong>invited keynote speaker</strong>, gives a talk for <stron
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+</div>
