@@ -48,10 +48,10 @@ Lusheng is invited to present "B-Cell Acute Lymphoblastic Leukemia Subtype Ident
 <div markdown="0" id="carousel1" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel1" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel1" data-slide-to="1"></li>
+        <li data-target="#carousel1" data-slide-to="2"></li>
+        <li data-target="#carousel1" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
@@ -85,10 +85,10 @@ Shibiao, as an <strong>invited keynote speaker</strong>, gives a talk for <stron
 <div markdown="0" id="carousel2" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel2" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel2" data-slide-to="1"></li>
+        <li data-target="#carousel2" data-slide-to="2"></li>
+        <li data-target="#carousel2" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
