@@ -16,8 +16,8 @@ Before joining UNMC, Dr. Wan was a Bioinformatics Research Scientist at <a href 
 - Assistant Professor, Department of Genetics, Cell Biology and Anatomy, University of Nebraska Medical Center, 2022-present.
 - Assistant Director, Bioinformatics and Systems Biology Core, University of Nebraska Medical Center, 2022-present.
 - Bioinformatics Research Scientist, Center for Applied Bioinformatics, St. Jude Children's Research Hospital, 2019-2022.
-- Postdoctoral Researcher, Department of Genetics and IDOM, University of Pennsylvania, 2017 - 2019. Supervisor: Prof. Daniel Kelly and Dr. Kyoung Jae Won.
-- Postdoctoral Researcher, Department of Genetics and IDOM, University of Pennsylvania, 2017 - 2019. Supervisor: Prof. Daniel Kelly and Dr. Kyoung Jae Won.
+- Postdoctoral Researcher, Department of Genetics and Institute of Diabetes, Obesity and Metabolism (IDOM), University of Pennsylvania, 2017 - 2019. Supervisor: Dr. Kyoung Jae Won and Prof. Daniel Kelly.
+- Postdoctoral Research Associate, Department of Electrical Engineering, Princeton University, 2016 - 2017. Supervisor: Prof. Sun-Yuan Kung.
 - Postdoctoral Fellow, Department of Electronic and Information Engineering, The Hong Kong Polytechnic University, Hong Kong SAR, 2014 - 2016. Supervisor: Dr. Man-Wai Mak.
 - Research Associate, Department of Electronic and Information Engineering, The Hong Kong Polytechnic University, Hong Kong SAR, 2014. Supervisor: Dr. Man-Wai Mak.
 - Visiting scholar, The Johns Hopkins School of Medicine, MD, USA and CBIL lab of Virginia Tech, VA, USA , 2013. Supervisor: Prof. Yue Wang.
