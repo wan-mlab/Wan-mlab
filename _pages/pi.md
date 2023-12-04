@@ -23,14 +23,11 @@ Before joining UNMC, Dr. Wan was a Bioinformatics Research Scientist at <a href 
 - Visiting scholar, The Johns Hopkins School of Medicine, MD, USA and CBIL lab of Virginia Tech, VA, USA , 2013. Supervisor: Prof. Yue Wang.
 
 ### AWARDS & HONORS
-- EIE Outstanding Young Alumni Award, awarded by The Hong Kong Polytechnic University, 2022;
+- Nebraska EPSCoR FIRST Award, Lincoln, NE, USA, 2023;
+- IEEE Senior Member, Piscataway, NJ, USA, 2022;
+- EIE Outstanding Young Alumni Award, awarded by The Hong Kong Polytechnic University, HK SAR, China, 2022;
 - Top reviewers in Cross-Field (top 1%), awarded by [Clarivate](https://publons.com/awards/peer-review/2019/by-field/), 2019;
 - Top reviewers in Biology and Biochemistry (top 1%), awarded by [Clarivate](https://publons.com/awards/peer-review/2019/by-field/), 2019;
 - Brandeis Postdoctoral Fellowship, Princeton, NJ, USA, 2016-2018;
-- “Best Poster Award” in the 6-th Beijing-Hong Kong International Doctoral Forum 2011, Hong Kong SAR, Aug., 2011;
-- Postgraduate Scholarship, The Hong Kong Polytechnic University, Hong Kong SAR, 2010-2014;
-- National Assistantship, Wuhan, China, 2008-2009;
-- National Inspirational Scholarship, Wuhan, China, 2007-2008;
-- Excellent Scholarship (the 3-rd prize), Wuhan, China, 2007-2008;
-- The Freshmen Scholarship, Wuhan, China, 2006-2007.
+- “Best Poster Award” in the 6-th Beijing-Hong Kong International Doctoral Forum 2011, Hong Kong SAR, Aug., 2011.
 
