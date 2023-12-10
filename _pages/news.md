@@ -21,7 +21,6 @@ permalink: /news/
 <br>
 11-01-2023
 <h> Our collaboration journal article on sarcoma published in <b>Molecular Cancer Research</b> (IF 5.2) is highlighted as <b>Editor's Pick</b>. The link is <a href="https://aacrjournals.org/mcr/article-abstract/21/11/1121/729783/Selected-Articles-from-This-Issue?redirectedFrom=fulltext">here </a>.</h>
-  
 <br>
 10-21-2023
 <h> Shibiao, as an <strong>invited keynote speaker</strong>, gives a talk for <strong>The 2023 Midlands Society of Physiological Sciences (MSPS) Annual Meeting</strong>, with the title "Machine Learning for Processing Large-Scale Biological Data". The link is <a href="https://msps-online.org/">here </a>. </h>
