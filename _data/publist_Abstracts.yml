@@ -1,3 +1,23 @@
+- title: "1. RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model"
+  image: 
+  description: 
+  authors: <u>Li, L.</u>., <u>Xiao, H.</u>, Khoury, J. D., Wang, J., & <b><u>Wan, S*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2024, San Diego, CA, Apr (2024)
+  highlight: 0
+  news2:
+
+- title: "1. Reducing health disparities for prostate adenocarcinoma by integrating multi-omics data via a multi-modal transfer learning approach"
+  image: 
+  description: 
+  authors: <u>Li, L.</u>., Wang, J., & <b><u>Wan, S*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2024, San Diego, CA, Apr (2024)
+  highlight: 0
+  news2:
+  
 - title: "1. SAMP: An Accurate Ensemble Model Based on Proportionalized Split Amino Acid Composition for Identifying Antimicrobial Peptides"
   image: 
   description: 
@@ -7,10 +27,6 @@
     display: Antimicrobial Peptides, Yesterday, Today and Tomorrow 2023, Omaha, NE, Oct (2023)
   highlight: 0
   news2:
-
-  
-
-
 
 - title: "1. B-Cell Acute Lymphoblastic Leukemia Subtype Identification with An Ensemble Random Projection-Based Machine Learning Model"
   image: 
