@@ -8,7 +8,7 @@ permalink: /news/
 
 # News
 12-15-2023
-<h> An abstract, titled "RanBALL, Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model", has been accepted by <b>AACR Annual Meeting 2024</b>. Congratulations to Lusheng and Hanyu!</h>
+<h> An abstract, titled "RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model", has been accepted by <b>AACR Annual Meeting 2024</b>. Congratulations to Lusheng and Hanyu!</h>
 <br>
 12-15-2023
 <h> An abstract, titled "Reducing health disparities for prostate adenocarcinoma by integrating multi-omics data via a multi-modal transfer learning approach", has been accepted by <b>AACR Annual Meeting 2024</b>. Congratulations to Lusheng!</h>
