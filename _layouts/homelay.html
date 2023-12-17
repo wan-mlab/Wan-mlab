@@ -11,20 +11,21 @@ layout: default
 	
 	{{ content }}
         <br>
-	<br>
 	<div id="eventid" class="col-sm-7" >
 	        <div class="well">
 		<h4>Machine Learning Journal Club</h4>
 		<h4><a href="{{ site.url }}{{ site.baseurl }}/event">Schedule</a></h4>
 			</div>
   	</div>
+	<br>
+	<div id="activityid" class="col-sm-7" >
+		<div class="well">
+		<h4>Lab Activities</h4>
+		<h4><a href="{{ site.url }}{{ site.baseurl }}/Activities">See All Activities</a></h4>
+			</div>
+  </div>  
   </div>
   <div id="newsid" class="col-sm-4" >
 	{% include news.html %}
   </div>
-  <div id="eventid" class="col-sm-4" >
-	<div class="well">
-	<h4>Machine Learning Journal Club</h4>
-	<h4><a href="{{ site.url }}{{ site.baseurl }}/event">more info</a></h4>
-		</div>
-  </div>
+  
