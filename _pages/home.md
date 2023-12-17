@@ -57,5 +57,10 @@ The **Wan Lab** in the <a href = "https://www.unmc.edu/genetics/" target="_blank
 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
+<br>
+<div id="eventid" class="col-sm-5" >
+	<div class="well">
+	<h4>Machine Learning Journal Club</h4>
+	<h4><a href="{{ site.url }}{{ site.baseurl }}/event">Schedule</a></h4>
+		</div>
+</div>
