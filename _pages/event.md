@@ -1,5 +1,5 @@
 ---
-title: "Wan Lab - Events"
+title: "Events"
 layout: textlay
 excerpt: "Events"
 sitemap: false
