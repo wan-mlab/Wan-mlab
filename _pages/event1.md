@@ -1,6 +1,6 @@
 ---
 title: "Wan Lab - Events"
-layout: default
+layout: eventlay
 excerpt: "Events"
 sitemap: false
 permalink: /event1/
