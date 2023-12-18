@@ -96,10 +96,10 @@ Shibiao, as an <strong>invited keynote speaker</strong>, gives a talk for <stron
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/msps5.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/msps5_revise.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/msps4.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/msps4_revise.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/msps1.png" alt="Slide 3" />
