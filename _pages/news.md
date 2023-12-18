@@ -7,6 +7,9 @@ permalink: /news/
 ---
 
 # News
+12-18-2023
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH Biodata Management and Analysis (BDMA) Study Section</b>!</h>
+<br>
 12-15-2023
 <h> An abstract, titled "RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model", has been accepted by <b>AACR Annual Meeting 2024</b>. Congratulations to Lusheng and Hanyu!</h>
 <br>
