@@ -7,6 +7,9 @@ permalink: /news/
 ---
 
 # News
+12-29-2023
+<h> Shibiao is appointed as the <b>Editor-in-Chief</b> for <b>Current Proteomics</b> (SCI-indexed, IF: 0.8)! The link is <a href="https://benthamscience.com/journal/70/editorial-board">here </a></h>
+<br>
 12-27-2023
 <h> Shibiao is awarded the <b>Fred & Pamela Buffet Cancer Center (BCC) American Cancer Society (ACS) Institutional Research Grant (IRG) Seed Grants Program</b>! </h>
 <br>
