@@ -7,6 +7,9 @@ permalink: /news/
 ---
 
 # News
+01-05-2024
+<h> Shibiao is invited to be a reviewer for the <b>IEEE Senior Member Application Review Panel</b>.</h>
+<br>
 12-29-2023
 <h> Shibiao is appointed as the <b>Editor-in-Chief</b> for <b>Current Proteomics</b> (SCI-indexed)! The link is <a href="https://benthamscience.com/journal/70/editorial-board">here</a>.</h>
 <br>
