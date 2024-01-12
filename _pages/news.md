@@ -19,7 +19,7 @@ permalink: /news/
 12-27-2023
 <h> Shibiao is awarded the <b>Fred & Pamela Buffet Cancer Center (BCC) American Cancer Society (ACS) Institutional Research Grant (IRG) Seed Grants Program</b>! </h>
 <br>
-01-09-2024
+12-21-2023
 <h> <b>Wenhao</b> joined the lab as a research intern. Welcome aboard!</h>
 <br>
 12-18-2023
@@ -73,7 +73,7 @@ permalink: /news/
 10-07-2023
 <h> Shibiao is accepted to be a grant reviewer in the <b>NIH Early Career Reviewer (ECR) program</b> at the Center for Scientific Review (CSR) of NIH!</h>
 <br>
-01-09-2024
+10-06-2023
 <h> <b>Yijin</b> joined the lab as a research intern. Welcome aboard!</h>
 <br>
 09-27-2023
