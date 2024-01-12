@@ -8,7 +8,7 @@ permalink: /news/
 
 # News
 01-12-2024
-<h> Shibiao is invited to serve as an Associate Editor for <b>Heliyon</b> (IF 4), a journal published by Cell Press. </h>
+<h> Shibiao is invited to serve as an <b>Associate Editor</b> for <b>Heliyon</b> (IF 4), a journal published by Cell Press. </h>
 <br>
 01-09-2024
 <h> <b>Xuehuan</b> joins our lab as a research intern. Welcome aboard!</h>
