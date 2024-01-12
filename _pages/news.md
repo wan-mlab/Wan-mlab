@@ -7,6 +7,9 @@ permalink: /news/
 ---
 
 # News
+01-09-2024
+<h> <b>Xuehuan</b> joined the lab as a research intern. Welcome aboard!</h>
+<br>
 01-05-2024
 <h> Shibiao is invited to be a reviewer for the <b>IEEE Senior Member Application Review Panel</b>.</h>
 <br>
@@ -15,6 +18,9 @@ permalink: /news/
 <br>
 12-27-2023
 <h> Shibiao is awarded the <b>Fred & Pamela Buffet Cancer Center (BCC) American Cancer Society (ACS) Institutional Research Grant (IRG) Seed Grants Program</b>! </h>
+<br>
+01-09-2024
+<h> <b>Wenhao</b> joined the lab as a research intern. Welcome aboard!</h>
 <br>
 12-18-2023
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH Biodata Management and Analysis (BDMA) Study Section</b>!</h>
@@ -67,8 +73,14 @@ permalink: /news/
 10-07-2023
 <h> Shibiao is accepted to be a grant reviewer in the <b>NIH Early Career Reviewer (ECR) program</b> at the Center for Scientific Review (CSR) of NIH!</h>
 <br>
+01-09-2024
+<h> <b>Yijin</b> joined the lab as a research intern. Welcome aboard!</h>
+<br>
 09-27-2023
 <h> Shibiao is awarded the <b>NIH P30 CCSG Supplemental Funding</b>! We will focus on <b>developing a machine learning framework to identify AML subtypes based on single-cell and bulk multi-omics CCDI data</b>. The link is <a href="https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/progress/projects?cid=eb_govdel_ccdi_adhoc">here </a>. Thanks for the generous support from NIH!</h>
+<br>
+09-26-2023
+<h> <b>Andy (Cong Liu)</b> joined the lab as a research intern. Welcome aboard!</h>
 <br>
 09-20-2023
 <h> Junxi and Mengtao are invited to present a <b>poster presentation</b> in the <b>Antimicrobial Peptides, Yesterday, Today and Tomorrow Virtual Symposium</b> at UNMC. Congratulations!</h>
@@ -85,6 +97,9 @@ permalink: /news/
 07-03-2023
 <h> A collaboration journal article on breast cancer bioprinting with Dr. Duan and Dr. Band is accepted by <b>Advanced Healthcare Materials</b> (IF 10.0).</h>
 <br>
+06-30-2023
+<h> <b>Cece</b> joined the lab as a research intern. Welcome aboard!</h>
+<br>
 06-29-2023
 <h> Shibiao is invited to join the <b>AI Task Force</b> in UNMC and Nebraska Medicine.</h>
 <br>
@@ -97,8 +112,14 @@ permalink: /news/
 05-09-2023
 <h> Shibiao is invited to give a keynote lecture for <b>The 2023 Midlands Society of Physiological Sciences (MSPS) Annual Meeting</b> on Oct. 21, 2023. The link is <a href="https://msps-online.org/">here </a>.</h> 
 <br>
+04-27-2023
+<h> <b>Junxi</b> joined the lab as a research intern. Welcome aboard!</h>
+<br>
 04-07-2023
 <h> Shibiao is invited to serve as an Editorial Board Member for <b>Briefings in Functional Genomics</b> (IF 4.840).</h>
+<br>
+04-07-2023
+<h> <b>Mengtao</b> joined the lab as a master student in UNMC. Welcome aboard!</h>
 <br>
 03-31-2023
 <h> Shibiao is elected to be a member on the <b>BISB (Bioinformatics and Systems Biology) Graduate Committee at UNMC</b>.</h>
@@ -111,6 +132,9 @@ permalink: /news/
 <br>
 03-15-2023
 <h> Shibiao is invited to serve as an Editorial Board Member for <b>PeerJ Computer Science</b> (IF 2.411).</h>
+<br>
+03-10-2023
+<h> <b>Lusheng</b> joined the lab as a master student in UNMC. Welcome aboard!</h>
 <br>
 02-09-2023
 <h> Shibiao is invited to serve as a handling editor for <b>Frontiers in Oncology</b> (IF 5.738).</h>
@@ -126,6 +150,9 @@ permalink: /news/
 <br>
 01-13-2023
 <h> Shibiao is invited to give a seminar talk for <b>Department of Biostatistics at UNMC</b>. </h>
+<br>
+01-12-2023
+<h> <b>Hanyu</b> joined the lab as a master student in UNMC. Welcome aboard!</h>
 <br>
 01-06-2023
 <h> Shibiao is invited to serve as an Editorial Board Member for <b>BMC Bioinformatics</b> (IF 3.328). </h>
