@@ -10,7 +10,7 @@ permalink: /pi/
 
 <b>Highlights</b>
 
-- >50 publications (including one book)
+- \>50 publications (including one book)
 
 - Google Scholar Citations: >1200
 
