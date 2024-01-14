@@ -16,37 +16,9 @@ permalink: /pi/
 
 - Editor-in-Chief for Current Proteomics
 
-- Editorial Board Member for
+- Editorial Board Member for Briefings in Functional Genomics (IF: 4.840), Heliyon (IF: 4), BMC Bioinformatics (IF: 3.328), PeerJ Computer Science (IF: 2.411), BioMed Research International (IF: 3.411), and Computational and Mathematical Methods (IF: 2.809)
 
-    - Briefings in Functional Genomics (IF: 4.840)
-
-    - Heliyon (IF: 4)
-
-    - BMC Bioinformatics (IF: 3.328)
-
-    - PeerJ Computer Science (IF: 2.411)
-
-    - BioMed Research International (IF: 3.411)
-
-    - Computational and Mathematical Methods (IF: 2.809)
-
-- Guest Associate Editor for 
-
-    - Frontiers in Immunology (IF: 8.786)
-
-    - Frontiers in Cell and Developmental Biology (IF: 6.684)
-
-    - Frontiers in Pharmacology (IF: 5.988)
-
-    - Frontiers in Oncology (IF: 5.738)
-
-    - Biology (IF: 5.079)
-
-    - Frontiers in Genetics (IF: 4.599)
-
-    - Genes (IF: 4.141)
-
-    - Frontiers in Psychology (IF: 3.8)
+- Guest Associate Editor for Frontiers in Immunology (IF: 8.786), Frontiers in Cell and Developmental Biology (IF: 6.684), Frontiers in Pharmacology (IF: 5.988), Frontiers in Oncology (IF: 5.738), Biology (IF: 5.079), Frontiers in Genetics (IF: 4.599), Genes (IF: 4.141), and Frontiers in Psychology (IF: 3.8)
 
 - TPC Member for IEEE ICTAI (2016-present) and >20 other machine learning international conferences
 
