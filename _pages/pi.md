@@ -26,7 +26,7 @@ permalink: /pi/
 
 - Top Reviewers (top 1%) in Cross-Field (2019), and Biology and Biochemistry (2019) awarded by Clarivate
 
-- Outstanding Young Alumni Awardee (2021-2022)
+- Outstanding Young Alumni Awardee (2022)
 
 - Developed 15 highly accessed <a href = "https://sites.google.com/site/shibiaowan/research/softwares" target="_blank">bioinformatics tools</a>
 
