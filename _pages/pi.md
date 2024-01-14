@@ -14,21 +14,21 @@ permalink: /pi/
 
 - <a href = "https://scholar.google.com.hk/citations?user=xvnWY9wAAAAJ&hl=en" target="_blank">Google Scholar Citations</a>: >1200
 
-- <a https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editor-in-Chief</a> for Current Proteomics
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editor-in-Chief</a> for Current Proteomics
 
-- <a https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editorial Board Member</a> for Briefings in Functional Genomics (IF: 4.840), Heliyon (IF: 4), BMC Bioinformatics (IF: 3.328), PeerJ Computer Science (IF: 2.411), BioMed Research International (IF: 3.411), and Computational and Mathematical Methods (IF: 2.809)
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editorial Board Member</a> for Briefings in Functional Genomics (IF: 4.840), Heliyon (IF: 4), BMC Bioinformatics (IF: 3.328), PeerJ Computer Science (IF: 2.411), BioMed Research International (IF: 3.411), and Computational and Mathematical Methods (IF: 2.809)
 
-- <a https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Guest Associate Editor</a> for Frontiers in Immunology (IF: 8.786), Frontiers in Cell and Developmental Biology (IF: 6.684), Frontiers in Pharmacology (IF: 5.988), Frontiers in Oncology (IF: 5.738), Biology (IF: 5.079), Frontiers in Genetics (IF: 4.599), Genes (IF: 4.141), and Frontiers in Psychology (IF: 3.8)
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Guest Associate Editor</a> for Frontiers in Immunology (IF: 8.786), Frontiers in Cell and Developmental Biology (IF: 6.684), Frontiers in Pharmacology (IF: 5.988), Frontiers in Oncology (IF: 5.738), Biology (IF: 5.079), Frontiers in Genetics (IF: 4.599), Genes (IF: 4.141), and Frontiers in Psychology (IF: 3.8)
 
-- <a https://sites.google.com/site/shibiaowan/professional-activities/tpc-member-for-international-conferences" target="_blank">TPC Member</a> for IEEE ICTAI (2016-present) and >20 other machine learning international conferences
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/tpc-member-for-international-conferences" target="_blank">TPC Member</a> for IEEE ICTAI (2016-present) and >20 other machine learning international conferences
 
-- <a https://sites.google.com/site/shibiaowan/professional-activities/reviewer-for-journals" target="_blank">Reviewer</a> for >50 journals including , Nucleic Acids Research (IF: 14.9), Genome Medicine (IF: 12.3), Cancer Research (IF: 11.2), Briefings in Bioinformatics (IF: 11.6), and IEEE TNNLS (IF: 10.4)
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/reviewer-for-journals" target="_blank">Reviewer</a> for >50 journals including , Nucleic Acids Research (IF: 14.9), Genome Medicine (IF: 12.3), Cancer Research (IF: 11.2), Briefings in Bioinformatics (IF: 11.6), and IEEE TNNLS (IF: 10.4)
 
 - Top Reviewers (top 1%) in Cross-Field (2019), and Biology and Biochemistry (2019) awarded by Clarivate
 
 - Outstanding Young Alumni Awardee (2021-2022)
 
-- Developed 15 highly accessed <a https://sites.google.com/site/shibiaowan/research/softwares" target="_blank">bioinformatics tools</a>
+- Developed 15 highly accessed <a href = "https://sites.google.com/site/shibiaowan/research/softwares" target="_blank">bioinformatics tools</a>
 
 - IEEE Senior Member
 
