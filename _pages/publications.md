@@ -71,9 +71,8 @@ permalink: /publications/
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
-{% endfor %}
-### Conference 
-#### Conference Papers
+{% endfor %} 
+### Conference Papers
 {% for publi_ in site.data.publist_ %}
 
   {{ publi_.title }} <br />
@@ -81,7 +80,7 @@ permalink: /publications/
 
 {% endfor %}
 
-#### Conference Abstracts
+### Conference Abstracts
 {% for publi_abstracts in site.data.publist_Abstracts %}
 
   {{ publi_abstracts.title }} <br />
