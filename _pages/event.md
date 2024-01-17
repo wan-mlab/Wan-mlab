@@ -39,56 +39,68 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
             </tr>
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">02/23/2023</td>
-                <td height = "50">Support vector machine</td>
-                <td height = "50">6003</td>
-            </tr>
-            <tr>
-                <td height = "50">Hanyu Xiao</td>
-                <td height = "50">09/05/2023</td>
-                <td height = "50">K-Nearest Neighbors (KNN)</td>
-                <td height = "50">6003</td>
-            </tr>
-            <tr>
-                <td height = "50">Mengtao Sun</td>
-                <td height = "50">09/19/2023</td>
-                <td height = "50">Hierarchical clustering</td>
+                <td height = "50">02/06/2023</td>
+                <td height = "50">Gradient Descent</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">10/03/2023</td>
-                <td height = "50">The Introduction of Decision Tree and Random Forest​</td>
+                <td height = "50">02/20/2023</td>
+                <td height = "50">Back-Propagation</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Hanyu Xiao</td>
-                <td height = "50">10/17/2023</td>
-                <td height = "50">Linear Regression (LR)​</td>
+                <td height = "50">03/05/2023</td>
+                <td height = "50">LASSO</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">10/31/2023</td>
-                <td height = "50">Principal component analysis (PCA)</td>
-                <td height = "50">6003</td>
-            </tr>
-            <tr>
-                <td height = "50">Andy Liu</td>
-                <td height = "50">11/14/2023</td>
-                <td height = "50">Naive Bayes</td>
-                <td height = "50">6003</td>
-            </tr>
-            <tr>
-                <td height = "50">Hanyu Xiao</td>
-                <td height = "50">11/28/2023</td>
-                <td height = "50">Neural network​</td>
+                <td height = "50">03/19/2023</td>
+                <td height = "50">Autoencoder</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">12/12/2023</td>
-                <td height = "50">XGBoost​</td>
+                <td height = "50">04/02/2023</td>
+                <td height = "50">Non-negative Matrix Factorization (NMF)​</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
+                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">04/16/2023</td>
+                <td height = "50">Restricted Boltzmann Machine</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">04/30/2023</td>
+                <td height = "50">Multi-Layer Perceptron</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">05/14/2023</td>
+                <td height = "50">UMAP​</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
+                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">05/28/2023</td>
+                <td height = "50">Recurrent Neural Networks (RNN)​</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">06/11/2023</td>
+                <td height = "50">Convolutional Neural Networks (CNN)​</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">06/25/2023</td>
+                <td height = "50">Generative Adversarial Networks (GAN)​</td>
                 <td height = "50">6003</td>
             </tr>
         </tbody>
