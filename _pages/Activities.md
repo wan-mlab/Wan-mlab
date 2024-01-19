@@ -99,7 +99,7 @@ Shibiao, as an <strong>invited keynote speaker</strong>, gives a talk for <stron
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/msps5_revise.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/msps4_revise.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/msps4_revise_v2.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/msps1.png" alt="Slide 3" />
