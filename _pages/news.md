@@ -7,6 +7,12 @@ permalink: /news/
 ---
 
 # News
+01-19-2024
+<h> Shibiao is invited to give a seminar talk for <b>VA Research Seminar at UNMC</b>. </h>
+<br>
+01-17-2024
+<h> Shibiao is invited to give a seminar talk for <b>Surgery Research Forum of Department of Regenerative Medicine at UNMC</b>. </h>
+<br>
 01-12-2024
 <h> Shibiao is invited to serve as an <b>Associate Editor</b> for <b>Heliyon</b> (IF 4), a journal published by Cell Press. </h>
 <br>
