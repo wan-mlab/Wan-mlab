@@ -28,13 +28,13 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height="50" colspan="4"><b>2024 Schedule</b></td>
             </tr>
-            <tr>
+            <tr style="border-bottom: 2px solid black;">
                 <td height = "50"><b>Speaker</b></td>
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Paper/Title</b></td>
                 <td height = "50"><b>Room</b></td>
             </tr>
-            <tr>
+            <tr style="border-bottom: 2px solid black;">
                 <td height = "50">Hanyu Xiao</td>
                 <td height = "50">01/23/2024</td>
                 <td height = "50">Expectation-Maximization (EM) Algorithm</td>
@@ -157,13 +157,13 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height="50" colspan="4"><b>2023 Schedule</b></td>
             </tr>
-            <tr>
+            <tr style="border-bottom: 2px solid black;">
                 <td height = "50"><b>Speaker</b></td>
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Paper/Title</b></td>
                 <td height = "50"><b>Room</b></td>
             </tr>
-            <tr>
+            <tr style="border-bottom: 2px solid black;">
                 <td height = "50">Lusheng Li</td>
                 <td height = "50">08/08/2023</td>
                 <td height = "50">The art of using t-SNE for single-cell transcriptomics</td>
