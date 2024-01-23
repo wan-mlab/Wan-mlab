@@ -10,9 +10,9 @@ permalink: /event/
 <br>
 <br>
 # AI/ML Journal Club
-
+<br>
 #### Welcome to the AI/ML Journal Club. We aim to explore and discuss the foundational concepts of artificial intelligence and machine learning in a collaborative environment. Everyone, regardless of their expertise or background, is warmly welcomed.
-
+<br>
 We host a biweekly meeting "AI/ML Journal Club" beginning on January 23, 2024, from 9 AM to 10 AM (CT). 
 
 The Journal Club will be conducted in a hybrid mode. The physical meeting room is DRC I 6003.
