@@ -9,15 +9,15 @@ permalink: /event/
 <br>
 <br>
 <br>
-# Machine Learning Journal Club
+# AI/ML Journal Club
 
-#### Welcome to the Basic Machine Learning Journal Club. We aim to explore and discuss the foundational concepts of machine learning in a collaborative environment. Everyone, regardless of their expertise or background, is warmly welcomed.
+#### Welcome to the AI/ML Journal Club. We aim to explore and discuss the foundational concepts of artificial intelligence and machine learning in a collaborative environment. Everyone, regardless of their expertise or background, is warmly welcomed.
 
-We host a biweekly meeting "Basic Machine Learning Journal Club" beginning on January 23, 2024, from 9 AM to 10 AM (CT). 
+We host a biweekly meeting "AI/ML Journal Club" beginning on January 23, 2024, from 9 AM to 10 AM (CT). 
 
 The Journal Club will be conducted in a hybrid mode. The physical meeting room is DRC I 6003.
 
-The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZoeVhJTmtFYTh1Zz09&from=addon" target="_blank">https://unmc.zoom.us/j/92659890542? pwd=MzdYL3dzSTk4WmZoeVhJTmtFYTh1Zz09&from=addon</a>.
+The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHlqcXNUZFZBR2Z5QT09&from=addon" target="_blank">https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHlqcXNUZFZBR2Z5QT09&from=addon</a>.
 
 <br>
 <html lang="en">
@@ -25,6 +25,9 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
     
     <table border="4" cellspacing="20" cellpadding="10" style=" width: 80%; border-collapse: collapse;">
         <tbody align = "center">
+            <tr>
+                <td height="50" colspan="4"><b>2024 Schedule</b></td>
+            </tr>
             <tr>
                 <td height = "50"><b>Speaker</b></td>
                 <td height = "50"><b>Date</b></td>
@@ -151,6 +154,9 @@ The Zoom link is <a href="https://unmc.zoom.us/j/92659890542?pwd=MzdYL3dzSTk4WmZ
     
     <table border="4" cellspacing="20" cellpadding="10" style=" width: 80%; border-collapse: collapse;">
         <tbody align = "center">
+            <tr>
+                <td height="50" colspan="4"><b>2023 Schedule</b></td>
+            </tr>
             <tr>
                 <td height = "50"><b>Speaker</b></td>
                 <td height = "50"><b>Date</b></td>
