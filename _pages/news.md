@@ -8,7 +8,7 @@ permalink: /news/
 
 # News
 02-13-2024
-<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH RECOVER COVID Initiative Systems Biology Multiomics Study Section</b>!</h>
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH RECOVER COVID Initiative Systems Biology Multiomics Study Section</b>.</h>
 <br>
 01-19-2024
 <h> Shibiao is invited to give a seminar talk for <b>VA Research Seminar at UNMC</b>. </h>
