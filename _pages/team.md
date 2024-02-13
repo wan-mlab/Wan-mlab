@@ -1,7 +1,6 @@
 ---
 title: "Wan Lab - Team"
 layout: gridlay
-excerpt: "Wan Lab: Team Members"
 sitemap: false
 permalink: /team/
 ---
