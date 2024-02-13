@@ -1,7 +1,6 @@
 ---
 title: "Activities"
 layout: textlay
-excerpt: "Activities"
 sitemap: false
 permalink: /activity/
 ---
