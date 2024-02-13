@@ -1,7 +1,6 @@
 ---
 title: "Events"
 layout: textlay
-excerpt: "Events"
 sitemap: false
 permalink: /event/
 ---
