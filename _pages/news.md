@@ -1,7 +1,6 @@
 ---
 title: "Wan Lab - News"
 layout: textlay
-excerpt: "News"
 sitemap: false
 permalink: /news/
 ---
