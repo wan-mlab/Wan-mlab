@@ -1,7 +1,6 @@
 ---
 title: "Wan Lab - Research"
 layout: research
-excerpt: "Wan Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
