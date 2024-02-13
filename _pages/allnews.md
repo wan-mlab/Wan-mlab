@@ -1,7 +1,6 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Wan Lab@UNMC"
 sitemap: false
 permalink: /allnews.html
 ---
