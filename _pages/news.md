@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+02-14-2024
+<h> <b>Simar</b> joins our lab as a research intern. Welcome aboard!</h>
+<br>
 02-13-2024
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH RECOVER COVID Initiative Systems Biology Multiomics Study Section</b>. </h>
 <br>
