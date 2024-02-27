@@ -11,7 +11,7 @@ permalink: /pi/
 
 - \>50 [Publications]({{ site.url }}{{ site.baseurl }}/publications) (including one book)
 
-- <a href = "https://scholar.google.com.hk/citations?user=xvnWY9wAAAAJ&hl=en" target="_blank">Google Scholar Citations</a>: >1200
+- <a href = "https://scholar.google.com.hk/citations?user=xvnWY9wAAAAJ&hl=en" target="_blank">Google Scholar Citations</a>: >1300
 
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editor-in-Chief</a> for Current Proteomics
 
