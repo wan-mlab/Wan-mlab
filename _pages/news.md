@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+10-31-2023
+<h> Shibiao is invited to serve as a reviewer for <b>Nature Communications</b> (IF 16.6).</h>
+<br>
 02-22-2024
 <h> Shibiao is invited to serve as a guest editor for <b>International Journal of Molecular Sciences</b> (IF 5.6), with the theme "Ferroptosis: Emerging Mechanisms, Physiological Functions, and Therapeutic Applications". The link is <a href="https://www.mdpi.com/journal/ijms/special_issues/R33KE7TM23">here</a>.</h>
 <br>
@@ -65,6 +68,9 @@ permalink: /news/
 <br>
 11-01-2023
 <h> Our collaboration journal article on sarcoma published in <b>Molecular Cancer Research</b> (IF 5.2) is highlighted as <b>Editor's Pick</b>. The link is <a href="https://aacrjournals.org/mcr/article-abstract/21/11/1121/729783/Selected-Articles-from-This-Issue?redirectedFrom=fulltext">here </a>.</h>
+<br>
+10-31-2023
+<h> Shibiao is invited to serve as a reviewer for <b>Nature Computational Science</b> (IF 11.3).</h>
 <br>
 10-21-2023
 <h> Shibiao, as an <strong>invited keynote speaker</strong>, gives a talk for <strong>The 2023 Midlands Society of Physiological Sciences (MSPS) Annual Meeting</strong>, with the title "Machine Learning for Processing Large-Scale Biological Data". The link is <a href="https://msps-online.org/">here </a>. </h>
