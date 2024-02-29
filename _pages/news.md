@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 02-22-2024
-<h> Shibiao is invited to serve as a guest editor for <b>International Journal of Molecular Sciences</b> (IF 5.6), with the theme "Ferroptosis: Emerging Mechanisms, Physiological Functions, and Therapeutic Applications". </h>
+<h> Shibiao is invited to serve as a guest editor for <b>International Journal of Molecular Sciences</b> (IF 5.6), with the theme "Ferroptosis: Emerging Mechanisms, Physiological Functions, and Therapeutic Applications". The link is <a href="https://www.mdpi.com/journal/ijms/special_issues/R33KE7TM23">here</a>.</h>
 <br>
 02-14-2024
 <h> <b>Simar</b> joins our lab as a research intern. Welcome aboard!</h>
