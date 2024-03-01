@@ -21,7 +21,7 @@ permalink: /pi/
 
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities/tpc-member-for-international-conferences" target="_blank">TPC Member</a> for IEEE ICTAI (2016-present) and >20 other machine learning international conferences
 
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/reviewer-for-journals" target="_blank">Reviewer</a> for >50 journals including, Nature Communications (IF: 16.6), Nature Computational Science (IF: 11.3), Nucleic Acids Research (IF: 14.9), Genome Medicine (IF: 12.3), Cancer Research (IF: 11.2), Briefings in Bioinformatics (IF: 11.6), and IEEE TNNLS (IF: 10.4)
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities/reviewer-for-journals" target="_blank">Reviewer</a> for >50 journals including Nature Communications (IF: 16.6), Nature Computational Science (IF: 11.3), Nucleic Acids Research (IF: 14.9), Genome Medicine (IF: 12.3), Cancer Research (IF: 11.2), Briefings in Bioinformatics (IF: 11.6), and IEEE TNNLS (IF: 10.4)
 
 - Top Reviewers (top 1%) in Cross-Field (2019), and Biology and Biochemistry (2019) awarded by Clarivate
 
