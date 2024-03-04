@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+03-04-2024
+<h> A review article preprint titled “A Review for Artificial Intelligence Based Protein Subcellular Localization” is available online. The link is <a href="https://urldefense.com/v3/__https://www.preprints.org/manuscript/202403.0120/v1__;!!JkUDQA!PxRoXGXDNZ1q4rR06cequg5AL9iUgePvncGfubeNluM6VlDuQUNVPc4BpjW8b3_M3GNJVhZltS39AoaspVsTM3m5mgs$">here</a>. Congratulations to <b>Hanyu</b> and <b>Yijin</b>! </h>
+<br>
 02-29-2024
 <h> Shibiao is invited to serve as a reviewer for <b>Nature Communications</b> (IF 16.6).</h>
 <br>
