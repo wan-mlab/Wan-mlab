@@ -53,7 +53,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             </tr>
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">03/05/2024</td>
+                <td height = "50">03/12/2024</td>
                 <td height = "50">Back-Propagation</td>
                 <td height = "50">6003</td>
             </tr>
