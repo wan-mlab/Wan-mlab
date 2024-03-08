@@ -55,4 +55,4 @@ The **Wan Lab** in the <a href = "https://www.unmc.edu/genetics/" target="_blank
 
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new PhD students, Postdocs, and Master students to join our team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
