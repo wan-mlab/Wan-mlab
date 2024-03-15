@@ -55,3 +55,16 @@ Before joining UNMC, Dr. Wan was a Bioinformatics Research Scientist at <a href 
 - Brandeis Postdoctoral Fellowship, Princeton, NJ, USA, 2016-2018;
 - “Best Poster Award” in the 6-th Beijing-Hong Kong International Doctoral Forum 2011, Hong Kong SAR, Aug., 2011.
 
+### MEMBERSHIPS
+- Senior Member, Institute of Electrical and Electronics Engineers (IEEE)
+- Member, American Association of Cancer Research (AACR)
+- Member, International Society for Computational Biology (ISCB)
+- Member, Association for Computing Machinery (ACM)
+- Member, Fred and Pamela Buffet Cancer Center (FPBCC) at UNMC
+- Member, Children Health Research Institute (CHRI) at UNMC
+- Member, Alcohol Center of Research: Nebraska (ACORN) at UNMC
+- Member, Nebraska Center for Women’s Health Research (NCWHR) at UNMC
+
+
+
+
