@@ -7,6 +7,9 @@ permalink: /news/
 
 # News
 03-11-2024
+<h>A review article titled “A Review for Artificial Intelligence Based Protein Subcellular Localization” is accepted for publication at the journal <b>Biomolecules</b> (IF 5.5, JCR Q1). Congratulations to <b>Hanyu</b> and <b>Yijin</b>!</h>
+<br>
+03-11-2024
 <h> <b>Grace</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
 03-08-2024
