@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 03-28-2024
-<h> Hanyu has been selected as one of the recipients of <b>the 2024 Nancy and Ronald Reagan Alzheimer’s Scholarship Fund Award</b>. Congratulations to <b>Hanyu</b>!</h>
+<h> <b>Hanyu</b> has been selected as one of the recipients of <b>the 2024 Nancy and Ronald Reagan Alzheimer’s Scholarship Fund Award</b>. Congratulations to <b>Hanyu</b>!</h>
 <br>
 03-25-2024
 <h> <b>Nick</b> will join our lab as a master student this August. Welcome aboard!</h>
