@@ -60,6 +60,7 @@ Before joining UNMC, Dr. Wan was a Bioinformatics Research Scientist at <a href 
 - Member, American Association of Cancer Research (AACR)
 - Member, International Society for Computational Biology (ISCB)
 - Member, Association for Computing Machinery (ACM)
+- Member, Organization for Human Brain Mapping (OHBM)
 - Member, Fred and Pamela Buffet Cancer Center (FPBCC) at UNMC
 - Member, Children Health Research Institute (CHRI) at UNMC
 - Member, Alcohol Center of Research: Nebraska (ACORN) at UNMC
