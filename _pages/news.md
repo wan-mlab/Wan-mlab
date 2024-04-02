@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+04-02-2024
+<h> <b>Weiqi</b> joins our lab as a research intern. Welcome aboard!</h>
+<br>
 03-28-2024
 <h> <b>Hanyu</b> has been selected as one of the recipients of <b>the 2024 Nancy and Ronald Reagan Alzheimer’s Scholarship Fund Award</b>. Congratulations to <b>Hanyu</b>!</h>
 <br>
