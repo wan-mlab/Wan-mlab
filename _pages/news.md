@@ -10,7 +10,7 @@ permalink: /news/
 <h> Shibiao is invited to serve as an <b>Academic Editor</b> for <b>International Journal of Microbiology</b> (IF 3.4). </h>
 <br>
 04-09-2024
-<h> <b>Lusheng</b> presented two posters: "RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model" and "Reducing health disparities for prostate adenocarcinoma by integrating multi-omics data via a multi-modal transfer learning approach" at <b>AACR Annual Meeting 2024</b>.</h>
+<h> <b>Lusheng</b> presents two posters: "RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model" and "Reducing health disparities for prostate adenocarcinoma by integrating multi-omics data via a multi-modal transfer learning approach" at <b>AACR Annual Meeting 2024</b>.</h>
 <br>
 04-02-2024
 <h> <b>Weiqi</b> joins our lab as a research intern. Welcome aboard!</h>
