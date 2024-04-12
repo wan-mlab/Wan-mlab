@@ -14,7 +14,7 @@
   blank: <p> </p>
   link:
     url: https://genome.cshlp.org/content/30/2/205.short
-    display: Genome research 30 (2), 205-213 (2020)
+    display: Genome Research 30 (2), 205-213 (2020)
   highlight: 1
   news2: 
   
@@ -35,7 +35,7 @@
   authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00686
-    display: Journal of proteome research 15 (12), 4755-4762 (2016)
+    display: Journal of Proteome Research 15 (12), 4755-4762 (2016)
   highlight: 1
   news2:
   
@@ -45,7 +45,7 @@
   authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
   link:
     url: https://ieeexplore.ieee.org/abstract/document/7229308/
-    display: IEEE/ACM transactions on computational biology and bioinformatics 13(4), 706–718 (2016)
+    display: IEEE/ACM Transactions on Computational Biology and Bioinformatics 13(4), 706–718 (2016)
   highlight: 1
   news2:
 
@@ -55,7 +55,7 @@
   authors: <b><u>Wan, S</u></b>., Mak, MW. & Kung, SY.
   link:
     url: https://link.springer.com/article/10.1186/1471-2105-13-290
-    display: BMC bioinformatics 13, 1-16 (2012)
+    display: BMC Bioinformatics 13, 1-16 (2012)
   highlight: 1
   news2:
 
