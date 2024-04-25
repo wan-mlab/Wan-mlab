@@ -76,57 +76,57 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">6003</td>
             </tr>
             <tr>
-                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">Wenhao Zhang</td>
                 <td height = "50">04/30/2024</td>
+                <td height = "50">Transformer</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
+                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">05/14/2024</td>
                 <td height = "50">Restricted Boltzmann Machine</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">05/14/2024</td>
+                <td height = "50">05/28/2024</td>
                 <td height = "50">Multi-Layer Perceptron</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">05/28/2024</td>
+                <td height = "50">06/11/2024</td>
                 <td height = "50">UMAP​</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Hanyu Xiao</td>
-                <td height = "50">06/11/2024</td>
+                <td height = "50">06/25/2024</td>
                 <td height = "50">Recurrent Neural Networks (RNN)​</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">06/25/2024</td>
+                <td height = "50">07/09/2024</td>
                 <td height = "50">Convolutional Neural Networks (CNN)​</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">07/09/2024</td>
+                <td height = "50">07/23/2024</td>
                 <td height = "50">Generative Adversarial Networks (GAN)​</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Hanyu Xiao</td>
-                <td height = "50">07/23/2024</td>
+                <td height = "50">08/06/2024</td>
                 <td height = "50">Deep Reinforcement Learning</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">08/06/2024</td>
-                <td height = "50">Self-Organizing Maps (SOMs)​</td>
-                <td height = "50">6003</td>
-            </tr>
-            <tr>
-                <td height = "50">Lusheng Li</td>
                 <td height = "50">08/20/2024</td>
-                <td height = "50">Transformer​</td>
+                <td height = "50">Self-Organizing Maps (SOMs)​</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
