@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 04-26-2024
-<h> A research article “SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based on Proportionalized Split Amino Acid Composition” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2024.04.25.590553v1">here</a>. Congratulations to <b>Junxi</b>, <b>Mengtao</b> and <b>Andy</b>!</h>
+<h> A research article preprint “SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based on Proportionalized Split Amino Acid Composition” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2024.04.25.590553v1">here</a>. Congratulations to <b>Junxi</b>, <b>Mengtao</b> and <b>Andy</b>!</h>
 <br>
 04-12-2024
 <h> Shibiao is invited to serve as an <b>Academic Editor</b> for <b>International Journal of Microbiology</b> (IF 3.4). </h>
