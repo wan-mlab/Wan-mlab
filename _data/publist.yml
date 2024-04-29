@@ -33,7 +33,7 @@
 - title: "1. Editorial: Bioinformatics Analysis of Omics Data for Biomarker Identification in Clinical Research, Volume II"
   image: 
   description: 
-  authors: <u>Sun, M.#</u>, <u>Li, L.#</u>, <u>Xiao, H.#</u>, <u>Feng, J.#</u>, Wang, J., & <b><u>Wan, S*</u></b>.
+  authors: <u>Sun, M.<sup>#</sup></u>, <u>Li, L.<sup>#</sup></u>, <u>Xiao, H.<sup>#</sup></u>, <u>Feng, J.<sup>#</sup></u>, Wang, J., & <b><u>Wan, S*</u></b>.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fgene.2023.1256468/full
     display: Frontiers in Genetics 14, 1256468 (2023)
