@@ -63,7 +63,7 @@ permalink: /publications/
 
 {% endfor %}
 
-### Journal Articles <font size=3>（*: corresponding author; underlined names are lab members）</font>
+### Journal Articles <font size=3>（*: corresponding author; #: co-first author; underlined names are lab members）</font>
 
 {% for publi in site.data.publist %}
 
