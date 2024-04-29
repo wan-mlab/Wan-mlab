@@ -1,7 +1,7 @@
 - title: "1. SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based on Proportionalized Split Amino Acid Composition"
   image: 
   description: 
-  authors: <u>Feng, J.</u>, <u>Sun, M.</u>, <u>Liu, C.</u>, Zhang, W., Xu C., Wang, J., Wang, G., <b><u>Wan, S*</u></b>.
+  authors: <u>Feng, J.#</u>, <u>Sun, M.#</u>, <u>Liu, C.</u>, Zhang, W., Xu C., Wang, J., Wang, G., <b><u>Wan, S*</u></b>.
   link:
     url: https://www.biorxiv.org/content/10.1101/2024.04.25.590553v1
     display: bioRxiv 2024.04.25.590553 (2024)
@@ -11,7 +11,7 @@
 - title: "1. A Review for Artificial Intelligence Based Protein Subcellular Localization"
   image: 
   description: 
-  authors: Xiao, H., Zou, Y., Wang, J., <b><u>Wan, S*</u></b>.
+  authors: <u>Xiao, H.</u>, <u>Zou, Y.</u>, Wang, J., <b><u>Wan, S*</u></b>.
   link:
     url: https://www.mdpi.com/2218-273X/14/4/409
     display: Biomolecules 14, 409 (2024)
@@ -33,7 +33,7 @@
 - title: "1. Editorial: Bioinformatics Analysis of Omics Data for Biomarker Identification in Clinical Research, Volume II"
   image: 
   description: 
-  authors: <u>Sun, M.</u>, <u>Li, L.</u>, <u>Xiao, H.</u>, <u>Feng, J.</u>, Wang, J., & <b><u>Wan, S*</u></b>.
+  authors: <u>Sun, M.#</u>, <u>Li, L.#</u>, <u>Xiao, H.#</u>, <u>Feng, J.#</u>, Wang, J., & <b><u>Wan, S*</u></b>.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fgene.2023.1256468/full
     display: Frontiers in Genetics 14, 1256468 (2023)
