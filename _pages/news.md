@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+04-30-2024
+<h> An article “Artificial intelligence for omics data analysis" co-first-authored by Shibiao is accepted for publication by the journal <b>BMC Methods</b>. Congratulations!</h>
+<br>
 04-26-2024
 <h> A research article preprint “SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based on Proportionalized Split Amino Acid Composition” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2024.04.25.590553v1">here</a>. Congratulations to <b>Junxi</b>, <b>Mengtao</b> and <b>Andy</b>!</h>
 <br>
