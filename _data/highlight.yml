@@ -1,7 +1,7 @@
 - title: " The Nuclear Receptor ERR Cooperates with the Cardiogenic Factor GATA4 to Orchestrate Transcriptional Control of Cardiomyocyte Differentiation"
   image: multi-omics.png
   description: We find that Estrogen-related receptors (ERR) signaling is necessary for induction of genes involved in mitochondrial and cardiac-specific contractile processes during human induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) differentiation. 
-  authors: Sakamoto, T., Batmanov, K., <b><u>Wan, S</u></b>., Guo, Y., Lai, L., Vega, R.B. & Kelly, D.P.
+  authors: Sakamoto, T., Batmanov, K., <b><u>Wan, S</u></b>., Guo, Y., Lai, L., Vega, R.B. & Kelly, D.P*.
   link:
     url: https://www.nature.com/articles/s41467-022-29733-3
     display: Nature Communications 13, 1991 (2022)
@@ -10,7 +10,7 @@
 - title: " SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
   image: sharp.PNG
   description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells. Comprehensive benchmarking tests on 17 public scRNA-seq datasets demonstrate that SHARP outperforms existing methods in terms of speed and accuracy.
-  authors: <b><u>Wan, S*</u></b>., Kim, J., & Won, K. J.
+  authors: <b><u>Wan, S</u></b>., Kim, J., & Won, K. J*.
   blank: <p> </p>
   link:
     url: https://genome.cshlp.org/content/30/2/205.short
@@ -22,7 +22,7 @@
   image: go.PNG
   description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.                             
                This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
-  authors: <b><u>Wan, S*</u></b>., Mak, MW., & Kung, SY.
+  authors: <b><u>Wan, S*</u></b>., Mak, M. W*., & Kung, S. Y.
   link:
     url: https://academic.oup.com/bioinformatics/article-abstract/33/5/749/2736075
     display: Bioinformatics 33 (5), 749-750 (2017)
@@ -32,7 +32,7 @@
 - title: " Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
   image: lnp.gif
   description: This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins. Experimental results on a stringent benchmark dataset and a novel independent dataset suggest that LNP-Chlo performs at least 6% (absolute) better than SOTA predictors. This paper also demonstrates that ensemble LNP significantly outperforms LNP based on individual features.
-  authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
+  authors: <b><u>Wan, S*</u></b>., Mak, M. W*., & Kung, S. Y.
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00686
     display: Journal of Proteome Research 15 (12), 4755-4762 (2016)
@@ -42,7 +42,7 @@
 - title: " Mem-mEN: predicting multi-functional types of membrane proteins by interpretable elastic nets"
   image: mem-men.png
   description: This paper proposes an efficient predictor, namely Mem-mEN, which can produce sparse and interpretable solutions for predicting membrane proteins with single- and multi-label functional types.
-  authors: <b><u>Wan, S*</u></b>., Mak, M. W., & Kung, S. Y.
+  authors: <b><u>Wan, S*</u></b>., Mak, M. W*., & Kung, S. Y.
   link:
     url: https://ieeexplore.ieee.org/abstract/document/7229308/
     display: IEEE/ACM Transactions on Computational Biology and Bioinformatics 13(4), 706–718 (2016)
@@ -52,7 +52,7 @@
 - title: "mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
   image: mGOASVM.PNG
   description: We proposes an efficient multi-label predictor, mGOASVM, for predicting the subcellular localization of multi-location proteins. mGOASVM achieves an actual accuracy of 88.9% and 87.4%, respectively, which are significantly higher than those achieved by the SOTA predictors such as iLoc-Virus and iLoc-Plant.
-  authors: <b><u>Wan, S</u></b>., Mak, MW. & Kung, SY.
+  authors: <b><u>Wan, S</u></b>., Mak, M. W*., & Kung, S. Y.
   link:
     url: https://link.springer.com/article/10.1186/1471-2105-13-290
     display: BMC Bioinformatics 13, 1-16 (2012)
