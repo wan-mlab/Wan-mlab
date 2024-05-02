@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+05-02-2024
+<h> Shibiao is invited to give a featured talk for the Symposium on <b>ML/AI Applications in Biology and Medicine</b>. </h>
+<br>
 04-30-2024
 <h> An article “Artificial intelligence for omics data analysis" co-first-authored by Shibiao is accepted for publication by the journal <b>BMC Methods</b>. Congratulations!</h>
 <br>
