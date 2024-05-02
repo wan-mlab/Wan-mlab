@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 05-02-2024
-<h> Lusheng, Mengtao and Hanyu respectively present posters on cancer disparities, antimicrobial peptides, and B-ALL subtype identification for the Symposium on <b>ML/AI Applications in Biology and Medicine</b>. </h>
+<h> <b>Lusheng</b>, <b>Mengtao</b> and <b>Hanyu</b> respectively present posters on cancer disparities, antimicrobial peptides, and B-ALL subtype identification for the Symposium on <b>ML/AI Applications in Biology and Medicine</b>. </h>
 <br>
 05-02-2024
 <h> Shibiao is invited to give a featured talk for the Symposium on <b>ML/AI Applications in Biology and Medicine</b>. </h>
