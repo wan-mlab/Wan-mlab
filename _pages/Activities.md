@@ -5,7 +5,11 @@ sitemap: false
 permalink: /activity/
 ---
 
+<div id="textid" class="col-sm-12">
 ## ML/AI Symposium - 2024
+Shibiao is invited to give a featured talk for the Symposium on <strong>ML/AI Applications in Biology and Medicine</strong>.
+<strong>Lusheng</strong>, <strong>Mengtao</strong> and <strong>Hanyu</strong> respectively present posters on cancer disparities, antimicrobial peptides, and B-ALL subtype identification.
+</div>
 <div class="col-sm-9">
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -53,6 +57,7 @@ permalink: /activity/
 <br>
 <div id="textid" class="col-sm-12">
 ## Thanksgiving Lunch - 2023
+</div>
 <div class="col-sm-9">
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
