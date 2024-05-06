@@ -11,7 +11,7 @@ permalink: /activity/
 <strong>Lusheng</strong>, <strong>Mengtao</strong> and <strong>Hanyu</strong> respectively present posters on cancer disparities, antimicrobial peptides, and B-ALL subtype identification.
 </div>
 <div class="col-sm-9">
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel5" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel5" data-slide-to="0" class="active"></li> 
@@ -60,7 +60,7 @@ permalink: /activity/
 <strong>Lusheng</strong> presents two posters: "RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model" and "Reducing health disparities for prostate adenocarcinoma by integrating multi-omics data via a multi-modal transfer learning approach" at <strong>AACR Annual Meeting 2024</strong>.
 </div>
 <div class="col-sm-9">
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel3" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel3" data-slide-to="0" class="active"></li>
