@@ -44,11 +44,11 @@ permalink: /activity/
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ml5.png" alt="Slide 6" />
         </div>        
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#carousel5" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+  <a class="right carousel-control" href="#carousel5" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
@@ -81,11 +81,11 @@ permalink: /activity/
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/AACR3.png" alt="Slide 3" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#carousel3" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+  <a class="right carousel-control" href="#carousel3" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
