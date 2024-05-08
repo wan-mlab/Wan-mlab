@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+05-07-2024
+<h> Shibiao is awarded the <b>Nebraska Research Initiative Collaborative Grant</b>! </h>
+<br>
 05-02-2024
 <h> <b>Lusheng</b>, <b>Mengtao</b> and <b>Hanyu</b> respectively present posters on cancer disparities, antimicrobial peptides, and B-ALL subtype identification for the Symposium on <b>ML/AI Applications in Biology and Medicine</b>. </h>
 <br>
