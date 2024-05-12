@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+05-10-2024
+<h> <b>Yanan</b> will join our lab as a master student in Jan-2025. Welcome aboard!</h>
+<br>
 05-07-2024
 <h> Shibiao is awarded the <b>Nebraska Research Initiative (NRI) Collaborative Grant</b>! </h>
 <br>
