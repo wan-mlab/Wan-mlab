@@ -44,6 +44,7 @@ permalink: /news/
 <br>
 03-13-2024
 <h> <b>Xinchao</b> will join our lab as a PhD student in August. Welcome aboard!</h>
+<br>
 03-11-2024
 <h> <b>Grace</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
