@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+05-21-2024
+<h> <b>Saiyi</b> joins our lab as a research intern. Welcome aboard!</h>
+<br>
 05-17-2024
 <h>Shibiao is appointed as <b>Co-Director of Bioinformatics Masters Program</b> at UNMC, starting from July-01-2024!</h>
 <br>
