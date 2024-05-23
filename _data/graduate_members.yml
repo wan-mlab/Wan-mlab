@@ -28,6 +28,13 @@
   number_educ: 2
   education1: MSc in Bioinformatics, Southern University of Science and Technology, China, 2023
   education2: BSc in Bioinformatics, Southern University of Science and Technology, China, 2021
+
+- name: Nicholas Peterson 
+  photo: nick.jpg
+  info: Graduate Student
+  email: nbpme2002@gmail.com
+  number_educ: 1 
+  education1: MSc in Biology, USA, 2024
   
 - name: Yanan Lou
   photo: yanan.jpg
@@ -36,6 +43,8 @@
   number_educ: 2
   education1: MSc in Biostatistics, Tulane University, USA, 2022
   education2: BSc in Biopharmaceutics, Nanjing University of Chinese Medicine, China, 2019
+
+
 
 
 - name: "This could be you !"
