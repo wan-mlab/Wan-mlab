@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 05-28-2024
-<h> Shibiao is invited to serve as a guest editor for a new journal <b>Discover Life</b> lauchned by Springer Nature.</h>
+<h> Shibiao is invited to serve as a guest editor for a new journal <b>Discover Life</b> launched by Springer Nature.</h>
 <br>
 05-21-2024
 <h> <b>Saiyi</b> joins our lab as a research intern. Welcome aboard!</h>
