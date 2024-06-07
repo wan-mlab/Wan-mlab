@@ -7,7 +7,10 @@ permalink: /news/
 
 # News
  
-06-03-2024
+ 06-06-2024
+ <h>Shibiao is invited to give a seminar talk for <b>Hematological Malignancies Group at UNMC</b>. </h>
+<br>
+  06-03-2024
 <h>A collaboration journal article preprint on cancer research with Dr. Jun Yang from St. Jude is available online on <b>Research Square</b>. The link is <a  href="https://www.researchsquare.com/article/rs-4390765/v1">here</a></h>
 <br>
 05-28-2024
