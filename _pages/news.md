@@ -8,7 +8,7 @@ permalink: /news/
 # News
 
 06-07-2024
- <h>An article “Multi-Omics Based Artificial Intelligence for Cancer Research" co-first-authored by Lusheng and Mengtao is accepted for publication by the journal <b>Advances in Cancer Research </b>. Congratulations! </h>
+ <h>An article “Multi-Omics Based Artificial Intelligence for Cancer Research" co-first-authored by <b>Lusheng</b> and <b>Mengtao</b> is accepted for publication by the journal <b>Advances in Cancer Research </b>. Congratulations! </h>
 <br>
 
  06-06-2024
