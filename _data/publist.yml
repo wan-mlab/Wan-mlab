@@ -61,7 +61,7 @@
   highlight: 0
   news2:
   
-- title: "1. Editorial: bioinformatics analysis of omics data for biomarker identification in clinical research, volume ii"
+- title: "1. Editorial: bioinformatics analysis of omics data for biomarker identification in clinical research, volume II"
   image: 
   description: 
   authors: <u>Sun, M.<sup>#</sup></u>, <u>Li, L.<sup>#</sup></u>, <u>Xiao, H.<sup>#</sup></u>, <u>Feng, J.<sup>#</sup></u>, Wang, J., & <b><u>Wan, S*</u></b>.
@@ -71,7 +71,7 @@
   highlight: 0
   news2: 
 
-- title: "2. USP1 expression driven by EWS:: FLI1 transcription factor stabilizes Survivin and mitigates replication stress in Ewing sarcoma"
+- title: "2. USP1 expression driven by EWS:: FLI1 transcription factor stabilizes Survivin and mitigates replication stress in ewing sarcoma"
   image: 
   description: 
   authors: Mallard, H. J., **<u>Wan, S</u>**., Nidhi, P., Hanscom-Trofy, Y. D., Mohapatra, B., Woods, N. T., Lopez-Guerrero, J. A., Llombart-Bosch, A., Machado, I., Scotlandi, K., Kreiling, N. F., Perry, M. C., Mirza, S., Coulter, D. W., Band, V., Band, H., & Ghosal, G.
@@ -269,7 +269,7 @@
   highlight: 0
   news2:
   
-- title: "22. Gram-LocEN: Interpretable prediction of subcellular multi-localization of Gram-positive and Gram-negative bacterial proteins"
+- title: "22. Gram-LocEN: Interpretable prediction of subcellular multi-localization of gram-positive and gram-negative bacterial proteins"
   image: 
   description: 
   authors:  <b><u>Wan, S*</u></b>., Mak, M.W.*, & Kung, S.Y.
