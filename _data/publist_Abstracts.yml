@@ -1,4 +1,4 @@
-- title: "1. RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model, Cancer Research, vol. 84 (6_ Supplement), pp.4907-4907."
+- title: "1. Ranball: identifying b-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model, cancer research, vol. 84 (6_ supplement), pp.4907-4907."
   image: 
   description: 
   authors: <u>Li, L.</u>., <u>Xiao, H.</u>, Khoury, J. D., Wang, J., & <b><u>Wan, S*</u></b>.
@@ -8,7 +8,7 @@
   highlight: 0
   news2:
 
-- title: "1. Reducing health disparities for prostate adenocarcinoma by integrating multi-omics data via a multi-modal transfer learning approach, Cancer Research, vol. 84 (6_ Supplement), pp.4800-4800."
+- title: "1. Reducing health disparities for prostate adenocarcinoma by integrating multi-omics data via a multi-modal transfer learning approach, cancer research, vol. 84 (6_ supplement), pp.4800-4800."
   image: 
   description: 
   authors: <u>Li, L.</u>., Wang, J., & <b><u>Wan, S*</u></b>.
@@ -18,7 +18,7 @@
   highlight: 0
   news2:
   
-- title: "1. SAMP: An Accurate Ensemble Model Based on Proportionalized Split Amino Acid Composition for Identifying Antimicrobial Peptides"
+- title: "1. Samp: an accurate ensemble model based on proportionalized split amino acid composition for identifying antimicrobial peptides"
   image: 
   description: 
   authors: <u>Feng, J</u>., <u>Sun, M</u>., Zhang, W., Wang, G., & <b><u>Wan, S*</u></b>.
@@ -28,7 +28,7 @@
   highlight: 0
   news2:
 
-- title: "1. B-Cell Acute Lymphoblastic Leukemia Subtype Identification with An Ensemble Random Projection-Based Machine Learning Model"
+- title: "1. B-cell acute lymphoblastic leukemia subtype identification with an ensemble random projection-based machine learning model"
   image: 
   description: 
   authors: <u>Li, L.</u>, <u>Xiao, H.</u>, & <b><u>Wan, S</u></b>.
@@ -38,7 +38,7 @@
   highlight: 0
   news2:
 
-- title: "1. Integrating Multi-Omics Data by a Multi-Modal Transfer Learning Model to Reduce Healthcare Disparities for Kidney Renal Clear Cell Carcinoma"
+- title: "1. Integrating multi-omics data by a multi-modal transfer learning model to reduce healthcare disparities for kidney renal clear cell carcinoma"
   image: 
   description: 
   authors: <u>Li, L.</u>, & <b><u>Wan, S</u></b>.
@@ -48,7 +48,7 @@
   highlight: 0
   news2:
 
-- title: "1. RanBALL: an Ensemble Random Projection-Based Model for Identifying B-Cell Acute Lymphoblastic Leukemia Subtypes"
+- title: "1. Ranball: an ensemble random projection-based model for identifying b-cell acute lymphoblastic leukemia subtypes"
   image: 
   description: 
   authors: <u>Li, L.</u>, <u>Xiao, H.</u>, & <b><u>Wan, S</u></b>.
@@ -58,7 +58,7 @@
   highlight: 0
   news2:
   
-- title: "1. RNA-seq and ChIP-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis"
+- title: "1. Rna-seq and chip-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis"
   image: 
   description: 
   authors: Qi, W., Rosikiewicz, W., Yin, Z., Xu, B., <b><u>Wan, S</u></b>., Fan, Y., Wu, G., and Wang, L.
@@ -70,7 +70,7 @@
 
 
   
-- title: "2. The Estrogen-related Receptor (ERR) Drives Cardiac Myocyte Maturation in Cooperation With GATA4"
+- title: "2. The estrogen-related receptor (err) drives cardiac myocyte maturation in cooperation with gata4"
   image: 
   description:
   authors: Sakamoto, T., <b><u>Wan, S</u></b>., Batmanov, K., & Kelly, DP.
@@ -83,7 +83,7 @@
 
 
 
-- title: "3. Hyper-Fast and Accurate Clustering of Ultra-Large-Scale Single-Cell Data with Ensemble Random Projection"
+- title: "3. Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Kim, J., Fan, Y., & Won, KJ.
@@ -93,7 +93,7 @@
   highlight: 0
   news2: 
 
-- title: "4. The Estrogen-related Receptor Coordinates Transcription Of Genes Involved In Mitochondrial And Contractile Maturation In Human Induced Pluripotent Stem Cell-derived Cardiac Myocytes"
+- title: "4. The estrogen-related receptor coordinates transcription of genes involved in mitochondrial and contractile maturation in human induced pluripotent stem cell-derived cardiac myocytes"
   image: 
   description: 
   authors: Sakamoto, T., <b><u>Wan, S</u></b>., Won, K.J., & Kelly, D.P. 
@@ -103,7 +103,7 @@
   highlight: 0
   news2:
 
-- title: "5. Estrogen-Related Receptor Signaling is Critical for Postnatal Cardiac Maturation"
+- title: "5. Estrogen-related receptor signaling is critical for postnatal cardiac maturation"
   image: 
   description: 
   authors: Matsuura, T.R., Sakamoto, T., Ryba, D.M., <b><u>Wan, S</u></b>., & Kelly, D.P. 
@@ -114,7 +114,7 @@
   news2:
 
 
-- title: "6. MondoA Mediates Myocyte Lipid Accumulation and Insulin Resistance Driven by Chronic Nutrient Excess"
+- title: "6. Mondoa mediates myocyte lipid accumulation and insulin resistance driven by chronic nutrient excess"
   image: 
   description: 
   authors: Ahn, B., <b><u>Wan, S</u></b>., Won, K.J., Jaiswal, N., Titchenell, P.M.,  & D. P. Kelly.
@@ -124,7 +124,7 @@
   highlight: 0
   news2:
 
-- title: "7. Hyper-Fast and Accurate Processing of Large-Scale Single-Cell Transcriptomics Data via Ensemble Random Projection"
+- title: "7. Hyper-fast and accurate processing of large-scale single-cell transcriptomics data via ensemble random projection"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Kim, J., & Won, K.J.
