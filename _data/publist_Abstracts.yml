@@ -18,7 +18,7 @@
   highlight: 0
   news2:
   
-- title: "1. Samp: an accurate ensemble model based on proportionalized split amino acid composition for identifying antimicrobial peptides"
+- title: "1. SAMP: an accurate ensemble model based on proportionalized split amino acid composition for identifying antimicrobial peptides"
   image: 
   description: 
   authors: <u>Feng, J</u>., <u>Sun, M</u>., Zhang, W., Wang, G., & <b><u>Wan, S*</u></b>.
@@ -28,7 +28,7 @@
   highlight: 0
   news2:
 
-- title: "1. B-cell acute lymphoblastic leukemia subtype identification with an ensemble random projection-based machine learning model"
+- title: "1. B-Cell acute lymphoblastic leukemia subtype identification with an ensemble random projection-based machine learning model"
   image: 
   description: 
   authors: <u>Li, L.</u>, <u>Xiao, H.</u>, & <b><u>Wan, S</u></b>.
@@ -48,7 +48,7 @@
   highlight: 0
   news2:
 
-- title: "1. Ranball: an ensemble random projection-based model for identifying b-cell acute lymphoblastic leukemia subtypes"
+- title: "1. RanBall: an ensemble random projection-based model for identifying B-Cell acute lymphoblastic leukemia subtypes"
   image: 
   description: 
   authors: <u>Li, L.</u>, <u>Xiao, H.</u>, & <b><u>Wan, S</u></b>.
@@ -58,7 +58,7 @@
   highlight: 0
   news2:
   
-- title: "1. Rna-seq and chip-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis"
+- title: "1. RNA-seq and Chip-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis"
   image: 
   description: 
   authors: Qi, W., Rosikiewicz, W., Yin, Z., Xu, B., <b><u>Wan, S</u></b>., Fan, Y., Wu, G., and Wang, L.
@@ -70,7 +70,7 @@
 
 
   
-- title: "2. The estrogen-related receptor (err) drives cardiac myocyte maturation in cooperation with gata4"
+- title: "2. The Estrogen-related receptor (ERR) drives cardiac myocyte maturation in cooperation with gata4"
   image: 
   description:
   authors: Sakamoto, T., <b><u>Wan, S</u></b>., Batmanov, K., & Kelly, DP.
@@ -93,7 +93,7 @@
   highlight: 0
   news2: 
 
-- title: "4. The estrogen-related receptor coordinates transcription of genes involved in mitochondrial and contractile maturation in human induced pluripotent stem cell-derived cardiac myocytes"
+- title: "4. The Estrogen-related receptor coordinates transcription of genes involved in mitochondrial and contractile maturation in human induced pluripotent stem cell-derived cardiac myocytes"
   image: 
   description: 
   authors: Sakamoto, T., <b><u>Wan, S</u></b>., Won, K.J., & Kelly, D.P. 
@@ -114,7 +114,7 @@
   news2:
 
 
-- title: "6. Mondoa mediates myocyte lipid accumulation and insulin resistance driven by chronic nutrient excess"
+- title: "6. MondoA mediates myocyte lipid accumulation and insulin resistance driven by chronic nutrient excess"
   image: 
   description: 
   authors: Ahn, B., <b><u>Wan, S</u></b>., Won, K.J., Jaiswal, N., Titchenell, P.M.,  & D. P. Kelly.
