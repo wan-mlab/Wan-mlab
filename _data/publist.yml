@@ -51,7 +51,7 @@
 
    
 
-- title: "1. Procyanidin alleviates ferroptosis and inflammation of LPS‑induced RAW264.7 cell via the Nrf2/Ho‑1 pathway"
+- title: "1. Procyanidin alleviates ferroptosis and inflammation of LPS-induced RAW264.7 cell via the Nrf2/HO-1 pathway"
   image: 
   description: 
   authors: Zeng, J., Weng, Y., Lai, T., Chen, L., Li, Y., Huang, Q., Zhong, S., <b><u>Wan, S*</u></b>., & Luo, L*.
@@ -61,7 +61,7 @@
   highlight: 0
   news2:
   
-- title: "1. Editorial: bioinformatics analysis of omics data for biomarker identification in clinical research, volume II"
+- title: "1. Editorial: Bioinformatics analysis of omics data for biomarker identification in clinical research, Volume II"
   image: 
   description: 
   authors: <u>Sun, M.<sup>#</sup></u>, <u>Li, L.<sup>#</sup></u>, <u>Xiao, H.<sup>#</sup></u>, <u>Feng, J.<sup>#</sup></u>, Wang, J., & <b><u>Wan, S*</u></b>.
@@ -71,7 +71,7 @@
   highlight: 0
   news2: 
 
-- title: "2. USP1 expression driven by EWS:: FLI1 transcription factor stabilizes Survivin and mitigates replication stress in ewing sarcoma"
+- title: "2. USP1 expression driven by EWS:: FLI1 transcription factor stabilizes Survivin and mitigates replication stress in Ewing sarcoma"
   image: 
   description: 
   authors: Mallard, H. J., **<u>Wan, S</u>**., Nidhi, P., Hanscom-Trofy, Y. D., Mohapatra, B., Woods, N. T., Lopez-Guerrero, J. A., Llombart-Bosch, A., Machado, I., Scotlandi, K., Kreiling, N. F., Perry, M. C., Mirza, S., Coulter, D. W., Band, V., Band, H., & Ghosal, G.
@@ -90,7 +90,7 @@
   highlight: 0
 
   
-- title: "4. Editorial: ferroptosis as a novel therapeutic target for inflammation-related diseases"
+- title: "4. Editorial: Ferroptosis as a novel therapeutic target for inflammation-related diseases"
   image: 
   authors: Liang, Y., Su, Z., Mao, X., **<u>Wan, S*</u>**., & Luo, L*. 
   description: 
@@ -99,7 +99,7 @@
     display: Frontiers in Pharmacology 14, 1152326 (2023)
   highlight: 0
 
-- title: "5. Editorial: single cell meets metabolism and cancer biology"
+- title: "5. Editorial: Single cell meets metabolism and cancer biology"
   image: 
   authors: Wang, J., & <b><u>Wan, S*</u></b>.
   description: 
@@ -120,7 +120,7 @@
   highlight: 0
 
 
-- title: "7. The nuclear receptor err cooperates with the cardiogenic factor GATA4 to orchestrate transcriptional control of cardiomyocyte differentiation"
+- title: "7. The nuclear receptor ERR cooperates with the cardiogenic factor GATA4 to orchestrate transcriptional control of cardiomyocyte differentiation"
   image: 
   description:
   authors: Sakamoto, T., Batmanov, K., <b><u>Wan, S</u></b>., Guo, Y., Lai, L., Vega, R.B. & Kelly, D.P.
@@ -190,7 +190,7 @@
 
 
 
-- title: "14. Editorial: transcriptional regulation in metabolism and immunology"
+- title: "14. Editorial: Transcriptional regulation in metabolism and immunology"
   image: 
   description: 
   authors: Jiang, C., **<u>Wan, S</u>**., Hu, P., Li, Y., & Li, S.
@@ -218,7 +218,7 @@
     display:  Developmental Biology 480, 39-49 (2021)
   highlight: 0
   
-- title: "17. SHARP: hyperfast and accurate processing of single-cell rna-seq data via ensemble random projection"
+- title: "17. SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
   image: sharp.PNG
   description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells.
   authors: <b><u>Wan, S</u></b>., Kim, J., & Won, K.J.
@@ -259,7 +259,7 @@
   highlight: 0
   news2:
 
-- title: "21. Is congenital amusia a disconnection syndrome? a study combining tract-and network-based analysis"
+- title: "21. Is congenital amusia a disconnection syndrome? A study combining tract-and network-based analysis"
   image: 
   description: 
   authors: Wang, J., Zhang, C., **<u>Wan, S</u>**., & Peng, G. 
@@ -269,7 +269,7 @@
   highlight: 0
   news2:
   
-- title: "22. Gram-LocEN: Interpretable prediction of subcellular multi-localization of gram-positive and gram-negative bacterial proteins"
+- title: "22. Gram-LocEN: Interpretable prediction of subcellular multi-localization of Gram-positive and Gram-negative bacterial proteins"
   image: 
   description: 
   authors:  <b><u>Wan, S*</u></b>., Mak, M.W.*, & Kung, S.Y.
@@ -280,7 +280,7 @@
   news2:
 
 
-- title: "23. FUEL-mloc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
+- title: "23. FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: go.PNG
   description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.                             
                This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
@@ -323,7 +323,7 @@
   
 
 
-- title: "26. Mem-ADSVM: a two-layer multi-label predictor for identifying multi-functional types of membrane proteins"
+- title: "26. Mem-ADSVM: A two-layer multi-label predictor for identifying multi-functional types of membrane proteins"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, M.W.*, & Kung, S.Y.
@@ -368,7 +368,7 @@
   news2:
 
 
-- title: "31. mPLR-LOC: an adaptive-decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
+- title: "31. mPLR-Loc: An adaptive-decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Mak, M.W., & Kung, S.Y.
@@ -378,7 +378,7 @@
   highlight: 0
   news2:
   
-- title: "32. R3P-Loc: a compact multi-label predictor using ridge regression and random projection for protein subcellular localization"
+- title: "32. R3P-Loc: A compact multi-label predictor using ridge regression and random projection for protein subcellular localization"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Mak, M.W., & Kung, S.Y. 
@@ -409,7 +409,7 @@
   highlight: 0
   news2:
 
-- title: "35. GOASVM: a subcellular location predictor by incorporating term-frequency gene ontology into the general form of chou's pseudo-amino acid composition"
+- title: "35. GOASVM: A subcellular location predictor by incorporating term-frequency gene ontology into the general form of Chou's pseudo-amino acid composition"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, M.W.*, & Kung, S.Y.*
@@ -419,7 +419,7 @@
   highlight: 0
   news2:
 
-- title: "36. mGOASVM: multi-label protein subcellular localization based on gene ontology and support vector machines"
+- title: "36. mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
   image: mGOASVM.PNG
   description: This paper proposes an efficient multi-label predictor, namely mGOASVM, for predicting the subcellular localization of multi-location proteins.
   authors: <b><u>Wan, S</u></b>., Mak, M.W. & Kung, S.Y.
