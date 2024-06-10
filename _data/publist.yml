@@ -29,7 +29,7 @@
   highlight: 0
   news2:
   
-title: "- 1. samp: identifying antimicrobial peptides by an ensemble learning model based on proportionalized split amino acid composition"
+- title: "1. SAMP: identifying antimicrobial peptides by an ensemble learning model based on proportionalized split amino acid composition"
   image: 
   description: 
   authors: <u>Feng, J.<sup>#</sup></u>, <u>Sun, M.<sup>#</sup></u>, <u>Liu, C.</u>, Zhang, W., Xu C., Wang, J., Wang, G., & <b><u>Wan, S*</u></b>.
