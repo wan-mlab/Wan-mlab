@@ -1,4 +1,4 @@
-- title: "1. Ranball: identifying B-Cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model, cancer research, vol. 84 (6_ supplement), pp.4907-4907."
+- title: "1. RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model, Cancer Research, vol. 84 (6_ Supplement), pp.4907-4907."
   image: 
   description: 
   authors: <u>Li, L.</u>., <u>Xiao, H.</u>, Khoury, J. D., Wang, J., & <b><u>Wan, S*</u></b>.
@@ -8,7 +8,7 @@
   highlight: 0
   news2:
 
-- title: "1. Reducing health disparities for prostate adenocarcinoma by integrating multi-omics data via a multi-modal transfer learning approach, cancer research, vol. 84 (6_ supplement), pp.4800-4800."
+- title: "1. Reducing health disparities for prostate adenocarcinoma by integrating multi-omics data via a multi-modal transfer learning approach, Cancer Research, vol. 84 (6_ Supplement), pp.4800-4800."
   image: 
   description: 
   authors: <u>Li, L.</u>., Wang, J., & <b><u>Wan, S*</u></b>.
@@ -18,7 +18,7 @@
   highlight: 0
   news2:
   
-- title: "1. SAMP: an accurate ensemble model based on proportionalized split amino acid composition for identifying antimicrobial peptides"
+- title: "1. SAMP: An accurate ensemble model based on proportionalized split amino acid composition for identifying antimicrobial peptides"
   image: 
   description: 
   authors: <u>Feng, J</u>., <u>Sun, M</u>., Zhang, W., Wang, G., & <b><u>Wan, S*</u></b>.
@@ -28,7 +28,7 @@
   highlight: 0
   news2:
 
-- title: "1. B-Cell acute lymphoblastic leukemia subtype identification with an ensemble random projection-based machine learning model"
+- title: "1. B-cell acute lymphoblastic leukemia subtype identification with an ensemble random projection-based machine learning model"
   image: 
   description: 
   authors: <u>Li, L.</u>, <u>Xiao, H.</u>, & <b><u>Wan, S</u></b>.
@@ -48,7 +48,7 @@
   highlight: 0
   news2:
 
-- title: "1. RanBall: an ensemble random projection-based model for identifying B-Cell acute lymphoblastic leukemia subtypes"
+- title: "1. RanBall: An ensemble random projection-based model for identifying B-cell acute lymphoblastic leukemia subtypes"
   image: 
   description: 
   authors: <u>Li, L.</u>, <u>Xiao, H.</u>, & <b><u>Wan, S</u></b>.
@@ -58,24 +58,24 @@
   highlight: 0
   news2:
   
-- title: "1. RNA-seq and Chip-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis"
+- title: "1. RNA-seq and chIP-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis "
   image: 
   description: 
   authors: Qi, W., Rosikiewicz, W., Yin, Z., Xu, B., <b><u>Wan, S</u></b>., Fan, Y., Wu, G., and Wang, L.
   link:
-    url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.13898
+    url: https://aacrjournals.org/cancerres/article/81/13_Supplement/LB188/670207/Abstract-LB188-RNA-seq-and-chIP-seq-profiling
     display: AACR Annual Meeting 2021, Philadelphia, PA, Apr (2021)
   highlight: 0
   news2:
 
 
   
-- title: "2. The estrogen-related receptor (ERR) drives cardiac myocyte maturation in cooperation with gata4"
+- title: "2. The estrogen-related receptor (ERR) drives cardiac myocyte maturation in cooperation with GATA4"
   image: 
   description:
   authors: Sakamoto, T., <b><u>Wan, S</u></b>., Batmanov, K., & Kelly, DP.
   link:
-    url: 
+    url: https://www.ahajournals.org/doi/10.1161/res.127.suppl_1.222
     display: Circulation Research, 127(A222-A222) (2020)
   highlight: 0
   news2: 
