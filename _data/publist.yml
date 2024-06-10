@@ -1,4 +1,4 @@
-- title: "1. Multi-Omics Based Artificial Intelligence for Cancer Research"
+- title: "1. Multi-Omics based artificial intelligence for cancer research"
   image: 
   description: 
   authors: <u>Li, L.<sup>#</sup></u>, <u>Sun, M.<sup>#</sup></u>, Wang, J., <u><b>Wan, S*</b></u>.
@@ -19,7 +19,7 @@
   highlight: 0
   news2:
   
-- title: "1. Artificial intelligence for omics data analysis "
+- title: "1. Artificial intelligence for omics data analysis"
   image: 
   description: 
   authors: Ahmed, Z.<sup>#</sup>, <b><u>Wan, S.<sup>#</sup>,</u></b> Zhang, F.<sup>#</sup>, & Zhong, W.<sup>#</sup>
@@ -29,7 +29,7 @@
   highlight: 0
   news2:
   
-- title: "1. SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based on Proportionalized Split Amino Acid Composition"
+title: "- 1. samp: identifying antimicrobial peptides by an ensemble learning model based on proportionalized split amino acid composition"
   image: 
   description: 
   authors: <u>Feng, J.<sup>#</sup></u>, <u>Sun, M.<sup>#</sup></u>, <u>Liu, C.</u>, Zhang, W., Xu C., Wang, J., Wang, G., & <b><u>Wan, S*</u></b>.
@@ -39,7 +39,7 @@
   highlight: 0
   news2:
 
-- title: "1. A Review for Artificial Intelligence Based Protein Subcellular Localization"
+- title: "1. A review for artificial intelligence based protein subcellular localization"
   image: 
   description: 
   authors: <u>Xiao, H.</u>, <u>Zou, Y.</u>, Wang, J., & <b><u>Wan, S*</u></b>.
@@ -51,7 +51,7 @@
 
    
 
-- title: "1. Procyanidin alleviates ferroptosis and inflammation of LPS‑induced RAW264.7 cell via the Nrf2/HO‑1 pathway"
+- title: "1. Procyanidin alleviates ferroptosis and inflammation of LPS‑induced RAW264.7 cell via the Nrf2/Ho‑1 pathway"
   image: 
   description: 
   authors: Zeng, J., Weng, Y., Lai, T., Chen, L., Li, Y., Huang, Q., Zhong, S., <b><u>Wan, S*</u></b>., & Luo, L*.
@@ -61,7 +61,7 @@
   highlight: 0
   news2:
   
-- title: "1. Editorial: Bioinformatics Analysis of Omics Data for Biomarker Identification in Clinical Research, Volume II"
+- title: "1. Editorial: bioinformatics analysis of omics data for biomarker identification in clinical research, volume ii"
   image: 
   description: 
   authors: <u>Sun, M.<sup>#</sup></u>, <u>Li, L.<sup>#</sup></u>, <u>Xiao, H.<sup>#</sup></u>, <u>Feng, J.<sup>#</sup></u>, Wang, J., & <b><u>Wan, S*</u></b>.
@@ -90,7 +90,7 @@
   highlight: 0
 
   
-- title: "4. Editorial: Ferroptosis as a Novel Therapeutic Target for Inflammation-Related Diseases"
+- title: "4. Editorial: ferroptosis as a novel therapeutic target for inflammation-related diseases"
   image: 
   authors: Liang, Y., Su, Z., Mao, X., **<u>Wan, S*</u>**., & Luo, L*. 
   description: 
@@ -99,7 +99,7 @@
     display: Frontiers in Pharmacology 14, 1152326 (2023)
   highlight: 0
 
-- title: "5. Editorial: Single Cell Meets Metabolism and Cancer Biology"
+- title: "5. Editorial: single cell meets metabolism and cancer biology"
   image: 
   authors: Wang, J., & <b><u>Wan, S*</u></b>.
   description: 
@@ -120,7 +120,7 @@
   highlight: 0
 
 
-- title: "7. The Nuclear Receptor ERR Cooperates with the Cardiogenic Factor GATA4 to Orchestrate Transcriptional Control of Cardiomyocyte Differentiation"
+- title: "7. The nuclear receptor err cooperates with the cardiogenic factor GATA4 to orchestrate transcriptional control of cardiomyocyte differentiation"
   image: 
   description:
   authors: Sakamoto, T., Batmanov, K., <b><u>Wan, S</u></b>., Guo, Y., Lai, L., Vega, R.B. & Kelly, D.P.
@@ -139,7 +139,7 @@
     display:  Nature Aging 2(10), 923–940 (2022)
   highlight: 0
 
-- title: "9. A Sequence Obfuscation Method for Protecting Personal Genomic Privacy"
+- title: "9. A sequence obfuscation method for protecting personal genomic privacy"
   image: 
   description:
   authors: <b><u>Wan, S*</u></b>., & Wang, J*.
@@ -158,7 +158,7 @@
     display: The Journal of Pathology 257 (5), 579-592 (2022)
   highlight: 0
 
-- title: "11. Special Issue on Bioinformatics and Machine Learning for Cancer Biology"
+- title: "11. Special issue on bioinformatics and machine learning for cancer biology"
   image: 
   description: 
   authors:  <b><u>Wan, S*</u></b>., Jiang, C., Li, S., & Fan, Y.
@@ -178,7 +178,7 @@
   highlight: 0
 
 
-- title: "13. Improving Bulk RNA-seq Classification by Transferring Gene Signature from Single Cells in Acute Myeloid Leukemia"
+- title: "13. Improving bulk RNA-seq classification by transferring gene signature from single cells in acute myeloid leukemia"
   image: aml.PNG
   authors: Wang, R., Zheng, X., Wang, J., **<u>Wan, S</u>**., Song, F., Wong, M. H., Leung, K. S., & Cheng, L. 
   description: We propose single-cell pair-wise gene expression (scPAGE), a novel method to develop single-cell gene pair signatures (scGPSs) that were beneficial to bulk RNA-seq classification to transfer knowledge across platforms. PAGE was adopted to tackle the challenge of profiling differences. We applied the method to acute myeloid leukemia (AML) and identified the scGPS from mouse scRNA-seq that allowed discriminating between AML and control cells.
@@ -190,7 +190,7 @@
 
 
 
-- title: "14. Editorial: Transcriptional Regulation in Metabolism and Immunology"
+- title: "14. Editorial: transcriptional regulation in metabolism and immunology"
   image: 
   description: 
   authors: Jiang, C., **<u>Wan, S</u>**., Hu, P., Li, Y., & Li, S.
@@ -199,7 +199,7 @@
     display:  Frontiers in Genetics 13, 845697 (2022)
   highlight: 0
 
-- title: "15. Targeting the Spliceosome through RBM39 Degradation Results in Exceptional Responses in High-Risk Neuroblastoma Models"
+- title: "15. Targeting the spliceosome through RBM39 degradation results in exceptional responses in high-risk neuroblastoma models"
   image: 
   description: 
   authors: Singh, S., Quarni, W., Goralski, M., **<u>Wan, S</u>**., Jin, H., Van de Velde, L. A., Fang, J., Wu, Q., Abu-Zaid, A., Wang, T., Singh, R., Craft, D., Fan, Y., Confer, T., Johnson, M., Akers, W. J., Wang, R., Murray, P. J., Thomas, P. G., Nijhawan, D., Davidoff, A.M., & Yang, J.
@@ -218,7 +218,7 @@
     display:  Developmental Biology 480, 39-49 (2021)
   highlight: 0
   
-- title: "17. SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
+- title: "17. SHARP: hyperfast and accurate processing of single-cell rna-seq data via ensemble random projection"
   image: sharp.PNG
   description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells.
   authors: <b><u>Wan, S</u></b>., Kim, J., & Won, K.J.
@@ -249,7 +249,7 @@
   highlight: 0
   news2:
 
-- title: "20. Predicting Subcellular Localization of Multi-Location Proteins by Improving Support Vector Machines with Adaptive-Decision Schemes"
+- title: "20. Predicting subcellular localization of multi-location proteins by improving support vector machines with adaptive-decision schemes"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., & Mak, M.W.*
@@ -259,7 +259,7 @@
   highlight: 0
   news2:
 
-- title: "21. Is congenital amusia a disconnection syndrome? A study combining tract-and network-based analysis"
+- title: "21. Is congenital amusia a disconnection syndrome? a study combining tract-and network-based analysis"
   image: 
   description: 
   authors: Wang, J., Zhang, C., **<u>Wan, S</u>**., & Peng, G. 
@@ -280,7 +280,7 @@
   news2:
 
 
-- title: "23. FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
+- title: "23. FUEL-mloc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
   image: go.PNG
   description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.                             
                This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
@@ -323,7 +323,7 @@
   
 
 
-- title: "26. Mem-ADSVM: A two-layer multi-label predictor for identifying multi-functional types of membrane proteins"
+- title: "26. Mem-ADSVM: a two-layer multi-label predictor for identifying multi-functional types of membrane proteins"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, M.W.*, & Kung, S.Y.
@@ -357,7 +357,7 @@
   news2:
   
 
-- title: "30. mLASSO-Hum: A LASSO-based interpretable human-protein subcellular localization predictor"
+- title: "30. mLASSO-Hum: a LASSO-based interpretable human-protein subcellular localization predictor"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, M.W., & Kung, S.Y. 
@@ -368,7 +368,7 @@
   news2:
 
 
-- title: "31. mPLR-Loc: An Adaptive-decision Multi-label Classifier Based on Penalized Logistic Regression for Protein Subcellular Localization Prediction"
+- title: "31. mPLR-LOC: an adaptive-decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Mak, M.W., & Kung, S.Y.
@@ -378,7 +378,7 @@
   highlight: 0
   news2:
   
-- title: "32. R3P-Loc: A compact multi-label predictor using ridge regression and random projection for protein subcellular localization"
+- title: "32. R3P-Loc: a compact multi-label predictor using ridge regression and random projection for protein subcellular localization"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Mak, M.W., & Kung, S.Y. 
@@ -409,7 +409,7 @@
   highlight: 0
   news2:
 
-- title: "35. GOASVM: a subcellular location predictor by incorporating term-frequency gene ontology into the general form of Chou's pseudo-amino acid composition"
+- title: "35. GOASVM: a subcellular location predictor by incorporating term-frequency gene ontology into the general form of chou's pseudo-amino acid composition"
   image: 
   description: 
   authors: <b><u>Wan, S*</u></b>., Mak, M.W.*, & Kung, S.Y.*
@@ -419,7 +419,7 @@
   highlight: 0
   news2:
 
-- title: "36. mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
+- title: "36. mGOASVM: multi-label protein subcellular localization based on gene ontology and support vector machines"
   image: mGOASVM.PNG
   description: This paper proposes an efficient multi-label predictor, namely mGOASVM, for predicting the subcellular localization of multi-location proteins.
   authors: <b><u>Wan, S</u></b>., Mak, M.W. & Kung, S.Y.
