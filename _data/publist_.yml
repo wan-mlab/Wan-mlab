@@ -1,4 +1,4 @@
-- title: "1. Processing Millions of Single Cells by SHARP"
+- title: "1. Processing millions of single cells by SHARP"
   image: 
   description:
   authors: <b><u>Wan, S</u></b>., Kim, J. & Won, KJ.
@@ -19,7 +19,7 @@
   news2:
 
 
-- title: "3. Protecting Genomic Privacy by a Sequence-Similarity Based Obfuscation Method"
+- title: "3. Protecting genomic privacy by a sequence-similarity based obfuscation method"
   image: 
   description:
   authors: <b><u>Wan, S</u></b>., Mak, M.W., & Kung, S.Y.
@@ -31,7 +31,7 @@
 
 
 
-- title: "4. Ratio Utility and Cost Analysis for Privacy Preserving Subspace Projection"
+- title: "4. Ratio utility and cost analysis for privacy preserving subspace projection"
   image: 
   description:
   authors: <b><u>Wan, S</u></b>., & Kung, S.Y.
@@ -71,7 +71,7 @@
   highlight: 0
   news2:
 
-- title: "8. GOASVM: Protein Subcellular Localization Prediction Based on Gene Ontology Annotation and SVM"
+- title: "8. GOASVM: protein subcellular localization prediction based on gene ontology annotation and SVM"
   image: 
   description: 
   authors: <b><u>Wan, S</u></b>., Mak, MW., & Kung, SY.
@@ -92,7 +92,7 @@
   highlight: 0
   news2:
 
-- title: "10. A Method of Continuous Data Flow Embedded within Speech Signals"
+- title: "10. A method of continuous data flow embedded within speech signals"
   image: 
   description: 
   authors:  <b><u>Wan, S</u></b>., Yao, C., Hu, Y., Zhang, G.
