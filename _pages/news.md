@@ -7,11 +7,14 @@ permalink: /news/
 
 # News
 
+06-14-2024
+ <h>Shibiao is invited to give a talk for <b>The International Conference on Intelligent Biology and Medicine (ICIBM 2024)</b>. The link is <a  href="https://icibm2024.iaibm.org/">here</a>. </h>
+ 
 06-13-2024
- <h>Shibiao is invited to serve as a <b>Program Committee (PC) member</b> for <b>The 36th IEEE International Conference on Tools with Artificial Intelligence (IEEE ICTAI 2024)</b>. The link is <a  href="https://ictai.computer.org/2024/committees/committee/">here</a>. </h>
+<h>Shibiao is invited to serve as a <b>Program Committee (PC) member</b> for <b>The 36th IEEE International Conference on Tools with Artificial Intelligence (IEEE ICTAI 2024)</b>. The link is <a  href="https://ictai.computer.org/2024/committees/committee/">here</a>. </h>
 <br>
 06-07-2024
- <h>An article “Multi-Omics Based Artificial Intelligence for Cancer Research" co-first-authored by <b>Lusheng</b> and <b>Mengtao</b> is accepted for publication by the journal <b>Advances in Cancer Research </b>. Congratulations! </h>
+<h>An article “Multi-Omics Based Artificial Intelligence for Cancer Research" co-first-authored by <b>Lusheng</b> and <b>Mengtao</b> is accepted for publication by the journal <b>Advances in Cancer Research </b>. Congratulations! </h>
 <br>
  06-06-2024
  <h>Shibiao is invited to give a seminar talk for <b>Hematological Malignancies Group at UNMC</b>. </h>
