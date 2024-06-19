@@ -8,7 +8,7 @@ permalink: /news/
 # News
 06-19-2024
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>Medical Research Council (MRC) of UK Research and Innovation (UKRI)</b> in the UK. </h>
-<br>  
+
 06-18-2024
 <h> <b>Neil</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
