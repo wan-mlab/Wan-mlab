@@ -7,6 +7,9 @@ permalink: /news/
 
 # News
 
+06-18-2024
+<h> <b>Neil</b> joins our lab as a research intern. Welcome aboard!</h>
+<br>
 06-14-2024
  <h>Shibiao is invited to give a talk for <b>The 2024 International Conference on Intelligent Biology and Medicine (ICIBM 2024)</b> to be held from Oct. 12th-14th in Houston, TX. The link is <a  href="https://icibm2024.iaibm.org/">here</a>. </h>
 <br>
