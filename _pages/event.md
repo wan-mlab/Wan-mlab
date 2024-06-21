@@ -100,15 +100,15 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">6003</td>
             </tr>
             <tr>
-                <td height = "50">Lusheng Li</td>
+                <td height = "50">Mengtao Sun</td>
                 <td height = "50">06/25/2024</td>
-                <td height = "50">UMAP​</td>
+                <td height = "50">Convolutional Neural Networks (CNN)​</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
-                <td height = "50">Mengtao Sun</td>
+                <td height = "50">Lusheng Li</td>
                 <td height = "50">07/09/2024</td>
-                <td height = "50">Convolutional Neural Networks (CNN)​</td>
+                <td height = "50">UMAP​</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
