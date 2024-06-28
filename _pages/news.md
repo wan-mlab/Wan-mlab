@@ -7,6 +7,9 @@ permalink: /news/
 
 # News
 
+06-28-2024
+<h> Shibiao is awarded the <b> NIH/NIGMS Team Science Development Supplement Grant </b>, together with other project leaders Dr. Adrian Black, Dr. Kyle Hewitt and Dr. Kate Hyde. </h>
+<br>
 06-26-2024
 <h> Shibiao is awarded the <b>Child Health Research Institute (CHRI) AI Research Grant</b>! </h>
 <br>
