@@ -7,6 +7,9 @@ permalink: /news/
 
 # News
 
+07-05-2024
+<h> Shibiao is invited to serve as an Editorial Board Member for a Springer Nature Journal <b>Discover Oncology</b> (IF 2.8).</h>
+<br>
 06-28-2024
 <h> Shibiao is awarded the <b> NIH/NIGMS Team Science Development Supplement Grant</b>, together with other project leaders Dr. Adrian Black, Dr. Kyle Hewitt and Dr. Kate Hyde from UNMC. </h>
 <br>
