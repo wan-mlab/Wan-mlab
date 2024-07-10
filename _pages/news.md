@@ -6,7 +6,7 @@ permalink: /news/
 ---
 
 # News
-07-05-2024
+07-10-2024
 <h> <b>Ouyang</b> joins our lab as a research intern. Welcome aboard!</h>  
 <br>
 07-05-2024
