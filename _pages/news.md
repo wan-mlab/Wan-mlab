@@ -9,11 +9,9 @@ permalink: /news/
 07-05-2024
 <h> <b>Ouyang</b> joins our lab as a research intern. Welcome aboard!</h>  
 <br>
-
 07-05-2024
 <h> As Shibiao being a co-corresponding author, a collaboration journal article on lung cancer with Dr. Luo is accepted by <b>Journal of Cancer Research and Clinical Oncology</b> (IF 2.7).</h>
 <br>
-
 07-05-2024
 <h> Shibiao is invited to serve as an Editorial Board Member for a Springer Nature Journal <b>Discover Oncology</b> (IF 2.8).</h>
 <br>
