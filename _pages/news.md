@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+07-20-2024
+<h> Shibiao is invited to serve as a handling editor for <b>Frontiers in Medicine</b> (IF 3.1).</h>
+<br>
 07-10-2024
 <h> <b>Han</b> joins our lab as a research intern. Welcome aboard!</h>  
 <br>
