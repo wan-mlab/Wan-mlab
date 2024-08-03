@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+08-01-2024
+<h> <b>Xinchao</b> joins our lab as a PhD student in UNMC. Welcome aboard!</h>
+<br>
 07-20-2024
 <h> Shibiao is invited to serve as a handling editor for <b>Frontiers in Medicine</b> (IF 3.1).</h>
 <br>
