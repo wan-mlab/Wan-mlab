@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+08-06-2024
+<h> <b>Charlie</b> joins our lab as a PhD student in UNMC. Welcome aboard!</h>
+
 08-01-2024
 <h> <b>Xinchao</b> joins our lab as a PhD student in UNMC. Welcome aboard!</h>
 <br>
