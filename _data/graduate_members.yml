@@ -26,7 +26,7 @@
   info: Graduate Student
   email: 12133069@mail.sustech.edu.cn
   number_educ: 2
-  education1: MSc in Bioinformatics, Southern University of Science and Technology, China, 2023
+  education1: MSc in Bioinformatics, Southern University of Science and Technology, China, 2024
   education2: BSc in Bioinformatics, Southern University of Science and Technology, China, 2021
 
 - name: Nicholas Peterson 
@@ -35,6 +35,14 @@
   email: nbpme2002@gmail.com
   number_educ: 1 
   education1: BSc in Biology, University of Nebraska Omaha, USA, 2024
+  
+- name: Kah Meng Soh (co-supervised with Dr. Jieqiong Wang)
+  photo: Charlie_Soh.jpg
+  info: Graduate Student
+  email: soh00009@umn.edu
+  number_educ: 2
+  education1: MSc in Statistics, University of Minnesota, USA, 2024
+  education2: BSc in Actuarial Science, University of Nebraska-Lincoln, USA, 2023
   
 - name: Yanan Lou
   photo: yanan.jpg
