@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
  08-07-2024
- <h>Shibiao is invited to give a talk for <b>Bioinformatics Research Symposium and Workshop on Integrative Omics and ML</b> to be held from August 19-21 in Lincoln, NE. The link is <a  href="https://sbbi.unl.edu/events/research-omics-and-ml-2024/">here</a></h>
+ <h>Shibiao is invited to give a talk for <b>Bioinformatics Research Symposium and Workshop on Integrative Omics and ML</b> to be held from August 19-21 in Lincoln, NE. The link is <a  href="https://sbbi.unl.edu/events/research-omics-and-ml-2024/">here</a>.</h>
 <br>
 08-06-2024
 <h> <b>Charlie</b> joins our lab as a PhD student in UNMC. Welcome aboard!</h>
