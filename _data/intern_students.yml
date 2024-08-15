@@ -93,7 +93,7 @@
   info: Intern Student 
   email: neiledwardlinehan@gmail.com 
   number_educ: 2
-  education1: M.S. Data Analytics , Western Governors University, USA, 2025
+  education1: M.S. Data Analytics, Western Governors University, USA, 2025
   education2: B.S. Bachelor of Science in Physics and Geographic Information Science, Arizana State University, USA, 2024
 
 - name: Ouyang Han
@@ -104,3 +104,11 @@
   education1: M.S. Artificial Intelligence, Northeastern University, USA, 2025
   education2: M.S. Information System, Hofstra University, USA, 2024
   education3: B.S. Public Administration, Sun Yat-sen University, China, 2006
+
+- name: Anulika Pearl Nwapshili
+  photo: Potrait_Anulika_Nwashili.jpg
+  info: Intern Student 
+  email: nwashilianulika@gmail.com 
+  number_educ: 2
+  education1: M.S. Bioinformatics, University of Arkansas at Little Rock, USA, 2024
+  education2: B.S. Computer Science, Ajayi Crowther University, USA, 2020
