@@ -43,6 +43,14 @@
   number_educ: 2
   education1: MSc in Statistics, University of Minnesota, USA, 2024
   education2: BSc in Actuarial Science, University of Nebraska-Lincoln, USA, 2019
+
+- name: Min-jeong Baek
+  photo: MJ.jpg
+  info: Graduate Student
+  email: mbaek@unmc.edu
+  number_educ: 2
+  education1: MSc in Biomedicine & Nanobio Systems, Korea University, Korea, 2018
+  education2: BSc in Computer Science, Sookmyung Women’s University, Korea, 2015
   
 - name: Yanan Lou
   photo: yanan.jpg
