@@ -6,6 +6,10 @@ permalink: /news/
 ---
 
 # News
+08-20-2024
+ <h> <b>Min-jeong</b> joins our lab as a PhD student in UNMC. Welcome aboard!</h>
+<br>
+
  08-14-2024
  <h> <b>Anulika</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
