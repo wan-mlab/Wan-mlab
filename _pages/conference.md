@@ -1,5 +1,5 @@
 ---
-title: "Conference"
+title: "Conf"
 layout: textlay
 sitemap: false
 permalink: /conference/
