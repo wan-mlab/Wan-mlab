@@ -52,6 +52,30 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">6003</td>
             </tr>
             <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">10/29/2024</td>
+                <td height = "50">TBA</td>
+                <td height = "50">6003</td>
+            </tr>                
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">10/15/2024</td>
+                <td height = "50">TBA</td>
+                <td height = "50">6003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Charlie Soh</td>
+                <td height = "50">10/01/2024</td>
+                <td height = "50">TBA</td>
+                <td height = "50">6003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">09/17/2024</td>
+                <td height = "50">TBA</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">09/03/2024</td>
                 <td height = "50">Self-Organizing Maps (SOMs)​</td>
