@@ -6,6 +6,10 @@ permalink: /news/
 ---
 
 # News
+
+08-23-2024
+ <h> Shibiao is invited to serve as a reviewer for <b>Nature Methods</b> (IF 36.1).</h>
+  
 08-20-2024
  <h> <b>Min-jeong</b> joins our lab as a PhD student in UNMC. Welcome aboard!</h>
 <br>
