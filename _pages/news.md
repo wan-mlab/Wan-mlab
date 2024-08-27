@@ -9,24 +9,19 @@ permalink: /news/
 
 08-23-2024
  <h> Shibiao is invited to serve as a reviewer for <b>Nature Methods</b> (IF 36.1).</h>
-
+<br>
 08-22-2024
  <h> A <b>Nature Research Briefing</b> in which Shibiao provided expert opinions on a recent study on AI for drug target identification in <b>Nature Computational Science</b> was published. The link is <a  href="https://www.nature.com/articles/s43588-024-00682-9.epdf?sharing_token=dy-w7YHOcMMbM8c5EVNINNRgN0jAjWel9jnR3ZoTv0PGtfIigGfgYOMfhMVdKpPFcQraNh13S6ong0YG1nOau_bUc_rOBXqcBjmvzYbmZgXUAHJm923WKVmkJIr-Vdu1AUmdOpd90XF_ayI-IQ3mmV5XMP7msy9FqU7p6RwtcNs%3D">here</a>.</h>
  <br>
- 
 08-20-2024
  <h> <b>Min-jeong</b> joins our lab as a PhD student in UNMC. Welcome aboard!</h>
 <br>
-
  08-14-2024
  <h> <b>Anulika</b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
-
  08-07-2024
  <h>Shibiao is invited to give a talk for <b>Bioinformatics Research Symposium and Workshop on Integrative Omics and ML</b> to be held from August 19-21 in Lincoln, NE. The link is <a  href="https://sbbi.unl.edu/events/research-omics-and-ml-2024/">here</a>.</h>
 <br>
-
-
 08-06-2024
 <h> <b>Charlie</b> joins our lab as a PhD student in UNMC. Welcome aboard!</h>
 <br>
