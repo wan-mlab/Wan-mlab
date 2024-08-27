@@ -5,6 +5,38 @@ sitemap: false
 permalink: /activity/
 ---
 <div id="textid" class="col-sm-12">
+## The 2024 Pediatric Cancer Research Group (PCRG) Symposium 
+<strong>Mengtao</strong> presents poster: "iS3RGs:Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects" and <strong>Lusheng</strong> presents poster: "AttentionAML: An Attention-Based Deep Learning Model for Identifying Acute Myeloid Leukemia Subtypes" at <strong>2024 PCRG</strong> Symposium.
+</div>
+<div class="col-sm-9">
+<div markdown="0" id="carousel8" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel8" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel8" data-slide-to="1"></li>
+        <li data-target="#carousel8" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/pcrg2024a.jpeg" alt="Slide 1" />
+        </div>
+         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/pcrg2024b.jpeg" alt="Slide 2" />
+        </div>       
+    </div>
+  <a class="left carousel-control" href="#carousel8" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel8" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+<div id="textid" class="col-sm-12">
 ## Welcome Party - 2024
 </div>
 <div class="col-sm-9">
