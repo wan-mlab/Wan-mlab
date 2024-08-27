@@ -20,10 +20,10 @@ permalink: /activity/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/pcrg2024a.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/cprg2024a.jpeg" alt="Slide 1" />
         </div>
          <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/pcrg2024b.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/cprg2024b.jpeg" alt="Slide 2" />
         </div>       
     </div>
   <a class="left carousel-control" href="#carousel8" role="button" data-slide="prev">
