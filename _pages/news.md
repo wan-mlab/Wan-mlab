@@ -7,6 +7,9 @@ permalink: /news/
 
 # News
 
+08-27-2024
+<h> <b>Lusheng</b> and <b>Mengtao</b> respectively present posters on AML subtype identification and medulloblastoma subtypes discrimination on <b>2024 Pediatric Cancer Research Group (PCRG) Symposium</b>. </h>
+<br>
 08-23-2024
  <h> Shibiao is invited to serve as a reviewer for <b>Nature Methods</b> (IF 36.1).</h>
 <br>
