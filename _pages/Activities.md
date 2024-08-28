@@ -22,7 +22,7 @@ permalink: /activity/
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/cprg2024a.jpeg" alt="Slide 1" />
         </div>
-         <div class="item active">
+         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/cprg2024b.jpeg" alt="Slide 2" />
         </div>       
     </div>
