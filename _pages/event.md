@@ -72,7 +72,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Xinchao Wu</td>
                 <td height = "50">10/01/2024</td>
-                <td height = "50">TBA</td>
+                <td height = "50">Self-Supervised Learning</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
@@ -84,7 +84,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Ruobing Liu</td>
                 <td height = "50">09/03/2024</td>
-                <td height = "50">TBA​</td>
+                <td height = "50">nnU-net​</td>
                 <td height = "50">6003</td>
             </tr>            
             <tr>
