@@ -19,30 +19,42 @@ permalink: /conference/
             </tr>
             <tr style="border-bottom: 2px solid black;">
                 <td height = "50"><b>Conference</b></td>
+                <td height = "50"><b>Locations</b></td>
                 <td height = "50"><b>Dates</b></td>
                 <td height = "50"><b>Deadlines</b></td>
                 <td height = "50"><b>Links</b></td>
             </tr>
             <tr>
                 <td height = "50">PSB 2025</td>
+                <td height = "50">Big Island of Hawaii</td>
                 <td height = "50">January 4-8, 2025</td>
                 <td height = "50">Abstract/Poster: Dec. 2, 2024</td>
                 <td height = "50"><a href="https://psb.stanford.edu" target="_blank">https://psb.stanford.edu</a></td>
-            </tr>
+            </tr>          
             <tr>
                 <td height = "50">RECOMB 2025</td>
+                <td height = "50">Seoul, Korea</td>
                 <td height = "50">April 26-29, 2025</td>
                 <td height = "50">Abstract/paper registration: Oct. 16, 2024</td>
                 <td height = "50"><a href="https://recomb.org/recomb2025/index.html" target="_blank">https://recomb.org/recomb2025/index.html</a></td>
             </tr>
             <tr>
                 <td height = "50">AACR 2025</td>
+                <td height = "50">Chicago, Illinois</td>
                 <td height = "50">April 25-30, 2025</td>
                 <td height = "50">Abstract: Nov. 26, 2024</td>
                 <td height = "50"><a href="https://www.aacr.org/meeting/aacr-annual-meeting-2025/" target="_blank">https://www.aacr.org/meeting/aacr-annual-meeting-2025/</a></td>
             </tr>
+              <tr>
+                <td height = "50">IEEE EMBC 2025</td>
+                <td height = "50">Copenhagen, Denmark</td>
+                <td height = "50">July 14-18, 2025</td>
+                <td height = "50">Workshops: Nov. 22, 2024; Full Papers: Jan. 17, 2025</td>
+                <td height = "50"><a href="https://embc.embs.org/2025/" target="_blank">https://embc.embs.org/2025/</a></td>
+            </tr>          
             <tr>
                 <td height = "50">ISMB/ECCB 2025</td>
+                <td height = "50">Liverpool, England</td>
                 <td height = "50">July 20-24, 2025</td>
                 <td height = "50">Coming soon</td>
                 <td height = "50"><a href="https://www.iscb.org/ismbeccb2025/home" target="_blank">https://www.iscb.org/ismbeccb2025/home</a></td>
@@ -52,15 +64,18 @@ permalink: /conference/
                 <td height = "50">unavailable</td>
                 <td height = "50">unavailable</td>
                 <td height = "50">unavailable</td>
+                <td height = "50">unavailable</td>
             </tr>
             <tr>
                 <td height = "50">ACM BCB 2025</td>
                 <td height = "50">unavailable</td>
                 <td height = "50">unavailable</td>
                 <td height = "50">unavailable</td>
+                <td height = "50">unavailable</td>
             </tr>
             <tr>
                 <td height = "50">ICIBM 2025</td>
+                <td height = "50">unavailable</td>
                 <td height = "50">unavailable</td>
                 <td height = "50">unavailable</td>
                 <td height = "50">unavailable</td>
