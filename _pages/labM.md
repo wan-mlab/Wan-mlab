@@ -10,7 +10,7 @@ permalink: /labm/
 <br>
 # Wan Lab Meeting
 <br>
-### Lab meetings are held every Monday from 9:00 AM to 10:30 AM (CT). A typical lab meeting includes weekly report and presentation. All lab members gather to engage in meaningful discussions and provide feedback on ongoing projects. 
+#### Lab meetings are held every Monday from 9:00 AM to 10:30 AM (CT). A typical lab meeting includes weekly report and presentation. All lab members gather to engage in meaningful discussions and provide feedback on ongoing projects. 
 
 
 <br>
