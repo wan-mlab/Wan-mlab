@@ -66,7 +66,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Charlie Soh</td>
                 <td height = "50">10/15/2024</td>
-                <td height = "50">TBA</td>
+                <td height = "50">SHAP (SHapley Additive exPlanations)</td>
                 <td height = "50">6003</td>
             </tr>            
             <tr>
