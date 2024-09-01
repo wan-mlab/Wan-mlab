@@ -47,6 +47,7 @@ Before joining UNMC, Dr. Wan was a Bioinformatics Research Scientist at <a href 
 - Visiting scholar, The Johns Hopkins School of Medicine, MD, USA and CBIL lab of Virginia Tech, VA, USA , 2013. Supervisor: Prof. Yue Wang.
 
 ### AWARDS & HONORS
+- New Investigator Award, awarded by UNMC, Omaha, NE, USA, 2024;
 - FIRST Award of Nebraska EPSCoR Program, Lincoln, NE, USA, 2023;
 - IEEE Senior Member, Piscataway, NJ, USA, 2022;
 - EIE Outstanding Young Alumni Award, awarded by The Hong Kong Polytechnic University, HK SAR, China, 2022;
