@@ -7,6 +7,9 @@ permalink: /news/
 
 # News
 
+08-30-2024
+<h> Shibiao is awarded the <b>New Investigator Award</b> by UNMC.</h>
+<br>
 08-27-2024
 <h> <b>Lusheng</b> and <b>Mengtao</b> respectively present posters on AML subtype identification and medulloblastoma subtypes discrimination on <b>2024 Pediatric Cancer Research Group (PCRG) Symposium</b>. </h>
 <br>
