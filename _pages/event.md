@@ -38,41 +38,41 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">01/07/2025</td>
                 <td height = "50">Self-Organizing Maps (SOMs)​​</td>
                 <td height = "50">6003</td>
-            </tr>
+            </tr>          
             <tr>
-                <td height = "50">Lusheng Li</td>
+                <td height = "50">Xinchao Wu</td>
                 <td height = "50">12/10/2024</td>
-                <td height = "50">Diffusion Models for Deep Learning​</td>
+                <td height = "50">Self-Supervised Learning​</td>
                 <td height = "50">6003</td>
             </tr>            
             <tr>
-                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">Lusheng Li</td>
                 <td height = "50">11/26/2024</td>
-                <td height = "50">Louvain clustering</td>
+                <td height = "50">Diffusion Models for Deep Learning​</td>
                 <td height = "50">6003</td>
             </tr>         
             <tr>
-                <td height = "50">Nicholas Peterson</td>
+                <td height = "50">Hanyu Xiao</td>
                 <td height = "50">11/12/2024</td>
-                <td height = "50">TBA</td>
+                <td height = "50">Louvain clustering</td>
                 <td height = "50">6003</td>
             </tr>                
             <tr>
-                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">Nicholas Peterson</td>
                 <td height = "50">10/29/2024</td>
                 <td height = "50">TBA</td>
                 <td height = "50">6003</td>
             </tr>            
             <tr>
-                <td height = "50">Charlie Soh</td>
+                <td height = "50">Min-jeong Baek</td>
                 <td height = "50">10/15/2024</td>
-                <td height = "50">SHAP (SHapley Additive exPlanations)</td>
+                <td height = "50">Contrastive Classification Semantic Alignment (CCSA)</td>
                 <td height = "50">6003</td>
             </tr>            
             <tr>
-                <td height = "50">Xinchao Wu</td>
+                <td height = "50">Charlie Soh</td>
                 <td height = "50">10/01/2024</td>
-                <td height = "50">Self-Supervised Learning</td>
+                <td height = "50">SHAP (SHapley Additive exPlanations)</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
