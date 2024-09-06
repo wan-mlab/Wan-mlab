@@ -73,7 +73,7 @@ permalink: /labm/
                 <td height = "50">7003</td>
             </tr>            
             <tr>
-                <td height = "50">Xinchao Wu</td>
+                <td height = "50">Hanyu Xiao</td>
                 <td height = "50">10/21/2024</td>
                 <td height = "50">7003</td>
             </tr>
@@ -83,7 +83,7 @@ permalink: /labm/
                 <td height = "50">6003</td>
             </tr>            
             <tr>
-                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">Xinchao Wu</td>
                 <td height = "50">10/07/2024</td>
                 <td height = "50">7003</td>
             </tr>              
