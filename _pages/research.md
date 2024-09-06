@@ -43,6 +43,7 @@ Projects in Wan Lab focus on develop artificial intelligence/machine learning an
 5. Neuroimaging Biomarker Identification for Alcohol Use Disorder (AUD)
 6. Integrating Multi-Omics and Imaging Data for Neurological Disorders (Alzheimer's Disease, Parkinson Disease, etc)
 7. Prostate Cancer Research
-8. Proteomics Data Analysis
+8. Lung Cancer Characterization
+9. Proteomics Data Analysis
 
 ### ... and more.
