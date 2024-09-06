@@ -8,7 +8,7 @@ permalink: /news/
 # News
 
 09-05-2024
-<h> Shibiao is awarded <b>an NIH R03 grant</b> by NIH Office of The Director (NIH/OD) and NIH/NICDR to leverage heterogeneous common fun data sets for lung cancer research.</h>
+<h> Shibiao is awarded <b>an NIH R03 grant</b> by NIH Office of The Director (NIH/OD) and NIH/NICDR to leverage heterogeneous common fund data sets for lung cancer research.</h>
 <br>
 08-30-2024
 <h> Shibiao is awarded the <b>2024 New Investigator Award</b> by UNMC.</h>
