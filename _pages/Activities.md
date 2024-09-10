@@ -15,6 +15,9 @@ permalink: /activity/
         <li data-target="#carousel8" data-slide-to="0" class="active"></li>
         <li data-target="#carousel8" data-slide-to="1"></li>
         <li data-target="#carousel8" data-slide-to="2"></li>
+        <li data-target="#carousel8" data-slide-to="3"></li>
+        <li data-target="#carousel8" data-slide-to="4"></li>  
+        <li data-target="#carousel8" data-slide-to="5"></li> 
     </ol>
 
     <!-- Items -->
@@ -24,7 +27,16 @@ permalink: /activity/
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/cprg2024b.jpeg" alt="Slide 2" />
-        </div>       
+        </div>  
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/cprg2024c.jpeg" alt="Slide 3" />
+        </div>  
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/cprg2024d.jpeg" alt="Slide 4" />
+        </div>  
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/cprg2024e.jpeg" alt="Slide 5" />
+        </div>          
     </div>
   <a class="left carousel-control" href="#carousel8" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
