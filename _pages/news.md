@@ -11,7 +11,7 @@ permalink: /news/
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>Poland National Science Center</b> in the Poland. </h>
 <br>
 09-05-2024
-<h> Shibiao is awarded <b>an NIH R03 grant</b> by NIH Office of The Director (NIH/OD) and NIH/NICDR to leverage heterogeneous common fund data sets for lung cancer research.</h>
+<h> Shibiao is awarded an <b>NIH R03 grant</b> by NIH Office of The Director (NIH/OD) and NIH/NICDR to leverage heterogeneous common fund data sets for lung cancer research.</h>
 <br>
 09-04-2024
 <h> Four abstracts are accepted in <b>ICIBM 2024</b>. Congrats to <b>Mengtao, Hanyu and Lusheng</b>!!!</h>
