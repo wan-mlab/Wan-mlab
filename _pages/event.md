@@ -66,7 +66,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Min-jeong Baek</td>
                 <td height = "50">10/15/2024</td>
-                <td height = "50">Contrastive Classification Semantic Alignment (CCSA)</td>
+                <td height = "50">Transfer Learning II</td>
                 <td height = "50">6003</td>
             </tr>            
             <tr>
