@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
  
-09-25-2024
+09-23-2024
 <h> <b>lesha M</b>, <b>Sommer</b> and <b>Kayode</b> joins our lab for rotation in UNMC. Welcome aboard!</h>
 <br>
 09-17-2024
