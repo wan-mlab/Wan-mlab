@@ -6,7 +6,10 @@ permalink: /news/
 ---
 
 # News
- 
+
+09-26-2024
+<h> A research article preprint “RanBALL: An Ensemble Random Projection Model for Identifying Subtypes of B-cell Acute Lymphoblastic Leukemia” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2024.09.24.614777v1">here</a>. Congratulations to <b>Lusheng</b>, <b>Hanyu</b> and <b>Xinchao</b>!</h>
+<br>
 09-23-2024
 <h> <b>Bryant lesha M</b>, <b>Ramos Sommer</b> and <b>Raheem Kayode</b> join our lab for rotation in UNMC. Welcome aboard!</h>
 <br>
