@@ -1,0 +1,23 @@
+- name: Iesha Bryant
+  photo: Iesha.jpeg
+  info: Graduate Student
+  email: Ieshabryant5@icloud.com
+  number_educ: 1
+  education1: BSc in Biological Sciences | Psychology, University of Nebraska Lincoln, USA, 2020
+  education2: 
+
+- name: KAYODE YOMI RAHEEM
+  photo: Kayode.jpeg
+  info: Graduate Student
+  email: kayoderaheem.y@gmail.com
+  number_educ: 2
+  education1: MSc in Bioinformatics, COMSATS University Islamabad, Pakistan, 2024
+  education2: BSc in Biochemistry with Honors, Adekunle Ajasin University, Akungba, Nigeria, 2017
+
+- name: SOMMER HOKULANI RAMOS
+  photo: Sommer.png
+  info: Graduate Student
+  email: sramos@unmc.edu
+  number_educ: 2
+  education1: BSc in Biology, Creighton University, Omaha, USA, 2022
+ 
