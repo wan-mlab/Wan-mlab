@@ -134,7 +134,7 @@ permalink: /team/
 
 ## Rotation Graduate Students
 {% assign number_printed = 0 %}
-{% for member in site.data.rotation.graduate_members %}
+{% for member in site.data.rotation_graduate_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
