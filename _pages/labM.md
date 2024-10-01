@@ -58,37 +58,37 @@ permalink: /labm/
                 <td height = "50">7003</td>
             </tr> 
             <tr>
-                <td height = "50">Nwashili Anulika</td>
+                <td height = "50">Min-jeong Baek</td>
                 <td height = "50">11/11/2024</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
-                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">Nick Peterson</td>
                 <td height = "50">11/04/2024</td>
                 <td height = "50">7003</td>
             </tr>             
             <tr>
-                <td height = "50">Nick Peterson</td>
+                <td height = "50">Hanyu Xiao</td>
                 <td height = "50">10/28/2024</td>
                 <td height = "50">7003</td>
             </tr>            
             <tr>
-                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">Mengtao Sun</td>
                 <td height = "50">10/21/2024</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
-                <td height = "50">Mengtao Sun</td>
+                <td height = "50">Han Ouyang</td>
                 <td height = "50">10/14/2024</td>
                 <td height = "50">6003</td>
             </tr>            
             <tr>
-                <td height = "50">Xinchao Wu</td>
+                <td height = "50">Nwashili Anulika</td>
                 <td height = "50">10/07/2024</td>
                 <td height = "50">7003</td>
             </tr>              
             <tr>
-                <td height = "50">Han Ouyang</td>
+                <td height = "50">Xinchao WuHan Ouyang</td>
                 <td height = "50">09/30/2024</td>
                 <td height = "50">7003</td>
             </tr>
