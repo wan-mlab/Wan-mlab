@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+10-01-2024
+<h> Shibiao is appointed as an <b>Assistant Professor (courtesey)</b> in the <b>Department of Biostatistics</b> at the College of Public Health of UNMC.</h>
+<br>
 09-30-2024
 <h> <b>Richard Dang</b> joins our lab for rotation in UNMC. Welcome aboard!</h>
 <br>
