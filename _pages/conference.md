@@ -56,7 +56,7 @@ permalink: /conference/
                 <td height = "50">ISMB/ECCB 2025</td>
                 <td height = "50">Liverpool, England</td>
                 <td height = "50">July 20-24, 2025</td>
-                <td height = "50">Coming soon</td>
+                <td height = "50">Abstracts: Apr. 17, 2025; Proceedings: Jan. 23, 2025</td>
                 <td height = "50"><a href="https://www.iscb.org/ismbeccb2025/home" target="_blank">https://www.iscb.org/ismbeccb2025/home</a></td>
             </tr>
             <tr>
