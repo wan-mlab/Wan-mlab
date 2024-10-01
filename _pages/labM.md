@@ -80,7 +80,7 @@ permalink: /labm/
             <tr>
                 <td height = "50">Han Ouyang</td>
                 <td height = "50">10/14/2024</td>
-                <td height = "50">6003</td>
+                <td height = "50">7003</td>
             </tr>            
             <tr>
                 <td height = "50">Nwashili Anulika</td>
@@ -88,7 +88,7 @@ permalink: /labm/
                 <td height = "50">7003</td>
             </tr>              
             <tr>
-                <td height = "50">Xinchao WuHan Ouyang</td>
+                <td height = "50">Xinchao Wu</td>
                 <td height = "50">09/30/2024</td>
                 <td height = "50">7003</td>
             </tr>
