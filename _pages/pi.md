@@ -15,7 +15,7 @@ permalink: /pi/
 
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editor-in-Chief</a> for Current Proteomics
 
-- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editorial Board Member</a> for Briefings in Functional Genomics (IF: 4.840), Heliyon (IF: 4), BMC Bioinformatics (IF: 3.328), International Journal of Microbiology (IF: 3.4), PeerJ Computer Science (IF: 2.411), BioMed Research International (IF: 3.411), and Computational and Mathematical Methods (IF: 2.809)
+- <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Editorial Board Member</a> for Briefings in Functional Genomics (IF: 4.840), Heliyon (IF: 4), BMC Bioinformatics (IF: 3.328), Discover Oncology (IF: 2.8), International Journal of Microbiology (IF: 3.4), PeerJ Computer Science (IF: 2.411), BioMed Research International (IF: 3.411), and Computational and Mathematical Methods (IF: 2.809)
 
 - <a href = "https://sites.google.com/site/shibiaowan/professional-activities" target="_blank">Guest Associate Editor</a> for Frontiers in Immunology (IF: 8.786), Frontiers in Cell and Developmental Biology (IF: 6.684), Frontiers in Pharmacology (IF: 5.988), Frontiers in Oncology (IF: 5.738), Biology (IF: 5.079), Frontiers in Genetics (IF: 4.599), Genes (IF: 4.141), and Frontiers in Psychology (IF: 3.8)
 
