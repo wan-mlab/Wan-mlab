@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 10-04-2024
-<h> As Shibiao being a coauthor, a collaboration review article on brain age estimation with Dr. Wang is accepted by <b>Briefings in Functional Genomics</b> (IF 2.5).</h>
+<h> A collaboration review article on brain age estimation with Dr. Wang from UNMC is accepted by <b>Briefings in Functional Genomics</b> (IF 2.5).</h>
 <br>
 10-01-2024
 <h> Shibiao is appointed as an <b>Assistant Professor (courtesy)</b> in the <b>Department of Biostatistics</b> at the College of Public Health of UNMC.</h>
