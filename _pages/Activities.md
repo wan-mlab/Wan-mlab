@@ -5,6 +5,80 @@ sitemap: false
 permalink: /activity/
 ---
 <div id="textid" class="col-sm-12">
+## The 2024 International Conference on Intelligent Biology and Medicine (ICIBM) Symposium. 
+<strong>Dr. Wan</strong> gave a talk at <strong>2024 ICIBM</strong> Symposium.
+</div>
+<div class="col-sm-9">
+<div markdown="0" id="carousel8" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel8" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel8" data-slide-to="1"></li>
+        <li data-target="#carousel8" data-slide-to="2"></li>
+        <li data-target="#carousel8" data-slide-to="3"></li>
+        <li data-target="#carousel8" data-slide-to="4"></li>  
+        <li data-target="#carousel8" data-slide-to="5"></li> 
+        <li data-target="#carousel8" data-slide-to="6"></li>
+        <li data-target="#carousel8" data-slide-to="7"></li>
+        <li data-target="#carousel8" data-slide-to="8"></li>
+        <li data-target="#carousel8" data-slide-to="9"></li>
+        <li data-target="#carousel8" data-slide-to="10"></li>
+        <li data-target="#carousel8" data-slide-to="11"></li>
+        <li data-target="#carousel8" data-slide-to="12"></li>
+        <li data-target="#carousel8" data-slide-to="13"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024a.jpeg" alt="Slide 1" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024b.jpeg" alt="Slide 2" />
+        </div>  
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024c.jpeg" alt="Slide 3" />
+        </div>  
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024d.jpeg" alt="Slide 4" />
+        </div>  
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024e.jpeg" alt="Slide 5" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024f.jpeg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024g.jpeg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024h.jpeg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024i.jpeg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024j.jpeg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024k.jpeg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024l.jpeg" alt="Slide 1" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel8" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel8" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+<br>
+<div id="textid" class="col-sm-12">
 ## The 2024 Pediatric Cancer Research Group (PCRG) Symposium 
 <strong>Mengtao</strong> presents poster: "iS3RGs:Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects" and <strong>Lusheng</strong> presents poster: "AttentionAML: An Attention-Based Deep Learning Model for Identifying Acute Myeloid Leukemia Subtypes" at <strong>2024 PCRG</strong> Symposium.
 </div>
