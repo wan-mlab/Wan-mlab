@@ -25,7 +25,6 @@ permalink: /activity/
         <li data-target="#carousel8" data-slide-to="10"></li>
         <li data-target="#carousel8" data-slide-to="11"></li>
         <li data-target="#carousel8" data-slide-to="12"></li>
-        <li data-target="#carousel8" data-slide-to="13"></li>
     </ol>
 
     <!-- Items -->
