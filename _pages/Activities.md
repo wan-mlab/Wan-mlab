@@ -25,6 +25,8 @@ permalink: /activity/
         <li data-target="#carousel9" data-slide-to="10"></li>
         <li data-target="#carousel9" data-slide-to="11"></li>
         <li data-target="#carousel9" data-slide-to="12"></li>
+        <li data-target="#carousel9" data-slide-to="13"></li>
+        <li data-target="#carousel9" data-slide-to="14"></li>
     </ol>
 
     <!-- Items -->
@@ -64,6 +66,12 @@ permalink: /activity/
         </div>
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024l.jpeg" alt="Slide 12" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024m.jpeg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024n.jpeg" alt="Slide 1" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel9" role="button" data-slide="prev">
