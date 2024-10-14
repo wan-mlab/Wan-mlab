@@ -46,31 +46,31 @@ permalink: /activity/
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024e.jpeg" alt="Slide 5" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024f.jpeg" alt="Slide 6" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024g.jpeg" alt="Slide 7" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024h.jpeg" alt="Slide 8" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024i.jpeg" alt="Slide 9" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024j.jpeg" alt="Slide 10" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024k.jpeg" alt="Slide 11" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024l.jpeg" alt="Slide 12" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024m.jpeg" alt="Slide 13" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024n.jpeg" alt="Slide 14" />
         </div>
     </div>
