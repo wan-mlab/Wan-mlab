@@ -9,22 +9,22 @@ permalink: /activity/
 <strong>Dr. Wan</strong> gave a talk at <strong>2024 ICIBM</strong> Symposium.
 </div>
 <div class="col-sm-9">
-<div markdown="0" id="carousel8" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<div markdown="0" id="carousel9" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
-        <li data-target="#carousel8" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel8" data-slide-to="1"></li>
-        <li data-target="#carousel8" data-slide-to="2"></li>
-        <li data-target="#carousel8" data-slide-to="3"></li>
-        <li data-target="#carousel8" data-slide-to="4"></li>  
-        <li data-target="#carousel8" data-slide-to="5"></li> 
-        <li data-target="#carousel8" data-slide-to="6"></li>
-        <li data-target="#carousel8" data-slide-to="7"></li>
-        <li data-target="#carousel8" data-slide-to="8"></li>
-        <li data-target="#carousel8" data-slide-to="9"></li>
-        <li data-target="#carousel8" data-slide-to="10"></li>
-        <li data-target="#carousel8" data-slide-to="11"></li>
-        <li data-target="#carousel8" data-slide-to="12"></li>
+        <li data-target="#carousel9" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel9" data-slide-to="1"></li>
+        <li data-target="#carousel9" data-slide-to="2"></li>
+        <li data-target="#carousel9" data-slide-to="3"></li>
+        <li data-target="#carousel9" data-slide-to="4"></li>  
+        <li data-target="#carousel9" data-slide-to="5"></li> 
+        <li data-target="#carousel9" data-slide-to="6"></li>
+        <li data-target="#carousel9" data-slide-to="7"></li>
+        <li data-target="#carousel9" data-slide-to="8"></li>
+        <li data-target="#carousel9" data-slide-to="9"></li>
+        <li data-target="#carousel9" data-slide-to="10"></li>
+        <li data-target="#carousel9" data-slide-to="11"></li>
+        <li data-target="#carousel9" data-slide-to="12"></li>
     </ol>
 
     <!-- Items -->
@@ -66,11 +66,11 @@ permalink: /activity/
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024l.jpeg" alt="Slide 12" />
         </div>
     </div>
-  <a class="left carousel-control" href="#carousel8" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#carousel9" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel8" role="button" data-slide="next">
+  <a class="right carousel-control" href="#carousel9" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
