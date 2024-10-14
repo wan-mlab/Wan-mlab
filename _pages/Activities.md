@@ -68,10 +68,10 @@ permalink: /activity/
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024l.jpeg" alt="Slide 12" />
         </div>
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024m.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024m.jpeg" alt="Slide 13" />
         </div>
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024n.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024n.jpeg" alt="Slide 14" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel9" role="button" data-slide="prev">
