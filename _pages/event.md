@@ -2,7 +2,7 @@
 title: "Events"
 layout: textlay
 sitemap: false
-permalink: /event/
+permalink: /journalclub/
 ---
 <br>
 <br>
