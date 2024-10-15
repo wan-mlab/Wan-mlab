@@ -75,7 +75,7 @@ permalink: /activity/
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024n.jpeg" alt="Slide 14" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024o.jpeg" alt="Slide 15" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024o.jpg" alt="Slide 15" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel9" role="button" data-slide="prev">
