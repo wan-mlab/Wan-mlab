@@ -6,7 +6,7 @@ permalink: /activity/
 ---
 <div id="textid" class="col-sm-12">
 ## The 2024 International Conference on Intelligent Biology and Medicine (ICIBM) Symposium. 
-<strong>Dr. Wan</strong> gave a talk at <strong>2024 ICIBM</strong> Symposium.
+<strong>Dr. Wan</strong> gives a talk and <b>Hanyu</b>b presents a poster:"WIMOAD: Weighted Integration of Multi-omics data for Alzheimer’s Disease (AD) Diagnosis" at <strong>2024 ICIBM</strong> Symposium. 
 </div>
 <div class="col-sm-9">
 <div markdown="0" id="carousel9" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -27,6 +27,7 @@ permalink: /activity/
         <li data-target="#carousel9" data-slide-to="12"></li>
         <li data-target="#carousel9" data-slide-to="13"></li>
         <li data-target="#carousel9" data-slide-to="14"></li>
+        <li data-target="#carousel9" data-slide-to="15"></li>
     </ol>
 
     <!-- Items -->
@@ -72,6 +73,9 @@ permalink: /activity/
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024n.jpeg" alt="Slide 14" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Activities/ICIBM2024o.jpeg" alt="Slide 15" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel9" role="button" data-slide="prev">
