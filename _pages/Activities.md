@@ -6,7 +6,7 @@ permalink: /activity/
 ---
 <div id="textid" class="col-sm-12">
 ## The 2024 International Conference on Intelligent Biology and Medicine (ICIBM) Symposium. 
-<strong>Dr. Wan</strong> gives a talk and <b>Hanyu</b>b presents a poster:"WIMOAD: Weighted Integration of Multi-omics data for Alzheimer’s Disease (AD) Diagnosis" at <strong>2024 ICIBM</strong> Symposium. 
+<strong>Dr. Wan</strong> gives a talk and <b>Hanyu</b> presents a poster:"WIMOAD: Weighted Integration of Multi-omics data for Alzheimer’s Disease (AD) Diagnosis" at <strong>2024 ICIBM</strong> Symposium. 
 </div>
 <div class="col-sm-9">
 <div markdown="0" id="carousel9" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
