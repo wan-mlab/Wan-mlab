@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 10-04-2024
-<h> A collaboration review article on brain age estimation with Dr. Wang from UNMC is available online <b>Briefings in Functional Genomics</b> (IF 2.5). The link is <a  href="https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae042/7831150?utm_source=advanceaccess&utm_campaign=bfg&utm_medium=email">here</a>.</h>
+<h> A collaboration review article on brain age estimation with Dr. Wang from UNMC is available online on <b>Briefings in Functional Genomics</b> (IF 2.5). The link is <a  href="https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae042/7831150?utm_source=advanceaccess&utm_campaign=bfg&utm_medium=email">here</a>.</h>
 <br>
 10-01-2024
 <h> Shibiao is appointed as an <b>Assistant Professor (courtesy)</b> in the <b>Department of Biostatistics</b> at the College of Public Health of UNMC.</h>
