@@ -7,6 +7,9 @@ permalink: /news/
 
 # News
 
+10-29-2024
+<h> <b>Sili Li</b> joins our lab as a research intern. Welcome aboard!</h>
+<br>
 10-23-2024
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>CQDM (Consortium Québécois sur la Découverte du Médicament, or Quebec Consortium for Drug Discovery)</b> in Canada.  </h>
 <br>
