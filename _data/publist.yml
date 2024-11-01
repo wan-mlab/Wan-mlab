@@ -1,4 +1,4 @@
-- title: "1. SAMP: identifying antimicrobial peptides by an ensemble learning model based on proportionalized split amino acid composition"
+- title: "1. SAMP: Identifying antimicrobial peptides by an ensemble learning model based on proportionalized split amino acid composition"
   image: 
   description: 
   authors: Feng J., Sun M., Liu C., Zhang W., Xu C., Wang, J， Wang G., <u>Wan, S*.</u>.
@@ -18,7 +18,7 @@
   highlight: 0
   news2:
 
-- title: "1. WIMOAD: weighted integration of multi-omics data for Alzheimer's Disease (AD) diagnosis"
+- title: "1. WIMOAD: Weighted integration of multi-omics data for Alzheimer's Disease (AD) diagnosis"
   image: 
   description: 
   authors: <u>Xiao, H.<sup></sup></u>, Wang, J., <b><u>Wan, S*</u></b>.
@@ -79,7 +79,7 @@
   highlight: 0
   news2:
   
-- title: "1. SAMP: identifying antimicrobial peptides by an ensemble learning model based on proportionalized split amino acid composition"
+- title: "1. SAMP: Identifying antimicrobial peptides by an ensemble learning model based on proportionalized split amino acid composition"
   image: 
   description: 
   authors: <u>Feng, J.<sup>#</sup></u>, <u>Sun, M.<sup>#</sup></u>, <u>Liu, C.</u>, Zhang, W., Xu C., Wang, J., Wang, G., & <b><u>Wan, S*</u></b>.
