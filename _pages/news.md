@@ -7,6 +7,8 @@ permalink: /news/
 
 # News
 
+11-06-2024
+<h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>National Science Foundation (NSF) Graduate Research Fellowship Program for 2025 (NSF GRFP 2025)</b>!</h>
 10-31-2024
 <h>An article titled “SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based on Proportionalized Split Amino Acid Composition” is accepted for publication at the journal <b>Briefings in Functional Genomics</b> (IF 2.5). The link is <a  href="https://pubmed.ncbi.nlm.nih.gov/38712184/">here</a>. Congratulations to <b>Junxi, Mengtao</b> and <b>Andy</b>!</h>
 <br>
