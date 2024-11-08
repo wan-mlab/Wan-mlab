@@ -40,15 +40,15 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50">6003</td>
             </tr>   
             <tr>
-                <td height = "50">Lusheng Li</td>
+                <td height = "50">Xinchao Wu</td>
                 <td height = "50">01/07/2025</td>
-                <td height = "50">Diffusion Models for Deep Learning​</td>
+                <td height = "50">Self-Supervised Learning</td>
                 <td height = "50">6003</td>
             </tr>             
             <tr>
-                <td height = "50">Xinchao Wu</td>
+                <td height = "50">Lusheng LiXinchao Wu</td>
                 <td height = "50">12/10/2024</td>
-                <td height = "50">Self-Supervised Learning​</td>
+                <td height = "50">Diffusion Models</td>
                 <td height = "50">6003</td>
             </tr>                   
             <tr>
