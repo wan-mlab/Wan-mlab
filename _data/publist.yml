@@ -4,7 +4,7 @@
   authors: Feng J., Sun M., Liu C., Zhang W., Xu C., Wang, J, Wang G., <u>Wan, S*.</u>
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/38712184/, https://www.biorxiv.org/content/10.1101/2024.04.25.590553v1
-    display: Briefings in Functional Genomics (accepted) (2024), preprint 
+    display: Briefings in Functional Genomics (accepted) (2024), | [preprint]
   highlight: 0
   news2:
   
@@ -79,15 +79,6 @@
   highlight: 0
   news2:
   
-- title: "1. SAMP: Identifying antimicrobial peptides by an ensemble learning model based on proportionalized split amino acid composition"
-  image: 
-  description: 
-  authors: <u>Feng, J.<sup>#</sup></u>, <u>Sun, M.<sup>#</sup></u>, <u>Liu, C.</u>, Zhang, W., Xu C., Wang, J., Wang, G., & <b><u>Wan, S*</u></b>.
-  link:
-    url: https://www.biorxiv.org/content/10.1101/2024.04.25.590553v1
-    display: bioRxiv 2024.04.25.590553 (2024)
-  highlight: 0
-  news2:
 
 - title: "1. A review for artificial intelligence based protein subcellular localization"
   image: 
