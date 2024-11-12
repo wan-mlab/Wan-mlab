@@ -60,7 +60,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Nicholas Peterson</td>
                 <td height = "50">11/12/2024</td>
-                <td height = "50">Support vector machine</td>
+                <td height = "50">Support Vector Machine II</td>
                 <td height = "50">6003</td>
             </tr>            
             <tr>
