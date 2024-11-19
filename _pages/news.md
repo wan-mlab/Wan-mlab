@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 11-15-2024
-<h> A collaboration research article preprint “Functional Connectivity Alterations in Cocaine Use Disorder: Insights from the Triple Network Model and the Addictions Neuroclinical Assessment Framework” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2024.11.12.623073v1.article-metrics">here</a>.</h>
+<h> A collaboration research article preprint “Functional Connectivity Alterations in Cocaine Use Disorder: Insights from the Triple Network Model and the Addictions Neuroclinical Assessment Framework” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2024.11.12.623073v1">here</a>.</h>
 <br>
 11-06-2024
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>National Science Foundation (NSF) Graduate Research Fellowship Program for 2025 (NSF GRFP 2025)</b>!</h>
