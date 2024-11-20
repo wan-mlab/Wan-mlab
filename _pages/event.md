@@ -65,19 +65,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Paper/Title</b></td>
                 <td height = "50"><b>Room</b></td>
-            </tr>
-            <tr>
-                <td height = "50">Mengtao Sun</td>
-                <td height = "50">01/21/2025</td>
-                <td height = "50">Contrastive Learning​​</td>
-                <td height = "50">6003</td>
-            </tr>   
-            <tr>
-                <td height = "50">Xinchao Wu</td>
-                <td height = "50">01/07/2025</td>
-                <td height = "50">Self-Supervised Learning</td>
-                <td height = "50">6003</td>
-            </tr>             
+            </tr>           
             <tr>
                 <td height = "50">Lusheng Li</td>
                 <td height = "50">12/10/2024</td>
