@@ -34,9 +34,15 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Room</b></td>
             </tr>
             <tr>
+                <td height = "50">Nicholas Peterson</td>
+                <td height = "50">02/18/2025</td>
+                <td height = "50">Self-Organizing Maps (SOMs)​​</td>
+                <td height = "50">6003</td>
+            </tr>              
+            <tr>
                 <td height = "50">Min-jeong Baek</td>
                 <td height = "50">02/04/2025</td>
-                <td height = "50">Self-Organizing Maps (SOMs)​​</td>
+                <td height = "50">Generative Adversarial Networks (GAN)</td>
                 <td height = "50">6003</td>
             </tr>  
             <tr>
