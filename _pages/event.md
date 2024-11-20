@@ -36,7 +36,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Mengtao Sun</td>
                 <td height = "50">01/21/2025</td>
-                <td height = "50">Self-Organizing Maps (SOMs)​​</td>
+                <td height = "50">Contrastive Learning​​</td>
                 <td height = "50">6003</td>
             </tr>   
             <tr>
