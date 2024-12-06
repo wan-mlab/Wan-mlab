@@ -9,6 +9,9 @@ permalink: /news/
 12-04-2024
 <h>Shibiao is invited to give a talk for <b>Immunology Interest Group</b> of UNMC to be held on Feb-11-2025 in Omaha, NE.</h>
 <br>
+12-04-2024
+<h>Shibiao is invited to be a <b>Grant Reviewer</b> for <b>UNMC College of Public Health Innovation Fund</b>.</h>
+<br>
 11-22-2024
 <h> An article titled “SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based on Proportionalized Split Amino Acid Composition” is published at the journal <b>Briefings in Functional Genomics</b> (IF 2.5). The link is <a  href="https://academic.oup.com/bfg/advance-article/doi/10.1093/bfgp/elae046/7906678?utm_source=authortollfreelink&utm_campaign=bfg&utm_medium=email&guestAccessKey=fe3ef938-e6db-4789-93c7-4aecc4d9feab&login=false">here</a>. Congratulations to <b>Junxi, Mengtao</b> and <b>Andy</b>!</h>
 <br>
