@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+12-07-2024
+<h>A collaboration review article “Twelve Practical Recommendations for Developing and Applying Clinical Predictive Models” is published by <b>The Innovation Medicine</b> (IF 1.377). The link is <a  href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-med.2024.100105">here</a>.</h>
+<br>
 12-04-2024
 <h>Shibiao is invited to give a talk for <b>Immunology Interest Group</b> of UNMC to be held on Feb-11-2025 in Omaha, NE.</h>
 <br>
