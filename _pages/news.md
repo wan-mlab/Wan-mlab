@@ -24,9 +24,6 @@ permalink: /news/
 11-06-2024
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>National Science Foundation (NSF) Graduate Research Fellowship Program for 2025 (NSF GRFP 2025)</b>!</h>
 <br>
-10-31-2024
-<h>An article titled “SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based on Proportionalized Split Amino Acid Composition” is accepted for publication at the journal <b>Briefings in Functional Genomics</b> (IF 2.5). The link is <a  href="https://academic.oup.com/bfg/article/23/6/879/7906678?utm_source=authortollfreelink&utm_campaign=bfg&utm_medium=email&guestAccessKey=6292b49f-c059-4153-a133-a895460cc185&login=false">here</a>. Congratulations to <b>Junxi, Mengtao</b> and <b>Andy</b>!</h>
-<br>
 10-30-2024
 <h> <b>Navya Pavani Pachava </b> joins our lab as a research intern. Welcome aboard!</h>
 <br>
