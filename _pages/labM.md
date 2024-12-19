@@ -29,11 +29,16 @@ permalink: /labm/
             </tr>
             <tr>
                 <td height = "50">Min-jeong Baek</td>
-                <td height = "50">12/23/2024</td>
+                <td height = "50">12/30/2024</td>
                 <td height = "50">7003</td>
             </tr>
             <tr>
                 <td height = "50">Nick Peterson</td>
+                <td height = "50">12/23/2024</td>
+                <td height = "50">7003</td>
+            </tr>
+            <tr>
+                <td height = "50">Xinchao Wu</td>
                 <td height = "50">12/16/2024</td>
                 <td height = "50">7003</td>
             </tr> 
