@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+12-20-2024
+<h>Congratulations to <b>Hanyu</b> for passing the comprehensive exam!</h>
+<br>
 12-07-2024
 <h>A collaboration review article “Twelve Practical Recommendations for Developing and Applying Clinical Predictive Models” is published by <b>The Innovation Medicine</b>. The link is <a  href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-med.2024.100105">here</a>.</h>
 <br>
