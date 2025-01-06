@@ -6,7 +6,7 @@ permalink: /news/
 ---
 
 # News
-12-23-2024
+01-06-2024
 <h>Five abstracts are accepted in AACR 2025. Congrats to <b>Mengtao, Lusheng, Nick, Xinchao and MJ</b>!</h>
 <br>
 12-23-2024
