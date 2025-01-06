@@ -7,7 +7,7 @@ permalink: /news/
 
 # News
 12-23-2024
-<h>Five abstracts are accepted in AACR 2025. Congrats to <b>Mengtao, Lusheng, Nick, Xinchao and MJ!</b></h>
+<h>Five abstracts are accepted in AACR 2025. Congrats to <b>Mengtao, Lusheng, Nick, Xinchao and MJ</b>!</h>
 <br>
 12-23-2024
 <h>Shibiao is awarded the <b>NIH/NIGMS Women's Health Supplemental Funding to the Great Plains CTR</b>! We will focus on <b>developing a multi-modal transfer learning framework to reduce health disparities for women's health</b>. Thanks for the generous support from NIH!</h>
