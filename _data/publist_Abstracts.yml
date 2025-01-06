@@ -1,3 +1,4 @@
+
 - title: "1. iS3RGs: Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects, Cancer Research (accepted)."
   image: 
   description: 
@@ -17,11 +18,11 @@
     display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
   highlight: 0
   news2:
-
-- title: "1. A weighted multi-modal transfer learning model for alleviating racial disparities in breast cancer, Cancer Research (accepted)."
+  
+- title: "1. Identifying pancreatic cancer subtypes by a novel meta-learning model (accepted)"
   image: 
   description: 
-  authors: <u>Baek, M.J</u>., <u>Li, L</u>., Wang, J., Band, V., & <b><u>Wan, S*</u></b>.
+  authors: <u>Peterson, N</u>., <u>Sun, M</u>., Wang, J., & <b><u>Wan, S*</u></b>.
   link:
     url: 
     display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
@@ -38,6 +39,15 @@
   highlight: 0
   news2:
 
+- title: "1. A weighted multi-modal transfer learning model for alleviating racial disparities in breast cancer, Cancer Research (accepted)."
+  image: 
+  description: 
+  authors: <u>Baek, M.J</u>., <u>Li, L</u>., Wang, J., Band, V., & <b><u>Wan, S*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
+  highlight: 0
+  news2:
 
 - title: "1. RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model, Cancer Research, vol. 84 (6_ Supplement), pp.4907-4907."
   image: 
