@@ -8,6 +8,37 @@
   highlight: 0
   news2:
 
+- title: "1. AttentionAML: An attention-based deep learning model for accurate identification of childhood acute myeloid leukemia subtypes, Cancer Research (accepted)."
+  image: 
+  description: 
+  authors: <u>Li, L</u>., Khoury J., Wang, J., & <b><u>Wan, S*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
+  highlight: 0
+  news2:
+
+- title: "1. A weighted multi-modal transfer learning model for alleviating racial disparities in breast cancer, Cancer Research (accepted)."
+  image: 
+  description: 
+  authors: <u>Baek, M.J</u>., <u>Li, L</u>., Wang, J., Band, V., & <b><u>Wan, S*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
+  highlight: 0
+  news2:
+
+- title: "1. Combining random projection and stacking learning for NSCLC subtype classification based on transcriptomic data, Cancer Research (accepted)."
+  image: 
+  description: 
+  authors: <u>Wu, X</u>., Wang, J., & <b><u>Wan, S*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
+  highlight: 0
+  news2:
+
+
 - title: "1. RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model, Cancer Research, vol. 84 (6_ Supplement), pp.4907-4907."
   image: 
   description: 
