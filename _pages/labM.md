@@ -10,7 +10,7 @@ permalink: /labm/
 <br>
 # Wan Lab Meeting
 <br>
-#### Lab meetings are held every Monday from 9:00 AM to 10:30 AM (CT). A typical lab meeting includes weekly report and presentation. All lab members gather to engage in meaningful discussions and provide feedback on ongoing projects. 
+#### Lab meetings are held every Friday from 9:00 AM to 10:30 AM (CT). A typical lab meeting includes weekly report and presentation. All lab members gather to engage in meaningful discussions and provide feedback on ongoing projects. 
 
 <br>
 <html lang="en">
@@ -27,18 +27,38 @@ permalink: /labm/
                 <td height = "50"><b>Room</b></td>
             </tr>
             <tr>
+                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">02/28/2025</td>
+                <td height = "50">7003</td>
+            </tr>               
+            <tr>
+                <td height = "50">Yanan Lou</td>
+                <td height = "50">02/21/2025</td>
+                <td height = "50">7003</td>
+            </tr>              
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">02/14/2025</td>
+                <td height = "50">7003</td>
+            </tr>              
+            <tr>
+                <td height = "50">Nick Peterson </td>
+                <td height = "50">02/07/2025</td>
+                <td height = "50">7003</td>
+            </tr>              
+            <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">01/27/2025</td>
+                <td height = "50">01/31/2025</td>
                 <td height = "50">7003</td>
             </tr>              
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">01/20/2025</td>
+                <td height = "50">01/24/2025</td>
                 <td height = "50">7003</td>
             </tr>  
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">01/13/2025</td>
+                <td height = "50">01/17/2025</td>
                 <td height = "50">7003</td>
             </tr>   
             <tr>
