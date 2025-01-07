@@ -1,0 +1,471 @@
+- title: "1. Twelve Practical Recommendations for Developing and Applying Clinical Predictive Models"
+  image: 
+  description: 
+  authors: G. Feng*., H. Xu, <u>S. Wan</u>, H. Wang, X. Chen, R. Magari, Y. Han, Y. Wei and H. Gu
+  link:
+    url: https://www.the-innovation.org/article/doi/10.59717/j.xinn-med.2024.100105
+    display:  The Innovation Medicine 2(4), 100105 (2024)
+  highlight: 0
+  news2:
+  
+- title: "1. SAMP: Identifying antimicrobial peptides by an ensemble learning model based on proportionalized split amino acid composition"
+  image: 
+  description: 
+  authors: J. Feng<sup>#</sup>, M. Sun<sup>#</sup>, C. Liu, W. Zhang, C. Xu, J. Wang, G. Wang and <u>S. Wan*</u>
+  link:
+    url: https://academic.oup.com/bfg/article/23/6/879/7906678?utm_source=authortollfreelink&utm_campaign=bfg&utm_medium=email&guestAccessKey=6292b49f-c059-4153-a133-a895460cc185&login=false
+    display: Briefings in Functional Genomics, 23(6), 879–890 (2024)
+  highlight: 0
+  news2:
+  
+- title: "1. Functional Connectivity Alterations in Cocaine Use Disorder: Insights from the Triple Network Model and the Addictions Neuroclinical Assessment Framework"
+  image: 
+  description: 
+  authors: Z. Xu, R. Liu, M. Azzam, <u>S. Wan</u> and J. Wang*
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.11.12.623073v1
+    display: bioRxiv 2024.11.12.623073 (2024)
+  highlight: 0
+  news2:
+  
+- title: "1. A review of artificial intelligence-based brain age estimation and its applications for related diseases"
+  image: 
+  description: 
+  authors: M. Azzam, Z. Xu, R. Liu, L. Li, K.M. Soh, K.B. Challagundla, <u>S. Wan</u> and J. Wang*
+  link:
+    url: https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae042/7831150?utm_source=advanceaccess&utm_campaign=bfg&utm_medium=email
+    display: Briefings in Functional Genomics, elae042 (2024)
+  highlight: 0
+  news2:
+
+- title: "1. WIMOAD: Weighted integration of multi-omics data for Alzheimer's Disease (AD) diagnosis"
+  image: 
+  description: 
+  authors: <u>H. Xiao</u>, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.09.25.614862v1
+    display: bioRxiv 2024.09.25.614862 (2024)
+  highlight: 0
+  news2:
+  
+- title: "1. RanBALL: An Ensemble Random Projection Model for Identifying Subtypes of B-cell Acute Lymphoblastic Leukemia"
+  image: 
+  description: 
+  authors: <u>L. Li</u>, <u>H. Xiao</u>, <u>X. Wu</u>, Z. Tang, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.09.24.614777v1
+    display: bioRxiv 2024.09.24.614777 (2024)
+  highlight: 0
+  news2:
+
+- title: "1. A prognostic framework for predicting lung signet ring cell carcinoma via a machine learning based cox proportional hazard model"
+  image: 
+  description: 
+  authors: H. Chen, Y. Xu, H. Lin, <u><b>S. Wan*</b></u> and L. Luo*
+  link:
+    url: https://link.springer.com/article/10.1007/s00432-024-05886-0
+    display: Journal of Cancer Research and Clinical Oncology 150(364), 1-15 (2024)
+  highlight: 0
+  news2:
+
+- title: "1. Multi-Omics based artificial intelligence for cancer research"
+  image: 
+  description: 
+  authors: <u>L. Li<sup>#</sup></u>, <u>M. Sun<sup>#</sup></u>, J. Wang and <u><b>S. Wan*</b></u>
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0065230X2400023X
+    display: Advances in Cancer Research 163, 303-356 (2024)
+  highlight: 0
+  news2:
+
+- title: "1. The context-dependent epigenetic and organogenesis programs determine 3D vs. 2D cellular fitness of MYC-driven cancer"
+  image: 
+  description: 
+  authors: J. Fang<sup>#</sup>, S. Singh<sup>#</sup>, B. Wells, Q. Wu, H. Jin, L. Janke, <b><u>S. Wan</u></b>, J. Steele, J. Connelly, A. Murphy, R. Wang, A. Davidoff, M. Ashcroft, S. Pruett-Miller and J. Yang
+  link:
+    url: https://www.researchsquare.com/article/rs-4390765/v1
+    display: Research Square 10.21203/rs.3.rs-4390765/v1 (2024)
+  highlight: 0
+  news2:
+
+- title: "1. Artificial intelligence for omics data analysis"
+  image: 
+  description: 
+  authors: Z. Ahmed<sup>#</sup>, <b><u>S. Wan<sup>#</sup></u></b>, F. Zhang<sup>#</sup> and W. Zhong<sup>#</sup>
+  link:
+    url: https://link.springer.com/article/10.1186/s44330-024-00004-5
+    display: BMC Methods 1, 4 (2024) 
+  highlight: 0
+  news2:
+
+- title: "1. A review for artificial intelligence based protein subcellular localization"
+  image: 
+  description: 
+  authors: <u>H. Xiao</u>, <u>Y. Zou</u>, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://www.mdpi.com/2218-273X/14/4/409
+    display: Biomolecules 14, 409 (2024)
+  highlight: 0
+  news2:
+
+- title: "1. Procyanidin alleviates ferroptosis and inflammation of LPS-induced RAW264.7 cell via the Nrf2/HO-1 pathway"
+  image: 
+  description: 
+  authors: J. Zeng, Y. Weng, T. Lai, L. Chen, Y. Li, Q. Huang, S. Zhong, <b><u>S. Wan*</u></b> and L. Luo*
+  link:
+    url: https://doi.org/10.1007/s00210-023-02854-2
+    display: Naunyn-Schmiedeberg's Arch Pharmacol (2023)
+  highlight: 0
+  news2:
+
+- title: "1. Editorial: Bioinformatics analysis of omics data for biomarker identification in clinical research, Volume II"
+  image: 
+  description: 
+  authors: <u>M. Sun<sup>#</sup></u>, <u>L. Li<sup>#</sup></u>, <u>H. Xiao<sup>#</sup></u>, <u>J. Feng<sup>#</sup></u>, J. Wang and <b><u>S. Wan*</u></b>
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fgene.2023.1256468/full
+    display: Frontiers in Genetics 14, 1256468 (2023)
+  highlight: 0
+  news2: 
+
+- title: "2. USP1 expression driven by EWS:: FLI1 transcription factor stabilizes Survivin and mitigates replication stress in Ewing sarcoma"
+  image: 
+  description: 
+  authors: H. J. Mallard, <b><u>S. Wan</u></b>, P. Nidhi, Y. D. Hanscom-Trofy, B. Mohapatra, N. T. Woods, J. A. Lopez-Guerrero, A. Llombart-Bosch, I. Machado, K. Scotlandi, N. F. Kreiling, M. C. Perry, S. Mirza, D. W. Coulter, V. Band, H. Band and G. Ghosal
+  link:
+    url: https://aacrjournals.org/mcr/article/doi/10.1158/1541-7786.MCR-23-0323/727904
+    display: Molecular Cancer Research MCR, MCR-23-0323 (2023)
+  highlight: 0
+
+- title: "3. Embedded bioprinting of breast tumor cells and organoids using low concentration collagen based bioinks"
+  image: 
+  authors: W. Shi, S. Mirza, M. Kuss, B. Liu, A. Hartin, <b><u>S. Wan</u></b>, Y. Kong, B. Mohapatra, M. Krishnan, H. Band, V. Band and B. Duan
+  description: 
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adhm.202300905
+    display: Advanced Healthcare Materials e2300905 (2023)
+  highlight: 0
+
+- title: "4. Editorial: Ferroptosis as a novel therapeutic target for inflammation-related diseases"
+  image: 
+  authors: Y. Liang, Z. Su, X. Mao, <b><u>S. Wan*</u></b> and L. Luo* 
+  description: 
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fphar.2023.1152326/full
+    display: Frontiers in Pharmacology 14, 1152326 (2023)
+  highlight: 0
+
+- title: "5. Editorial: Single cell meets metabolism and cancer biology"
+  image: 
+  authors: J. Wang and <b><u>S. Wan*</u></b>
+  description: 
+  link:
+    url: https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1125186/full
+    display: Frontiers in Oncology 13, 1125186 (2023)
+  highlight: 0
+
+- title: "6. Etiology of oncogenic fusions in 5,190 childhood cancers and its clinical and therapeutic implication"
+  image: 
+  description:
+  authors: Y. Liu, J. Klein, R. Bajpai, L. Dong, Q. Tran, P. Kolekar, J. L. Smith, R. E. Ries, B. J. Huang, Y. C. Wang, T. A. Alonzo, L. Tian, H. L. Mulder, T. I. Shaw, J. Ma, M. P. Walsh, G. Song, T. Westover, R. J. Autry, A. M. Gout, D. A. Wheeler, <b><u>S. Wan</u></b>, G. Wu, J. J. Yang, W. E. Evans, M. Loh, J. Easton, J. H. Zhang, J. M. Klco and X. Ma
+  link:
+    url: https://www.nature.com/articles/s41467-023-37438-4
+    display: Nature Communications 14 (1), 1739 (2023)
+  highlight: 0
+
+- title: "7. The nuclear receptor ERR cooperates with the cardiogenic factor GATA4 to orchestrate transcriptional control of cardiomyocyte differentiation"
+  image: 
+  description:
+  authors: T. Sakamoto, K. Batmanov, <b><u>S. Wan</u></b>, Y. Guo, L. Lai, R. B. Vega and D. P. Kelly
+  link:
+    url: https://www.nature.com/articles/s41467-022-29733-3
+    display: Nature Communications 13, 1991 (2022)
+  highlight: 0
+
+- title: "8. Alzheimer’s disease-associated U1 snRNP splicing dysfunction causes neuronal hyperexcitability and cognitive impairment"
+  image: 
+  description: 
+  authors: P. C. Chen, X. Han, T. I. Shaw, Y. Fu, H. Sun, M. Niu, Z. Wang, Y. Jiao, B. J. W. Teubner, D. Eddins, L. N. Beloate, B. Bai, J. Mertz, Y. Li, J. H. Cho, X. Wang, Z. Wu, D. Liu, S. Poudel, Z. F. Yuan, A. Mancieri, J. Low, H. M. Lee, M. Patton, L. Earls, E. Stewart, P. Vogel, <b><u>S. Wan</u></b>, G. Serrano, T. Beach, M. Dyer, R. Smeyne, T. Moldoveanu, T. Chen, G. Wu, S. Zakharenko, G. Yu and J. Peng
+  link:
+    url: https://www.nature.com/articles/s43587-022-00290-0
+    display:  Nature Aging 2(10), 923–940 (2022)
+  highlight: 0
+
+- title: "9. A sequence obfuscation method for protecting personal genomic privacy"
+  image: 
+  description:
+  authors: <b><u>S. Wan*</u></b> and J. Wang*
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fgene.2022.876686/full
+    display:  Frontiers in Genetics 13, 876686 (2022)
+  highlight: 0
+  news2:
+
+- title: "10. Genomic profiling identifies genes and pathways dysregulated by HEY1–NCOA2 fusion and shines a light on mesenchymal chondrosarcoma tumorigenesis"
+  image: 
+  description:
+  authors: W. Qi, W. Rosikiewicz, Z. Yin, B. Xu, H. Jiang, <b><u>S. Wan</u></b>, Y. Fan, G. Wu and L. Wang
+  link:
+    url: https://pathsocjournals.onlinelibrary.wiley.com/doi/abs/10.1002/path.5899
+    display: The Journal of Pathology 257 (5), 579-592 (2022)
+  highlight: 0
+
+- title: "11. Special issue on bioinformatics and machine learning for cancer biology"
+  image: 
+  description: 
+  authors: <b><u>S. Wan*</u></b>, C. Jiang, S. Li and Y. Fan
+  link:
+    url: https://www.mdpi.com/2079-7737/11/3/361
+    display:  Biology 11 (3), 361 (2022)
+  highlight: 0
+
+- title: "12. Identification of a modular super-enhancer in murine retinal development"
+  image: 
+  description: 
+  authors: V. Honnell, J. L. Norrie, A. G. Patel, C. Ramirez, J. Zhang, Y. H. Lai, <b><u>S. Wan</u></b> and M. A. Dyer
+  link:
+    url: https://www.nature.com/articles/s41467-021-27924-y
+    display:  Nature Communications 13 (1), 253 (2022)
+  highlight: 0
+
+- title: "13. Improving bulk RNA-seq classification by transferring gene signature from single cells in acute myeloid leukemia"
+  image: aml.PNG
+  authors: R. Wang, X. Zheng, J. Wang, <b><u>S. Wan</u></b>, F. Song, M. H. Wong, K. S. Leung and L. Cheng
+  description: We propose single-cell pair-wise gene expression (scPAGE), a novel method to develop single-cell gene pair signatures (scGPSs) that were beneficial to bulk RNA-seq classification to transfer knowledge across platforms. PAGE was adopted to tackle the challenge of profiling differences. We applied the method to acute myeloid leukemia (AML) and identified the scGPS from mouse scRNA-seq that allowed discriminating between AML and control cells.
+  link:
+    url: https://academic.oup.com/bib/article-abstract/23/2/bbac002/6523149
+    display:  Briefings in Bioinformatics 23 (2), bbac002 (2022)
+  highlight: 0
+  news2:
+
+- title: "14. Editorial: Transcriptional regulation in metabolism and immunology"
+  image: 
+  description: 
+  authors: C. Jiang, <b><u>S. Wan</u></b>, P. Hu, Y. Li and S. Li
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fgene.2022.845697/full
+    display:  Frontiers in Genetics 13, 845697 (2022)
+  highlight: 0
+
+- title: "15. Targeting the spliceosome through RBM39 degradation results in exceptional responses in high-risk neuroblastoma models"
+  image: 
+  description: 
+  authors: S. Singh, W. Quarni, M. Goralski, <b><u>S. Wan</u></b>, H. Jin, L. A. Van de Velde, J. Fang, Q. Wu, A. Abu-Zaid, T. Wang, R. Singh, D. Craft, Y. Fan, T. Confer, M. Johnson, W. J. Akers, R. Wang, P. J. Murray, P. G. Thomas, D. Nijhawan, A. M. Davidoff and J. Yang
+  link:
+    url: https://www.science.org/doi/abs/10.1126/sciadv.abj5405
+    display:  Science Advances 7 (47), eabj5405 (2021)
+  highlight: 0
+  news2:
+
+- title: "16. YAP/TAZ maintain the proliferative capacity and structural organization of radial glial cells during brain development"
+  image: 
+  description: 
+  authors: A. Lavado, R. Gangwar, J. Paré, <b><u>S. Wan</u></b>, Y. Fan and X. Cao
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0012160621002001
+    display:  Developmental Biology 480, 39-49 (2021)
+  highlight: 0
+
+- title: "17. SHARP: hyperfast and accurate processing of single-cell RNA-seq data via ensemble random projection"
+  image: sharp.PNG
+  description: To process large-scale single-cell RNA-sequencing (scRNA-seq) data effectively without excessive distortion during dimension reduction, we present SHARP, an ensemble random projection-based algorithm that is scalable to clustering 10 million cells.
+  authors: <b><u>S. Wan</u></b>, J. Kim and K. J. Won
+  blank: <p> </p>
+  link:
+    url: https://genome.cshlp.org/content/30/2/205.short
+    display: Genome Research 30 (2), 205-213 (2020)
+  highlight: 1
+  news2: 
+
+- title: "18. A critical role for estrogen-related receptor signaling in cardiac maturation"
+  image: 
+  description:
+  authors: T. Sakamoto, T. R. Matsuura, <b><u>S. Wan</u></b>, D. M. Ryba, J. U. Kim, K. J. Won, L. Lai, C. Petucci, N. Petrenko, K. Musunuru, R. B. Vega and D. P. Kelly
+  link:
+    url: https://www.ahajournals.org/doi/abs/10.1161/CIRCRESAHA.119.316100
+    display:  Circulation Research 126 (12), 1685-1702 (2020)
+  highlight: 0
+  news2:
+
+- title: "19. MondoA drives muscle lipid accumulation and insulin resistance"
+  image: 
+  description: 
+  authors: B. Ahn, **<u>S. Wan</u>**, N. Jaiswal, R. B. Vega, D. E. Ayer, P. M. Titchenell, X. Han, K. J. Won and D. P. Kelly
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6693825/
+    display: JCI Insight 4 (15) (2019)
+  highlight: 0
+  news2:
+
+- title: "20. Predicting subcellular localization of multi-location proteins by improving support vector machines with adaptive-decision schemes"
+  image: 
+  description: 
+  authors: <b><u>S. Wan*</u></b> and M.W. Mak*
+  link:
+    url: https://link.springer.com/article/10.1007/s13042-015-0460-4
+    display: International Journal of Machine Learning and Cybernetics 9, 399-411 (2018)
+  highlight: 0
+  news2:
+
+- title: "21. Is congenital amusia a disconnection syndrome? A study combining tract-and network-based analysis"
+  image: 
+  description: 
+  authors: J. Wang, C. Zhang, **<u>S. Wan</u>** and G. Peng
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fnhum.2017.00473/full
+    display: Frontiers in Human Neuroscience 11, 473 (2017)
+  highlight: 0
+  news2:
+
+- title: "22. Gram-LocEN: Interpretable prediction of subcellular multi-localization of Gram-positive and Gram-negative bacterial proteins"
+  image: 
+  description: 
+  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S016974391630452X
+    display: Chemometrics and Intelligent Laboratory Systems 162, 1-9 (2017)
+  highlight: 0
+  news2:
+
+- title: "23. FUEL-mLoc: feature-unified prediction and explanation of multi-localization of cellular proteins in multiple organisms"
+  image: go.PNG
+  description: We present an interpretable and efficient web-server, namely FUEL-mLoc, using Feature-Unified prediction and Explanation of multi-Localization of cellular proteins in multiple organisms.                              
+               This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
+  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung
+  link:
+    url: https://academic.oup.com/bioinformatics/article-abstract/33/5/749/2736075
+    display: Bioinformatics 33 (5), 749-750 (2017)
+  highlight: 1
+  news2:
+
+- title: "27. Transductive learning for multi-label protein subchloroplast localization prediction"
+  image: 
+  description: 
+  authors: <u><b>S. Wan*</b></u>, M.W. Mak* and S.Y. Kung* 
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7401011/
+    display: IEEE/ACM Transactions on Computational Biology and Bioinformatics 14(1), 212–224 (2017)
+  highlight: 0
+  news2:
+
+- title: "24. Ensemble linear neighborhood propagation for predicting subchloroplast localization of multi-location proteins"
+  image: lnp.gif
+  description: This paper proposes a multi-label predictor based on ensemble linear neighborhood propagation (LNP), namely, LNP-Chlo, which leverages hybrid sequence-based feature information from both labeled and unlabeled proteins for predicting localization of both single- and multi-label chloroplast proteins.
+  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.6b00686
+    display: Journal of Proteome Research 15 (12), 4755-4762 (2016)
+  highlight: 1
+  news2:
+
+- title: "25. Benchmark data for identifying multi-functional types of membrane proteins"
+  image: 
+  description: 
+  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung
+  link:
+    url: https://www.data-in-brief.com/article/S2352-3409(16)30312-2/abstract
+    display: Data in Brief 8, 105-107 (2016)
+  highlight: 0
+  news2:
+
+- title: "26. Mem-ADSVM: A two-layer multi-label predictor for identifying multi-functional types of membrane proteins"
+  image: 
+  description: 
+  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022519316001545
+    display: Journal of Theoretical Biology 398, 32-42 (2016)
+  highlight: 0
+  news2:
+
+- title: "28. Sparse regressions for predicting and interpreting subcellular localization of multi-label proteins"
+  image: men.PNG
+  description: This paper proposes using sparse regressions to exploit GO information for both predicting and interpreting subcellular localization of single- and multi-location proteins. Specifically, we compared two multi-label sparse regression algorithms, namely multi-label LASSO (mLASSO) and multi-label elastic net (mEN), for large-scale predictions of protein subcellular localization.
+  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung
+  link:
+    url: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0940-x
+    display: BMC Bioinformatics 17 (1), 1-17 (2016)
+  highlight: 0
+  news2:
+
+- title: "29. Mem-mEN: predicting multi-functional types of membrane proteins by interpretable elastic nets"
+  image: mem-men.png
+  description: This paper proposes an efficient predictor, namely Mem-mEN, which can produce sparse and interpretable solutions for predicting membrane proteins with single- and multi-label functional types.
+  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung*
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7229308/
+    display: IEEE/ACM Transactions on Computational Biology and Bioinformatics 13(4), 706–718 (2016)
+  highlight: 1
+  news2:
+
+- title: "30. mLASSO-Hum: a LASSO-based interpretable human-protein subcellular localization predictor"
+  image: 
+  description: 
+  authors: <b><u>S. Wan*</u></b>, M.W. Mak and S.Y. Kung
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022519315003215
+    display: Journal of Theoretical Biology 382, 223-234 (2015)
+  highlight: 0
+  news2:
+
+- title: "31. mPLR-Loc: An adaptive-decision multi-label classifier based on penalized logistic regression for protein subcellular localization prediction"
+  image: 
+  description: 
+  authors: <b><u>S. Wan</u></b>, M.W. Mak and S.Y. Kung
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0003269714004965
+    display: Analytical Biochemistry 473, 14-27 (2015)
+  highlight: 0
+  news2:
+
+- title: "32. R3P-Loc: A compact multi-label predictor using ridge regression and random projection for protein subcellular localization"
+  image: 
+  description: 
+  authors: <b><u>S. Wan</u></b>, M.W. Mak and S.Y. Kung 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022519314003749
+    display: Journal of Theoretical Biology 360, 34-45 (2014)
+  highlight: 0
+  news2:
+
+- title: "33. HybridGO-Loc: mining hybrid features on gene ontology for predicting subcellular localization of multi-location proteins"
+  image: 
+  description: 
+  authors: <b><u>S. Wan</u></b>, M.W. Mak and S.Y. Kung
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089545
+    display: PloS One 9 (3), e89545 (2014)
+  highlight: 0
+  news2:
+
+- title: "34. Semantic similarity over gene ontology for multi-label protein subcellular localization"
+  image: 
+  description: 
+  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung*
+  link:
+    url: https://www.scirp.org/html/38539.html
+    display: Engineering 5 (10), 68 (2013)
+  highlight: 0
+  news2:
+
+- title: "35. GOASVM: A subcellular location predictor by incorporating term-frequency gene ontology into the general form of Chou's pseudo-amino acid composition"
+  image: 
+  description: 
+  authors: <b><u>S. Wan*</u></b>, M.W. Mak* and S.Y. Kung*
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0022519313000374
+    display: Journal of Theoretical Biology 323, 40-48 (2013)
+  highlight: 0
+  news2:
+
+- title: "36. mGOASVM: Multi-label protein subcellular localization based on gene ontology and support vector machines"
+  image: mGOASVM.PNG
+  description: This paper proposes an efficient multi-label predictor, namely mGOASVM, for predicting the subcellular localization of multi-location proteins.
+  authors: <b><u>S. Wan</u></b>, M.W. Mak and S.Y. Kung
+  link:
+    url: https://link.springer.com/article/10.1186/1471-2105-13-290
+    display: BMC Bioinformatics 13, 1-16 (2012)
+  highlight: 1
+  news2:
+
+
