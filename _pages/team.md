@@ -195,7 +195,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former visitors
+## Alumni
 
 ### Rotation Graduate Students
 {% assign number_printed = 0 %}
