@@ -1,0 +1,180 @@
+
+- title: "1. iS3RGs: Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects, Cancer Research (accepted)."
+  image: 
+  description: 
+  authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
+  highlight: 0
+  news2:
+
+- title: "1. AttentionAML: An attention-based deep learning model for accurate identification of childhood acute myeloid leukemia subtypes, Cancer Research (accepted)."
+  image: 
+  description: 
+  authors: <u>L. Li</u>, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
+  highlight: 0
+  news2:
+  
+- title: "1. Identifying pancreatic cancer subtypes by a novel meta-learning model (accepted)"
+  image: 
+  description: 
+  authors: <u>N. Peterson</u>, <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
+  highlight: 0
+  news2:
+
+- title: "1. Combining random projection and stacking learning for NSCLC subtype classification based on transcriptomic data, Cancer Research (accepted)."
+  image: 
+  description: 
+  authors: <u>X. Wu</u>, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
+  highlight: 0
+  news2:
+
+- title: "1. A weighted multi-modal transfer learning model for alleviating racial disparities in breast cancer, Cancer Research (accepted)."
+  image: 
+  description: 
+  authors: <u>M.J. Baek</u>, <u>L. Li</u>, J. Wang, V. Band and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: AACR Annual Meeting 2025, Chicago, IL, Apr. 2025
+  highlight: 0
+  news2:
+
+- title: "1. RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model, Cancer Research, vol. 84 (6_ Supplement), pp.4907-4907."
+  image: 
+  description: 
+  authors: <u>L. Li</u>, <u>H. Xiao</u>, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: https://aacrjournals.org/cancerres/article/84/6_Supplement/4907/738413
+    display: AACR Annual Meeting 2024, San Diego, CA, Apr. 2024
+  highlight: 0
+  news2:
+
+- title: "1. Reducing health disparities for prostate adenocarcinoma by integrating multi-omics data via a multi-modal transfer learning approach, Cancer Research, vol. 84 (6_ Supplement), pp.4800-4800."
+  image: 
+  description: 
+  authors: <u>L. Li</u>, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: https://aacrjournals.org/cancerres/article/84/6_Supplement/4800/735377
+    display: AACR Annual Meeting 2024, San Diego, CA, Apr. 2024
+  highlight: 0
+  news2:
+  
+- title: "1. SAMP: An accurate ensemble model based on proportionalized split amino acid composition for identifying antimicrobial peptides"
+  image: 
+  description: 
+  authors: <u>J. Feng</u>, <u>M. Sun</u>, W. Zhang, G. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: https://sciforum.net/paper/view/14949
+    display: Antimicrobial Peptides, Yesterday, Today and Tomorrow 2023, Omaha, NE, Oct (2023)
+  highlight: 0
+  news2:
+
+- title: "1. B-cell acute lymphoblastic leukemia subtype identification with an ensemble random projection-based machine learning model"
+  image: 
+  description: 
+  authors: <u>L. Li</u>, <u>H. Xiao</u> and <b><u>S. Wan</u></b>.
+  link:
+    url: https://www.unmc.edu/chri/_documents/2023_chri_conference_abstracts/chri_conference_2023_abstract_li_1.pdf
+    display: CHRI Scientific Conference 2023, Omaha, NE, Nov (2023)
+  highlight: 0
+  news2:
+
+- title: "1. Integrating multi-omics data by a multi-modal transfer learning model to reduce healthcare disparities for kidney renal clear cell carcinoma"
+  image: 
+  description: 
+  authors: <u>L. Li</u> and <b><u>S. Wan</u></b>.
+  link:
+    url: https://www.unmc.edu/chri/_documents/2023_chri_conference_abstracts/chri_conference_2023_abstract_li_2.pdf
+    display: CHRI Scientific Conference 2023, Omaha, NE, Nov (2023)
+  highlight: 0
+  news2:
+
+- title: "1. RanBall: An ensemble random projection-based model for identifying B-cell acute lymphoblastic leukemia subtypes"
+  image: 
+  description: 
+  authors: <u>L. Li</u>, <u>H. Xiao</u> and <b><u>S. Wan</u></b>.
+  link:
+    url: 
+    display: PCRG symposium 2023, Omaha, NE, Aug (2023)
+  highlight: 0
+  news2:
+  
+- title: "1. RNA-seq and chIP-seq profiling identifies genes and pathways dysregulated by hey1-ncoa2 fusion and shed a light on mesenchymal chondrosarcoma tumorigenesis "
+  image: 
+  description: 
+  authors: W. Qi, W. Rosikiewicz, Z. Yin, B. Xu, <b><u>S. Wan</u></b>, Y. Fan, G. Wu and L. Wang.
+  link:
+    url: https://aacrjournals.org/cancerres/article/81/13_Supplement/LB188/670207/Abstract-LB188-RNA-seq-and-chIP-seq-profiling
+    display: AACR Annual Meeting 2021, Philadelphia, PA, Apr (2021)
+  highlight: 0
+  news2:
+
+- title: "2. The estrogen-related receptor (ERR) drives cardiac myocyte maturation in cooperation with GATA4"
+  image: 
+  description:
+  authors: T. Sakamoto, <b><u>S. Wan</u></b>, K. Batmanov and D.P. Kelly.
+  link:
+    url: https://www.ahajournals.org/doi/10.1161/res.127.suppl_1.222
+    display: Circulation Research, 127(A222-A222) (2020)
+  highlight: 0
+  news2: 
+
+- title: "3. Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
+  image: 
+  description: 
+  authors: <b><u>S. Wan</u></b>, J. Kim, Y. Fan and K.J. Won.
+  link:
+    url: 
+    display: Cell Symposia, The Conceptual Power of Single-Cell Biology, San Francisco, CA, USA, Apr (2020). (postponed due to COVID-19 outbreak)
+  highlight: 0
+  news2: 
+
+- title: "4. The estrogen-related receptor coordinates transcription of genes involved in mitochondrial and contractile maturation in human induced pluripotent stem cell-derived cardiac myocytes"
+  image: 
+  description: 
+  authors: T. Sakamoto, <b><u>S. Wan</u></b>, K.J. Won and D.P. Kelly.
+  link:
+    url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.11803
+    display: Circulation, vol. 140 (Suppl_1), pp. A11803-A11803 (2019). (presented in American Heart Association Scientific Session (AHA2019), Philadelphia, PA, USA, Nov (2019)
+  highlight: 0
+  news2:
+
+- title: "5. Estrogen-related receptor signaling is critical for postnatal cardiac maturation"
+  image: 
+  description: 
+  authors: T.R. Matsuura, T. Sakamoto, D.M. Ryba, <b><u>S. Wan</u></b> and D.P. Kelly.
+  link:
+    url: https://www.ahajournals.org/doi/abs/10.1161/circ.140.suppl_1.13898
+    display: Circulation, vol. 140 (Suppl_1), pp. A11803-A11803 (2019). (presented in American Heart Association Scientific Session (AHA2019), Philadelphia, PA, USA)
+  highlight: 0
+  news2:
+
+- title: "6. MondoA mediates myocyte lipid accumulation and insulin resistance driven by chronic nutrient excess"
+  image: 
+  description: 
+  authors: B. Ahn, <b><u>S. Wan</u></b>, K.J. Won, N. Jaiswal, P.M. Titchenell and D.P. Kelly.
+  link:
+    url: 
+    display: American Diabetes Association's 79th Scientific Sessions (ADA2019), San Francisco, CA, USA, Jun (2019) (oral)
+  highlight: 0
+  news2:
+
+- title: "7. Hyper-fast and accurate processing of large-scale single-cell transcriptomics data via ensemble random projection"
+  image: 
+  description: 
+  authors: <b><u>S. Wan</u></b>, J. Kim and K.J. Won.
+  link:
+    url: https://www.iscb.org/cms_addon/conferences/rsg2018/posters.php?session=DREAM
+    display: RECOMB/ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges (RSG DREAM 2018), New York, USA, Dec (2018)
+  highlight: 0
+  news2:
