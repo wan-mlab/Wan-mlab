@@ -1,0 +1,103 @@
+- title: "1. Processing millions of single cells by SHARP"
+  image: 
+  description:
+  authors: <b><u>S. Wan</u></b>, J. Kim and K.J. Won.
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3388440.3414214
+    display:  The 11th ACM Conference on Bioinformatics, Computational Biology and Health Informatics (ACM BCB 2020), virtual online, Sep (2020)
+  highlight: 0
+  news2: 
+
+- title: "2. Hyper-fast and accurate clustering of ultra-large-scale single-cell data with ensemble random projection"
+  image: 
+  description:
+  authors: <b><u>S. Wan</u></b>, J. Kim, Y. Fan and K.J. Won.
+  link:
+    url: 
+    display:  The 2020 International Conference on Machine Learning (ICML) Workshop on Computational Biology, virtual online, Jul (2020)
+  highlight: 0
+  news2:
+
+
+- title: "3. Protecting genomic privacy by a sequence-similarity based obfuscation method"
+  image: 
+  description:
+  authors: <b><u>S. Wan</u></b>, M.W. Mak and S.Y. Kung.
+  link:
+    url: https://arxiv.org/abs/1708.02629
+    display: 2017, arXiv preprint arXiv, 1708.02629 (2017)
+  highlight: 0
+  news2:
+
+
+
+- title: "4. Ratio utility and cost analysis for privacy preserving subspace projection"
+  image: 
+  description:
+  authors: <b><u>S. Wan</u></b> and S.Y. Kung.
+  link:
+    url: https://arxiv.org/abs/1702.07976
+    display: 2017, arXiv preprint arXiv, 1702.07976 (2017)
+  highlight: 0
+  news2:
+
+- title: "5. Ensemble random projection for multi-label classification with application to protein subcellular localization"
+  image: 
+  description: 
+  authors: <b><u>S. Wan</u></b>, M.W. Mak, B. Zhang, Y. Wang and S.Y. Kung.
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6854755/
+    display:  2014 IEEE International Conference on Acoustic Speech and Signal Processing (ICASSP'14), Florence, Italy, May 2014, pp. 5999-6003 (2014)
+  highlight: 0
+  news2:
+  
+- title: "6. An ensemble classifier with random projection for predicting multi-label protein subcellular localization"
+  image: 
+  description: 
+  authors: <b><u>S. Wan</u></b>, M.W. Mak, B. Zhang, Y. Wang and S.Y. Kung.
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6732715/
+    display: The 2013 IEEE International Conference on Bioinformatics and Biomedicine (BIBM'2013), Shanghai, China, Dec. 2013, pp. 35-42 (2013)
+  highlight: 0
+  news2:
+
+- title: "7. Adaptive thresholding for multi-label SVM classification with application to protein subcellular localization prediction"
+  image: 
+  description: 
+  authors: <b><u>S. Wan</u></b>, M.W. Mak and S.Y. Kung.
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6638318/
+    display: 2013 IEEE International Conference on Acoustic Speech and Signal Processing (ICASSP'13), Vancouver, Canada, May 2013, pp. 3547-3551 (2013)
+  highlight: 0
+  news2:
+
+- title: "8. GOASVM: Protein subcellular localization prediction based on Gene ontology annotation and SVM"
+  image: 
+  description: 
+  authors: <b><u>S. Wan</u></b>, M.W. Mak and S.Y. Kung.
+  link:
+    url: https://ieeexplore.ieee.org/document/6288356?reload=true&arnumber=6288356&contentType=Conference%20Publications
+    display: 2012 IEEE International Conference on Acoustic Speech and Signal Processing (ICASSP'12), Kyoto, Japan, Mar. 2012, pp. 2229-2232 (2012)
+  highlight: 0
+  news2:
+  
+  
+- title: "9. Protein subcellular localization prediction based on profile alignment and Gene Ontology"
+  image: 
+  description: 
+  authors:  <b><u>S. Wan</u></b>, M.W. Mak and S.Y. Kung.
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6064613/
+    display: 2011 IEEE International Workshop on Machine Learning for Signal Processing (MLSP'11), Beijing, China, Sep. 2011, pp. 1-6 (2011)
+  highlight: 0
+  news2:
+
+- title: "10. A method of continuous data flow embedded within speech signals"
+  image: 
+  description: 
+  authors:  <b><u>S. Wan</u></b>, C. Yao, Y. Hu and G. Zhang.
+  link:
+    url: https://ieeexplore.ieee.org/document/5432775
+    display: The 2-nd International Conference on Signal Acquisition and Processing (ICSAP’10), Bangalore, India, Feb. 2010, pp. 362-365 (2010)
+  highlight: 0
+  news2:
