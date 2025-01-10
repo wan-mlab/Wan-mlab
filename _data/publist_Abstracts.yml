@@ -49,6 +49,67 @@
   highlight: 0
   news2:
 
+- title: "1. Identifying antimicrobial peptides based on proportionalized split pseudo amino acid compositions"
+  image: 
+  description: 
+  authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: International Conference on Intelligent Biology and Medicine (ICIBM 2024), Houston, TX, Sep. 2024
+  highlight: 0
+  news2:
+  
+- title: "1. Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects"
+  image: 
+  description: 
+  authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: International Conference on Intelligent Biology and Medicine (ICIBM 2024), Houston, TX, Sep. 2024
+  highlight: 0
+  news2:
+
+- title: "1. Pediatric acute myeloid leukemia classification via multi-modal ensemble learning"
+  image: 
+  description: 
+  authors: <u>L. Li</u>, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: International Conference on Intelligent Biology and Medicine (ICIBM 2024), Houston, TX, Sep. 2024
+  highlight: 0
+  news2:
+
+- title: "1. WIMOAD: Weighted integration of multi-omics data for Alzheimer’s Disease (AD) diagnosis"
+  image: 
+  description: 
+  authors: <u>H. Xiao</u>, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: International Conference on Intelligent Biology and Medicine (ICIBM 2024), Houston, TX, Sep. 2024
+  highlight: 0
+  news2:
+
+
+- title: "1. iS3RGs: Discriminating diverse medulloblastoma subtypes by leveraging heterogenous transcriptome data with batch effects"
+  image: 
+  description: 
+  authors: <u>M. Sun</u>, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: Pediatric Cancer Research Symposium, Omaha, NE, Aug. 2024
+  highlight: 0
+  news2:
+
+- title: "1. AttentionAML: An attention-based deep learning model for identifying acute myeloid leukemia subtypes"
+  image: 
+  description: 
+  authors: <u>L. Li</u>, J. Khoury, J. Wang and <b><u>S. Wan*</u></b>.
+  link:
+    url: 
+    display: Pediatric Cancer Research Symposium, Omaha, NE, Aug. 2024
+  highlight: 0
+  news2:
+  
 - title: "1. RanBALL: Identifying B-cell acute lymphoblastic leukemia subtypes based on an ensemble random projection model, Cancer Research, vol. 84 (6_ Supplement), pp.4907-4907."
   image: 
   description: 
