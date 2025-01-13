@@ -71,18 +71,19 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %} 
-### Conference Papers
-{% for publi_ in site.data.publist_ %}
-
-  {{ publi_.title }} <br />
-  <em>{{ publi_.authors }} </em><br /><a href="{{ publi_.link.url }}">{{ publi_.link.display }}</a>
-
-{% endfor %}
 
 ### Conference Abstracts
 {% for publi_abstracts in site.data.publist_Abstracts %}
 
   {{ publi_abstracts.title }} <br />
   <em>{{ publi_abstracts.authors }} </em><br /><a href="{{ publi_abstracts.link.url }}">{{ publi_abstracts.link.display }}</a>
+
+{% endfor %}
+
+### Conference Papers
+{% for publi_ in site.data.publist_ %}
+
+  {{ publi_.title }} <br />
+  <em>{{ publi_.authors }} </em><br /><a href="{{ publi_.link.url }}">{{ publi_.link.display }}</a>
 
 {% endfor %}
