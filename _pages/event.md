@@ -33,6 +33,66 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Paper/Title</b></td>
                 <td height = "50"><b>Room</b></td>
             </tr>
+             <tr>
+                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">07/08/2025</td>
+                <td height = "50">KAN: Kolmogorov–Arnold Networks​​</td>
+                <td height = "50">6003</td>
+            </tr>            
+            <tr>
+                <td height = "50">Yanan Lou</td>
+                <td height = "50">06/24/2025</td>
+                <td height = "50">Maximum Diversity Clustering</td>
+                <td height = "50">6003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Nicholas Peterson</td>
+                <td height = "50">06/10/2025</td>
+                <td height = "50">Cluster-based Similarity Partitioning Algorithm (CSPA)​​</td>
+                <td height = "50">6003</td>
+            </tr>              
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">05/27/2025</td>
+                <td height = "50">Bayesian Neural Network​​</td>
+                <td height = "50">6003</td>
+            </tr>              
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">05/13/2025</td>
+                <td height = "50">Large Language Models​​</td>
+                <td height = "50">6003</td>
+            </tr>              
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">04/29/2025</td>
+                <td height = "50">Generative Pre-trained Transformer (GPT)​​</td>
+                <td height = "50">6003</td>
+            </tr>              
+            <tr>
+                <td height = "50">Lusheng Li</td>
+                <td height = "50">04/15/2025</td>
+                <td height = "50">Kullback–Leibler Divergence​​</td>
+                <td height = "50">6003</td>
+            </tr>              
+            <tr>
+                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">04/01/2025</td>
+                <td height = "50">Transfer Entropy​​</td>
+                <td height = "50">6003</td>
+            </tr>
+            <tr>
+                <td height = "50">Anulika Pearl Nwashili</td>
+                <td height = "50">03/18/2025</td>
+                <td height = "50">Spectral Clustering​​</td>
+                <td height = "50">6003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Yanan Lou</td>
+                <td height = "50">03/04/2025</td>
+                <td height = "50">Mutual Nearest Neighbor​​</td>
+                <td height = "50">6003</td>
+            </tr>            
             <tr>
                 <td height = "50">Nicholas Peterson</td>
                 <td height = "50">02/18/2025</td>
