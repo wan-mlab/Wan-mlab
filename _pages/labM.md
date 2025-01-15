@@ -27,12 +27,12 @@ permalink: /labm/
                 <td height = "50"><b>Room</b></td>
             </tr>
             <tr>
-                <td height = "50">Hanyu Xiao</td>
+                <td height = "50">Yanan Lou</td>
                 <td height = "50">02/28/2025</td>
                 <td height = "50">7003</td>
             </tr>               
             <tr>
-                <td height = "50">Yanan Lou</td>
+                <td height = "50">Hanyu Xiao</td>
                 <td height = "50">02/21/2025</td>
                 <td height = "50">7003</td>
             </tr>              
