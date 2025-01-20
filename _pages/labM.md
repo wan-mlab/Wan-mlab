@@ -42,17 +42,17 @@ permalink: /labm/
                 <td height = "50">7003</td>
             </tr>              
             <tr>
-                <td height = "50">Nick Peterson </td>
+                <td height = "50">Lusheng Li</td>
                 <td height = "50">02/07/2025</td>
                 <td height = "50">7003</td>
             </tr>              
             <tr>
-                <td height = "50">Xinchao Wu</td>
+                <td height = "50">Nick Peterson</td>
                 <td height = "50">01/31/2025</td>
                 <td height = "50">7003</td>
             </tr>              
             <tr>
-                <td height = "50">Lusheng Li</td>
+                <td height = "50">Xinchao Wu</td>
                 <td height = "50">01/24/2025</td>
                 <td height = "50">7003</td>
             </tr>  
