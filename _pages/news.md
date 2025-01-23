@@ -6,6 +6,9 @@ permalink: /news/
 ---
 
 # News
+01-23-2025
+<h> Shibiao is invited to be a <b>Search Committee Member</b> for <b>Data Science Faculty</b> of <b>College of Allied Health Professions</b> at UNMC.</h>
+<br>
 01-13-2025
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>NIH Special Emphasis Panel (SEP) in Health Services and Systems Review Branch (HSS)</b>.</h>
 <br>
