@@ -32,55 +32,67 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
                 <td height = "50"><b>Date</b></td>
                 <td height = "50"><b>Paper/Title</b></td>
                 <td height = "50"><b>Room</b></td>
+            </tr>
+            <tr>
+                <td height = "50">Min-jeong Baek</td>
+                <td height = "50">11/11/2025</td>
+                <td height = "50">Federated Learning</td>
+                <td height = "50">6003</td>
+            </tr>             
+            <tr>
+                <td height = "50">Mengtao Sun</td>
+                <td height = "50">10/28/2025</td>
+                <td height = "50">Transfer Entropy​​</td>
+                <td height = "50">6003</td>
+            </tr>              
+            <tr>
+                <td height = "50">Xinchao Wu</td>
+                <td height = "50">10/14/2025</td>
+                <td height = "50">KAN: Kolmogorov–Arnold Networks​​</td>
+                <td height = "50">6003</td>
             </tr>             
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">10/14/2025</td>
+                <td height = "50">09/30/2025</td>
                 <td height = "50">Alternating Direction Method of Multipliers (ADMM)​​</td>
                 <td height = "50">6003</td>
             </tr>            
             <tr>
                 <td height = "50">Yanan Lou</td>
-                <td height = "50">09/30/2025</td>
+                <td height = "50">09/16/2025</td>
                 <td height = "50">Linear Neighborhood Propagation</td>
                 <td height = "50">6003</td>
             </tr>             
             <tr>
                 <td height = "50">Nicholas Peterson</td>
-                <td height = "50">09/16/2025</td>
+                <td height = "50">09/02/2025</td>
                 <td height = "50">Kernel Learning</td>
                 <td height = "50">6003</td>
             </tr>              
             <tr>
                 <td height = "50">Min-jeong Baek</td>
-                <td height = "50">09/02/2025</td>
+                <td height = "50">08/19/2025</td>
                 <td height = "50">Canonical Correlation Analysis--Seurat v2​​</td>
                 <td height = "50">6003</td>
             </tr>              
             <tr>
                 <td height = "50">Mengtao Sun</td>
-                <td height = "50">08/19/2025</td>
+                <td height = "50">08/05/2025</td>
                 <td height = "50">DBSCAN​​</td>
                 <td height = "50">6003</td>
             </tr>              
             <tr>
                 <td height = "50">Xinchao Wu</td>
-                <td height = "50">08/05/2025</td>
-                <td height = "50">Federated Learning​​</td>
+                <td height = "50">07/22/2025</td>
+                <td height = "50">Optimal Transport​​</td>
                 <td height = "50">6003</td>
             </tr>              
             <tr>
                 <td height = "50">Lusheng Li</td>
-                <td height = "50">07/22/2025</td>
+                <td height = "50">07/08/2025</td>
                 <td height = "50">Wasserstein Distance​​</td>
                 <td height = "50">6003</td>
-            </tr>                
-            <tr>
-                <td height = "50">Hanyu Xiao</td>
-                <td height = "50">07/08/2025</td>
-                <td height = "50">KAN: Kolmogorov–Arnold Networks​​</td>
-                <td height = "50">6003</td>
-            </tr>            
+            </tr>                       
             <tr>
                 <td height = "50">Yanan Lou</td>
                 <td height = "50">06/24/2025</td>
@@ -120,7 +132,7 @@ The Zoom link is <a href="https://unmc.zoom.us/j/94435819629?pwd=R1A5Qnhtd1g0ZHl
             <tr>
                 <td height = "50">Hanyu Xiao</td>
                 <td height = "50">04/01/2025</td>
-                <td height = "50">Transfer Entropy​​</td>
+                <td height = "50">Tabular Prior-data Fitted Network (TabPFN)</td>
                 <td height = "50">6003</td>
             </tr>
             <tr>
