@@ -34,7 +34,7 @@ permalink: /news/
 <h>Shibiao is invited to be a <b>Grant Reviewer</b> for <b>UNMC College of Public Health Innovation Fund</b>.</h>
 <br>
 11-22-2024
-<h> An article titled “SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based on Proportionalized Split Amino Acid Composition” is published at the journal <b>Briefings in Functional Genomics</b> (IF 2.5). The link is <a  href="https://academic.oup.com/bfg/advance-article/doi/10.1093/bfgp/elae046/7906678?utm_source=authortollfreelink&utm_campaign=bfg&utm_medium=email&guestAccessKey=fe3ef938-e6db-4789-93c7-4aecc4d9feab&login=false">here</a>. Congratulations to <b>Junxi, Mengtao</b> and <b>Andy</b>!</h>
+<h> An article titled “SAMP: Identifying Antimicrobial Peptides by an Ensemble Learning Model Based on Proportionalized Split Amino Acid Composition” is published at the journal <b>Briefings in Functional Genomics</b>. The link is <a  href="https://academic.oup.com/bfg/advance-article/doi/10.1093/bfgp/elae046/7906678?utm_source=authortollfreelink&utm_campaign=bfg&utm_medium=email&guestAccessKey=fe3ef938-e6db-4789-93c7-4aecc4d9feab&login=false">here</a>. Congratulations to <b>Junxi, Mengtao</b> and <b>Andy</b>!</h>
 <br>
 11-15-2024
 <h> A collaboration research article preprint “Functional Connectivity Alterations in Cocaine Use Disorder: Insights from the Triple Network Model and the Addictions Neuroclinical Assessment Framework” is online at <b>bioRxiv</b>. The link is <a  href="https://www.biorxiv.org/content/10.1101/2024.11.12.623073v1">here</a>.</h>
@@ -52,7 +52,7 @@ permalink: /news/
 <h> Shibiao is invited to be a <b>Grant Reviewer</b> for <b>CQDM (Consortium Québécois sur la Découverte du Médicament, or Quebec Consortium for Drug Discovery)</b> in Canada.  </h>
 <br>
 10-04-2024
-<h> A collaboration review article on brain age estimation with Dr. Wang from UNMC is published by <b>Briefings in Functional Genomics</b> (IF 2.5). The link is <a  href="https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae042/7831150?utm_source=advanceaccess&utm_campaign=bfg&utm_medium=email">here</a>.</h>
+<h> A collaboration review article on brain age estimation with Dr. Wang from UNMC is published by <b>Briefings in Functional Genomics</b>. The link is <a  href="https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae042/7831150?utm_source=advanceaccess&utm_campaign=bfg&utm_medium=email">here</a>.</h>
 <br>
 10-01-2024
 <h> Shibiao is appointed as an <b>Assistant Professor (courtesy)</b> in the <b>Department of Biostatistics</b> at the College of Public Health of UNMC.</h>
